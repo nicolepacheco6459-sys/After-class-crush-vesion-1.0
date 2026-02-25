@@ -1,0 +1,5070 @@
+fileFormatVersion: 2
+guid: 87f5588eae904e04fbeeaa15f7ef447b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6178340867078905171
+    second: Tank_Brown_Divided_32x32_0
+  - first:
+      213: -5599842132927513140
+    second: Tank_Brown_Divided_32x32_1
+  - first:
+      213: -4241243972139608050
+    second: Tank_Brown_Divided_32x32_2
+  - first:
+      213: 3701082184283950896
+    second: Tank_Brown_Divided_32x32_3
+  - first:
+      213: 4606937913109817458
+    second: Tank_Brown_Divided_32x32_4
+  - first:
+      213: 1248178597454886773
+    second: Tank_Brown_Divided_32x32_5
+  - first:
+      213: -7697491229208285161
+    second: Tank_Brown_Divided_32x32_6
+  - first:
+      213: -4984175863460387745
+    second: Tank_Brown_Divided_32x32_7
+  - first:
+      213: -2188794541558165891
+    second: Tank_Brown_Divided_32x32_8
+  - first:
+      213: -5397304656793593556
+    second: Tank_Brown_Divided_32x32_9
+  - first:
+      213: -4231303534992226338
+    second: Tank_Brown_Divided_32x32_10
+  - first:
+      213: 6755993594425762798
+    second: Tank_Brown_Divided_32x32_11
+  - first:
+      213: 4654923589730108270
+    second: Tank_Brown_Divided_32x32_12
+  - first:
+      213: -7885394438326526187
+    second: Tank_Brown_Divided_32x32_13
+  - first:
+      213: -2784955201233547050
+    second: Tank_Brown_Divided_32x32_14
+  - first:
+      213: 4501860017065635199
+    second: Tank_Brown_Divided_32x32_15
+  - first:
+      213: -779710746917853010
+    second: Tank_Brown_Divided_32x32_16
+  - first:
+      213: 6989927616703240241
+    second: Tank_Brown_Divided_32x32_17
+  - first:
+      213: 1956011197526663072
+    second: Tank_Brown_Divided_32x32_18
+  - first:
+      213: -516700052104711098
+    second: Tank_Brown_Divided_32x32_19
+  - first:
+      213: 6188153289067734674
+    second: Tank_Brown_Divided_32x32_20
+  - first:
+      213: -716191517126429357
+    second: Tank_Brown_Divided_32x32_21
+  - first:
+      213: -8471272727192682038
+    second: Tank_Brown_Divided_32x32_22
+  - first:
+      213: -3226151820495710241
+    second: Tank_Brown_Divided_32x32_23
+  - first:
+      213: -4581993462928250740
+    second: Tank_Brown_Divided_32x32_24
+  - first:
+      213: 9178112635523304827
+    second: Tank_Brown_Divided_32x32_25
+  - first:
+      213: -6495260935184999384
+    second: Tank_Brown_Divided_32x32_26
+  - first:
+      213: -3243486479454835832
+    second: Tank_Brown_Divided_32x32_27
+  - first:
+      213: -7174753838457067227
+    second: Tank_Brown_Divided_32x32_28
+  - first:
+      213: -7802275597734713685
+    second: Tank_Brown_Divided_32x32_29
+  - first:
+      213: 3649617058752946967
+    second: Tank_Brown_Divided_32x32_30
+  - first:
+      213: -1925497734154394403
+    second: Tank_Brown_Divided_32x32_31
+  - first:
+      213: -540654670835397570
+    second: Tank_Brown_Divided_32x32_32
+  - first:
+      213: 7896486614982997173
+    second: Tank_Brown_Divided_32x32_33
+  - first:
+      213: -3757836463090028766
+    second: Tank_Brown_Divided_32x32_34
+  - first:
+      213: 4879101260454974115
+    second: Tank_Brown_Divided_32x32_35
+  - first:
+      213: 2209219730270665684
+    second: Tank_Brown_Divided_32x32_36
+  - first:
+      213: -3028182194493338893
+    second: Tank_Brown_Divided_32x32_37
+  - first:
+      213: 1992617583349702664
+    second: Tank_Brown_Divided_32x32_38
+  - first:
+      213: -5703352796725959939
+    second: Tank_Brown_Divided_32x32_39
+  - first:
+      213: 2319597269838317616
+    second: Tank_Brown_Divided_32x32_40
+  - first:
+      213: -7674657458180918860
+    second: Tank_Brown_Divided_32x32_41
+  - first:
+      213: -8769301305460105774
+    second: Tank_Brown_Divided_32x32_42
+  - first:
+      213: -2512867401251796514
+    second: Tank_Brown_Divided_32x32_43
+  - first:
+      213: 8726136314861481139
+    second: Tank_Brown_Divided_32x32_44
+  - first:
+      213: 9113240534186623368
+    second: Tank_Brown_Divided_32x32_45
+  - first:
+      213: -4962979895585847958
+    second: Tank_Brown_Divided_32x32_46
+  - first:
+      213: -1979597566710137992
+    second: Tank_Brown_Divided_32x32_47
+  - first:
+      213: 3542399569711599931
+    second: Tank_Brown_Divided_32x32_48
+  - first:
+      213: -286462352994629677
+    second: Tank_Brown_Divided_32x32_49
+  - first:
+      213: -3129644498045212839
+    second: Tank_Brown_Divided_32x32_50
+  - first:
+      213: 8833985339872878143
+    second: Tank_Brown_Divided_32x32_51
+  - first:
+      213: 2049285068263919016
+    second: Tank_Brown_Divided_32x32_52
+  - first:
+      213: -3989098112420389373
+    second: Tank_Brown_Divided_32x32_53
+  - first:
+      213: -2444501662188402723
+    second: Tank_Brown_Divided_32x32_54
+  - first:
+      213: 5035666291426273270
+    second: Tank_Brown_Divided_32x32_55
+  - first:
+      213: 7065384120505768491
+    second: Tank_Brown_Divided_32x32_56
+  - first:
+      213: -5920534574864755274
+    second: Tank_Brown_Divided_32x32_57
+  - first:
+      213: 7985056279561434868
+    second: Tank_Brown_Divided_32x32_58
+  - first:
+      213: 357316557900788880
+    second: Tank_Brown_Divided_32x32_59
+  - first:
+      213: 3691676836480701614
+    second: Tank_Brown_Divided_32x32_60
+  - first:
+      213: -3703988932016107850
+    second: Tank_Brown_Divided_32x32_61
+  - first:
+      213: -5063368365126298266
+    second: Tank_Brown_Divided_32x32_62
+  - first:
+      213: -6907364142530400845
+    second: Tank_Brown_Divided_32x32_63
+  - first:
+      213: -5404777003200995492
+    second: Tank_Brown_Divided_32x32_64
+  - first:
+      213: 2161521863090330247
+    second: Tank_Brown_Divided_32x32_65
+  - first:
+      213: -2141601972151489248
+    second: Tank_Brown_Divided_32x32_66
+  - first:
+      213: 6132609107726965602
+    second: Tank_Brown_Divided_32x32_67
+  - first:
+      213: 3657209146761864123
+    second: Tank_Brown_Divided_32x32_68
+  - first:
+      213: 1563059950924737716
+    second: Tank_Brown_Divided_32x32_69
+  - first:
+      213: -6335720339982711428
+    second: Tank_Brown_Divided_32x32_70
+  - first:
+      213: -3668588444659088426
+    second: Tank_Brown_Divided_32x32_71
+  - first:
+      213: -7882943436730451523
+    second: Tank_Brown_Divided_32x32_72
+  - first:
+      213: -8723650805597158662
+    second: Tank_Brown_Divided_32x32_73
+  - first:
+      213: -6612300625110577954
+    second: Tank_Brown_Divided_32x32_74
+  - first:
+      213: 8092583274538501194
+    second: Tank_Brown_Divided_32x32_75
+  - first:
+      213: 8444685511237359017
+    second: Tank_Brown_Divided_32x32_76
+  - first:
+      213: 8530992266542508750
+    second: Tank_Brown_Divided_32x32_77
+  - first:
+      213: 5064449081351958393
+    second: Tank_Brown_Divided_32x32_78
+  - first:
+      213: 4350280049794182452
+    second: Tank_Brown_Divided_32x32_79
+  - first:
+      213: -6738670585681509225
+    second: Tank_Brown_Divided_32x32_80
+  - first:
+      213: -6562770816566225013
+    second: Tank_Brown_Divided_32x32_81
+  - first:
+      213: -1422135841274965628
+    second: Tank_Brown_Divided_32x32_82
+  - first:
+      213: 1566272914032843401
+    second: Tank_Brown_Divided_32x32_83
+  - first:
+      213: 8524073644683849387
+    second: Tank_Brown_Divided_32x32_84
+  - first:
+      213: 1562638647892441226
+    second: Tank_Brown_Divided_32x32_85
+  - first:
+      213: -3225457974889782457
+    second: Tank_Brown_Divided_32x32_86
+  - first:
+      213: -2830849096390627364
+    second: Tank_Brown_Divided_32x32_87
+  - first:
+      213: 6859546088126084353
+    second: Tank_Brown_Divided_32x32_88
+  - first:
+      213: 6095985784887327376
+    second: Tank_Brown_Divided_32x32_89
+  - first:
+      213: 3347688448330924128
+    second: Tank_Brown_Divided_32x32_90
+  - first:
+      213: 8579888761240811513
+    second: Tank_Brown_Divided_32x32_91
+  - first:
+      213: -4820222582203227963
+    second: Tank_Brown_Divided_32x32_92
+  - first:
+      213: -1522227872104945501
+    second: Tank_Brown_Divided_32x32_93
+  - first:
+      213: -2303657373216225966
+    second: Tank_Brown_Divided_32x32_94
+  - first:
+      213: 7434735784071461266
+    second: Tank_Brown_Divided_32x32_95
+  - first:
+      213: 1487633833703739073
+    second: Tank_Brown_Divided_32x32_96
+  - first:
+      213: -256608310531319259
+    second: Tank_Brown_Divided_32x32_97
+  - first:
+      213: -4578801707747605693
+    second: Tank_Brown_Divided_32x32_98
+  - first:
+      213: 8099928085073345246
+    second: Tank_Brown_Divided_32x32_99
+  - first:
+      213: 1908557020061568431
+    second: Tank_Brown_Divided_32x32_100
+  - first:
+      213: -1521737874906448018
+    second: Tank_Brown_Divided_32x32_101
+  - first:
+      213: 6672029446142646263
+    second: Tank_Brown_Divided_32x32_102
+  - first:
+      213: 537910264905478462
+    second: Tank_Brown_Divided_32x32_103
+  - first:
+      213: 8034629858133548845
+    second: Tank_Brown_Divided_32x32_104
+  - first:
+      213: -1862493997493568184
+    second: Tank_Brown_Divided_32x32_105
+  - first:
+      213: 1817457168314826284
+    second: Tank_Brown_Divided_32x32_106
+  - first:
+      213: 8077405355517069262
+    second: Tank_Brown_Divided_32x32_107
+  - first:
+      213: -2782241313015497227
+    second: Tank_Brown_Divided_32x32_108
+  - first:
+      213: -1396332714122963066
+    second: Tank_Brown_Divided_32x32_109
+  - first:
+      213: 1309697288354125894
+    second: Tank_Brown_Divided_32x32_110
+  - first:
+      213: -8979326172586093045
+    second: Tank_Brown_Divided_32x32_111
+  - first:
+      213: -6688276065082962018
+    second: Tank_Brown_Divided_32x32_112
+  - first:
+      213: -7443713472100989135
+    second: Tank_Brown_Divided_32x32_113
+  - first:
+      213: 6782022136191836100
+    second: Tank_Brown_Divided_32x32_114
+  - first:
+      213: 7297965954353513572
+    second: Tank_Brown_Divided_32x32_115
+  - first:
+      213: 4555820259667789181
+    second: Tank_Brown_Divided_32x32_116
+  - first:
+      213: 4378110597350621530
+    second: Tank_Brown_Divided_32x32_117
+  - first:
+      213: 3315409060761866255
+    second: Tank_Brown_Divided_32x32_118
+  - first:
+      213: 4873507234632641565
+    second: Tank_Brown_Divided_32x32_119
+  - first:
+      213: -7159943616648827115
+    second: Tank_Brown_Divided_32x32_120
+  - first:
+      213: -3360546145566501148
+    second: Tank_Brown_Divided_32x32_121
+  - first:
+      213: 34808357913504739
+    second: Tank_Brown_Divided_32x32_122
+  - first:
+      213: 739461111546394923
+    second: Tank_Brown_Divided_32x32_123
+  - first:
+      213: -2052599653731119720
+    second: Tank_Brown_Divided_32x32_124
+  - first:
+      213: -6804657149382462460
+    second: Tank_Brown_Divided_32x32_125
+  - first:
+      213: -8703858170219548257
+    second: Tank_Brown_Divided_32x32_126
+  - first:
+      213: -8276964158191750868
+    second: Tank_Brown_Divided_32x32_127
+  - first:
+      213: 5889561507617623751
+    second: Tank_Brown_Divided_32x32_128
+  - first:
+      213: -2906018983593929866
+    second: Tank_Brown_Divided_32x32_129
+  - first:
+      213: -6659147570231682714
+    second: Tank_Brown_Divided_32x32_130
+  - first:
+      213: 7982087797378762944
+    second: Tank_Brown_Divided_32x32_131
+  - first:
+      213: -485222426107942011
+    second: Tank_Brown_Divided_32x32_132
+  - first:
+      213: -1907437479978130475
+    second: Tank_Brown_Divided_32x32_133
+  - first:
+      213: 8798226577601845455
+    second: Tank_Brown_Divided_32x32_134
+  - first:
+      213: -722363796023313749
+    second: Tank_Brown_Divided_32x32_135
+  - first:
+      213: 5786395700110527844
+    second: Tank_Brown_Divided_32x32_136
+  - first:
+      213: 5036060809310307609
+    second: Tank_Brown_Divided_32x32_137
+  - first:
+      213: -7312825761692625823
+    second: Tank_Brown_Divided_32x32_138
+  - first:
+      213: -3478734995196209440
+    second: Tank_Brown_Divided_32x32_139
+  - first:
+      213: -8971497956257998946
+    second: Tank_Brown_Divided_32x32_140
+  - first:
+      213: 6120087765952882889
+    second: Tank_Brown_Divided_32x32_141
+  - first:
+      213: 8503927955663621253
+    second: Tank_Brown_Divided_32x32_142
+  - first:
+      213: -9210614289585350692
+    second: Tank_Brown_Divided_32x32_143
+  - first:
+      213: 5390540484662969880
+    second: Tank_Brown_Divided_32x32_144
+  - first:
+      213: -338918713586430428
+    second: Tank_Brown_Divided_32x32_145
+  - first:
+      213: -6391119522646712617
+    second: Tank_Brown_Divided_32x32_146
+  - first:
+      213: -6409631478255466521
+    second: Tank_Brown_Divided_32x32_147
+  - first:
+      213: -3099368040366995089
+    second: Tank_Brown_Divided_32x32_148
+  - first:
+      213: 1614861108767694690
+    second: Tank_Brown_Divided_32x32_149
+  - first:
+      213: 5819845982504950486
+    second: Tank_Brown_Divided_32x32_150
+  - first:
+      213: -4463700170494831984
+    second: Tank_Brown_Divided_32x32_151
+  - first:
+      213: 1048323420882869086
+    second: Tank_Brown_Divided_32x32_152
+  - first:
+      213: 8193272512040813615
+    second: Tank_Brown_Divided_32x32_153
+  - first:
+      213: -2867633000862269349
+    second: Tank_Brown_Divided_32x32_154
+  - first:
+      213: 5172916725916732396
+    second: Tank_Brown_Divided_32x32_155
+  - first:
+      213: -161993770261624117
+    second: Tank_Brown_Divided_32x32_156
+  - first:
+      213: 4427769258205037880
+    second: Tank_Brown_Divided_32x32_157
+  - first:
+      213: 5142854909094663874
+    second: Tank_Brown_Divided_32x32_158
+  - first:
+      213: 7360090730069195265
+    second: Tank_Brown_Divided_32x32_159
+  - first:
+      213: -2642393773456386426
+    second: Tank_Brown_Divided_32x32_160
+  - first:
+      213: 6770140442120740876
+    second: Tank_Brown_Divided_32x32_161
+  - first:
+      213: -5060569051823444215
+    second: Tank_Brown_Divided_32x32_162
+  - first:
+      213: -7683379499270653217
+    second: Tank_Brown_Divided_32x32_163
+  - first:
+      213: 348586882810759761
+    second: Tank_Brown_Divided_32x32_164
+  - first:
+      213: 3876288010995446216
+    second: Tank_Brown_Divided_32x32_165
+  - first:
+      213: -3127608165331833939
+    second: Tank_Brown_Divided_32x32_166
+  - first:
+      213: -8237900036581475143
+    second: Tank_Brown_Divided_32x32_167
+  - first:
+      213: -4430175780812433380
+    second: Tank_Brown_Divided_32x32_168
+  - first:
+      213: 3271002102729246164
+    second: Tank_Brown_Divided_32x32_169
+  - first:
+      213: -6215762389543557179
+    second: Tank_Brown_Divided_32x32_170
+  - first:
+      213: 1959192461223718647
+    second: Tank_Brown_Divided_32x32_171
+  - first:
+      213: 8180769901991196712
+    second: Tank_Brown_Divided_32x32_172
+  - first:
+      213: 5831474982429599941
+    second: Tank_Brown_Divided_32x32_173
+  - first:
+      213: -6756508609951344194
+    second: Tank_Brown_Divided_32x32_174
+  - first:
+      213: 7575105293276886181
+    second: Tank_Brown_Divided_32x32_175
+  - first:
+      213: 1036817061635872835
+    second: Tank_Brown_Divided_32x32_176
+  - first:
+      213: 168744418144631889
+    second: Tank_Brown_Divided_32x32_177
+  - first:
+      213: 4982028097533520992
+    second: Tank_Brown_Divided_32x32_178
+  - first:
+      213: 5437010374936092349
+    second: Tank_Brown_Divided_32x32_179
+  - first:
+      213: -2865160728719888737
+    second: Tank_Brown_Divided_32x32_180
+  - first:
+      213: -1038652810611548014
+    second: Tank_Brown_Divided_32x32_181
+  - first:
+      213: 6785883117943636287
+    second: Tank_Brown_Divided_32x32_182
+  - first:
+      213: -4089604923167793329
+    second: Tank_Brown_Divided_32x32_183
+  - first:
+      213: 5570256297029469554
+    second: Tank_Brown_Divided_32x32_184
+  - first:
+      213: 6908626892142751126
+    second: Tank_Brown_Divided_32x32_185
+  - first:
+      213: -7901282566047054579
+    second: Tank_Brown_Divided_32x32_186
+  - first:
+      213: 347400638990346815
+    second: Tank_Brown_Divided_32x32_187
+  - first:
+      213: -1642750616355595669
+    second: Tank_Brown_Divided_32x32_188
+  - first:
+      213: -2074854939436310417
+    second: Tank_Brown_Divided_32x32_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6975
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d548bc840edb550800000000000000
+      internalID: 6178340867078905171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6975
+        width: 146
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdf694df3d5942b0800000000000000
+      internalID: -5599842132927513140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 6975
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e081ad214131425c0800000000000000
+      internalID: -4241243972139608050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 6975
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f85ce23a2ec5330800000000000000
+      internalID: 3701082184283950896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 6911
+        width: 1058
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a0359f912fef30800000000000000
+      internalID: 4606937913109817458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6527
+        width: 353
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5773b8d32db625110800000000000000
+      internalID: 1248178597454886773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710fa5592840d2590800000000000000
+      internalID: -7697491229208285161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6207
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542e50a576a4dab0800000000000000
+      internalID: -4984175863460387745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 6207
+        width: 254
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e8c1016f6df91e0800000000000000
+      internalID: -2188794541558165891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 6207
+        width: 258
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c299143c20ce815b0800000000000000
+      internalID: -5397304656793593556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 6299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70fe37ad36745c0800000000000000
+      internalID: -4231303534992226338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 6207
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ef8c116c12cd50800000000000000
+      internalID: 6755993594425762798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 6301
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63037e875c999040800000000000000
+      internalID: 4654923589730108270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 6207
+        width: 248
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fd4b57983719290800000000000000
+      internalID: -7885394438326526187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 6303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d01913fff9d959d0800000000000000
+      internalID: -2784955201233547050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 6207
+        width: 250
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2bb965d1d97e30800000000000000
+      internalID: 4501860017065635199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8286ee439ed25f0800000000000000
+      internalID: -779710746917853010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 6215
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381a471226310160800000000000000
+      internalID: 6989927616703240241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 6217
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af534d12d5252b10800000000000000
+      internalID: 1956011197526663072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 6219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6447fda4a0054d8f0800000000000000
+      internalID: -516700052104711098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2962c8251acb0e550800000000000000
+      internalID: 6188153289067734674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f7861c939f06f0800000000000000
+      internalID: -716191517126429357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c93c565eff6a80800000000000000
+      internalID: -8471272727192682038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd79fdb13086a33d0800000000000000
+      internalID: -3226151820495710241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88effec83d7960c0800000000000000
+      internalID: -4581993462928250740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d04e470d43f5f70800000000000000
+      internalID: 9178112635523304827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c93d2c7923cd5a0800000000000000
+      internalID: -6495260935184999384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bef4e4b32dcf2d0800000000000000
+      internalID: -3243486479454835832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52965ebb5672e6c90800000000000000
+      internalID: -7174753838457067227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e25d9eafb8b390800000000000000
+      internalID: -7802275597734713685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713ec21e06b06a230800000000000000
+      internalID: 3649617058752946967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd468e333024745e0800000000000000
+      internalID: -1925497734154394403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c43bef0753f78f0800000000000000
+      internalID: -540654670835397570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b430bb2db4f59d60800000000000000
+      internalID: 7896486614982997173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f228d85ab79dbc0800000000000000
+      internalID: -3757836463090028766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2549ceebc06b340800000000000000
+      internalID: 4879101260454974115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 5651
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db3195c3a9b8ae10800000000000000
+      internalID: 2209219730270665684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 6003
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3facf0e865cb9f5d0800000000000000
+      internalID: -3028182194493338893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a1cc722337ab10800000000000000
+      internalID: 1992617583349702664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df22b6a59de99d0b0800000000000000
+      internalID: -5703352796725959939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038cdaa5d6dd03020800000000000000
+      internalID: 2319597269838317616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f25034b32e7590800000000000000
+      internalID: -7674657458180918860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5ea7acee2d4680800000000000000
+      internalID: -8769301305460105774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed94abc8960802dd0800000000000000
+      internalID: -2512867401251796514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5439
+        width: 160
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc64fcceb6791970800000000000000
+      internalID: 8726136314861481139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5439
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88182e85bfbb87e70800000000000000
+      internalID: 9113240534186623368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 5439
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6543387414ff1bb0800000000000000
+      internalID: -4962979895585847958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 5439
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb30e508e0784e0800000000000000
+      internalID: -1979597566710137992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 5439
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b311825e3a1292130800000000000000
+      internalID: 3542399569711599931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 5453
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78b38f108460cf0800000000000000
+      internalID: -286462352994629677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 5439
+        width: 158
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95762cc19e44194d0800000000000000
+      internalID: -3129644498045212839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e9126bcde989a70800000000000000
+      internalID: 8833985339872878143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad026979e5807c10800000000000000
+      internalID: 2049285068263919016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e5003e660e3a8c0800000000000000
+      internalID: -3989098112420389373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7886490b2631ed0800000000000000
+      internalID: -2444501662188402723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f72fdbdfc742e540800000000000000
+      internalID: 5035666291426273270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9e607c694d0260800000000000000
+      internalID: 7065384120505768491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b594c82c2906dda0800000000000000
+      internalID: -5920534574864755274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f2ce216e90de60800000000000000
+      internalID: 7985056279561434868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094ba0a248175f400800000000000000
+      internalID: 357316557900788880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea458fff5887b3330800000000000000
+      internalID: 3691676836480701614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be833fd0b9c89cc0800000000000000
+      internalID: -3703988932016107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66552bd7c4d4bb9b0800000000000000
+      internalID: -5063368365126298266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd643eb8ec1420a0800000000000000
+      internalID: -6907364142530400845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f110a83ff5ef4b0800000000000000
+      internalID: -5404777003200995492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5db7aea44ffd10800000000000000
+      internalID: 2161521863090330247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d62af5a508742e0800000000000000
+      internalID: -2141601972151489248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b1464dd776b1550800000000000000
+      internalID: 6132609107726965602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ec0e975401c230800000000000000
+      internalID: 3657209146761864123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc22817eba11b510800000000000000
+      internalID: 1563059950924737716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c750d1b3beff218a0800000000000000
+      internalID: -6335720339982711428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d30ef02f3e861dc0800000000000000
+      internalID: -3668588444659088426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93f2db5b82a9290800000000000000
+      internalID: -7882943436730451523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2c4dbefcd5fe680800000000000000
+      internalID: -8723650805597158662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc03c6d936c34a0800000000000000
+      internalID: -6612300625110577954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4671
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a448222ac91ae4070800000000000000
+      internalID: 8092583274538501194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4767
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5d0390bbc813570800000000000000
+      internalID: 8444685511237359017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4671
+        width: 254
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaeedc644c246670800000000000000
+      internalID: 8530992266542508750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4671
+        width: 258
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f690d5b99884640800000000000000
+      internalID: 5064449081351958393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4671
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d637118ac4f5c30800000000000000
+      internalID: 4350280049794182452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4763
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794841a2ece6b72a0800000000000000
+      internalID: -6738670585681509225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 4671
+        width: 248
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b871540a6ba5ce4a0800000000000000
+      internalID: -6562770816566225013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 4765
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4815476bcfe834ce0800000000000000
+      internalID: -1422135841274965628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 4671
+        width: 250
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a5e36bae48cb510800000000000000
+      internalID: 1566272914032843401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 4767
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae66ae31d79b4670800000000000000
+      internalID: 8524073644683849387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4681
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88fcef229b9fa510800000000000000
+      internalID: 1562638647892441226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4679
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436eb0af0fdc33d0800000000000000
+      internalID: -3225457974889782457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 4681
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfa6eccebdc6b8d0800000000000000
+      internalID: -2830849096390627364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 4683
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105fc2fd2d0023f50800000000000000
+      internalID: 6859546088126084353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a3a0006ca499450800000000000000
+      internalID: 6095985784887327376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060817d28e0657e20800000000000000
+      internalID: 3347688448330924128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7ff12ce53e11770800000000000000
+      internalID: 8579888761240811513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0e571a9112b1db0800000000000000
+      internalID: -4820222582203227963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a86cffb0d5ffdae0800000000000000
+      internalID: -1522227872104945501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255cc3903d3c700e0800000000000000
+      internalID: -2303657373216225966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f6700ecc7d2760800000000000000
+      internalID: 7434735784071461266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce83c5071325a410800000000000000
+      internalID: 1487633833703739073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a1e54e918507cf0800000000000000
+      internalID: -256608310531319259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34380c83b14d470c0800000000000000
+      internalID: -4578801707747605693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edab1099da9b86070800000000000000
+      internalID: 8099928085073345246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad095e6f7e8c7a10800000000000000
+      internalID: 1908557020061568431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f71fc1773b1eae0800000000000000
+      internalID: -1521737874906448018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7574c6e6fc79c50800000000000000
+      internalID: 6672029446142646263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313ab4398a077700800000000000000
+      internalID: 537910264905478462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f1cc3694db08f60800000000000000
+      internalID: 8034629858133548845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3913c3971726e0800000000000000
+      internalID: -1862493997493568184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e74ef4aa7e83910800000000000000
+      internalID: 1817457168314826284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 6467
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7ce6aff55b81070800000000000000
+      internalID: 8077405355517069262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd7b4a444e7369d0800000000000000
+      internalID: -2782241313015497227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687917a6bca3f9ce0800000000000000
+      internalID: -1396332714122963066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d3a3aebafc2210800000000000000
+      internalID: 1309697288354125894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0653a8ab66036380800000000000000
+      internalID: -8979326172586093045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f8bf4da587e23a0800000000000000
+      internalID: -6688276065082962018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4085
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13781ad190e92b890800000000000000
+      internalID: -7443713472100989135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3903
+        width: 148
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfdc8e33359e1e50800000000000000
+      internalID: 6782022136191836100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4085
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c2248e55974560800000000000000
+      internalID: 7297965954353513572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c60e6366893f30800000000000000
+      internalID: 4555820259667789181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3903
+        width: 152
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51057e546c22cc30800000000000000
+      internalID: 4378110597350621530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 4089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0092d799f2b20e20800000000000000
+      internalID: 3315409060761866255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 3903
+        width: 156
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c239a420d22a340800000000000000
+      internalID: 4873507234632641565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3903
+        width: 156
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f22d53735c2ac90800000000000000
+      internalID: -7159943616648827115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 3903
+        width: 154
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65336e511fc51d0800000000000000
+      internalID: -3360546145566501148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 3903
+        width: 154
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb26a0640aab7000800000000000000
+      internalID: 34808357913504739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3915
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2930fe86f7134a00800000000000000
+      internalID: 739461111546394923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3921
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d44457d73b383e0800000000000000
+      internalID: -2052599653731119720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4047cb010600191a0800000000000000
+      internalID: -6804657149382462460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91bea4fb1fa53780800000000000000
+      internalID: -8703858170219548257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21375c83f0522d80800000000000000
+      internalID: -8276964158191750868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cecc58acfcebb150800000000000000
+      internalID: 5889561507617623751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6739754912fbba7d0800000000000000
+      internalID: -2906018983593929866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6695f690194f593a0800000000000000
+      internalID: -6659147570231682714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8cdb09f8216ce60800000000000000
+      internalID: 7982087797378762944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b68c636c42449f0800000000000000
+      internalID: -485222426107942011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d323aec7bb6785e0800000000000000
+      internalID: -1907437479978130475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8db531574991a70800000000000000
+      internalID: 8798226577601845455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa7d6b64f5a9f5f0800000000000000
+      internalID: -722363796023313749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d8fea4b386d4050800000000000000
+      internalID: 5786395700110527844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9150536bf9ea3e540800000000000000
+      internalID: 5036060809310307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645cf9f6bf938a90800000000000000
+      internalID: -7312825761692625823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e61c97f3fc09bfc0800000000000000
+      internalID: -3478734995196209440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97591e4426de7380800000000000000
+      internalID: -8971497956257998946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e5d3c56beee450800000000000000
+      internalID: 6120087765952882889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c08d08b65040670800000000000000
+      internalID: 8503927955663621253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d0228a135d2080800000000000000
+      internalID: -9210614289585350692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c2bfa20c0fca40800000000000000
+      internalID: 5390540484662969880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec2f4c93beb4bf0800000000000000
+      internalID: -338918713586430428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de149fd7ae2e47a0800000000000000
+      internalID: -6391119522646712617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7cb65512a6c07a0800000000000000
+      internalID: -6409631478255466521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f690abd3035dcf4d0800000000000000
+      internalID: -3099368040366995089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3071
+        width: 353
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f11bd5f93296610800000000000000
+      internalID: 1614861108767694690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2751
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da11b2161f34c050800000000000000
+      internalID: 5819845982504950486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2751
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0921ec93850cd02c0800000000000000
+      internalID: -4463700170494831984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b1277d8946c8e00800000000000000
+      internalID: 1048323420882869086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f244a2c90f954b170800000000000000
+      internalID: 8193272512040813615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2429
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ca65aafe1438d0800000000000000
+      internalID: -2867633000862269349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2429
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb81fcda54e9c740800000000000000
+      internalID: 5172916725916732396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcacab3368b70cdf0800000000000000
+      internalID: -161993770261624117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835c4b65ea8927d30800000000000000
+      internalID: 4427769258205037880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2303
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c616f3ba471f5740800000000000000
+      internalID: 5142854909094663874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2303
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7b68068b442660800000000000000
+      internalID: 7360090730069195265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1983
+        width: 146
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6869d60fcd4545bd0800000000000000
+      internalID: -2642393773456386426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1983
+        width: 146
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00ec14ccde54fd50800000000000000
+      internalID: 6770140442120740876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6ab8624f35c9b0800000000000000
+      internalID: -5060569051823444215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda347fbd072f5590800000000000000
+      internalID: -7683379499270653217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1707
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15acb4b4ced66d400800000000000000
+      internalID: 348586882810759761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1707
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13d7698675bc530800000000000000
+      internalID: 3876288010995446216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabe8c4c1f08894d0800000000000000
+      internalID: -3127608165331833939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc326020991dad80800000000000000
+      internalID: -8237900036581475143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1583
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d224799ad482c0800000000000000
+      internalID: -4430175780812433380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1583
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d58bb8f41fe46d20800000000000000
+      internalID: 3271002102729246164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1215
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7e50b0a0d2db9a0800000000000000
+      internalID: -6215762389543557179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1215
+        width: 254
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feecd9c923703b10800000000000000
+      internalID: 1959192461223718647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828746dd1eee78170800000000000000
+      internalID: 8180769901991196712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82b4c999f8de050800000000000000
+      internalID: 5831474982429599941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 891
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb95bfd773f0c32a0800000000000000
+      internalID: -6756508609951344194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 891
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a433fd212e202960800000000000000
+      internalID: 7575105293276886181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348dedfcf93836e00800000000000000
+      internalID: 1036817061635872835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c375d7720875200800000000000000
+      internalID: 168744418144631889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 767
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c2086a828b32540800000000000000
+      internalID: 4982028097533520992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 767
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbedd262124247b40800000000000000
+      internalID: 5437010374936092349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 447
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e604c5f77ec38d0800000000000000
+      internalID: -2865160728719888737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 447
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290a98295c6f591f0800000000000000
+      internalID: -1038652810611548014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c95c1ebc4c2e50800000000000000
+      internalID: 6785883117943636287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f15e27dfdce37c0800000000000000
+      internalID: -4089604923167793329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 137
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2750354f6968d4d40800000000000000
+      internalID: 5570256297029469554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 137
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d21ef0e8f50ef50800000000000000
+      internalID: 6908626892142751126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0547c47e51095290800000000000000
+      internalID: -7901282566047054579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a63c16a0732d400800000000000000
+      internalID: 347400638990346815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 7
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1291a407c339e0800000000000000
+      internalID: -1642750616355595669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Brown_Divided_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 7
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f602f66fc62a433e0800000000000000
+      internalID: -2074854939436310417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tank_Brown_Divided_32x32_0: 6178340867078905171
+      Tank_Brown_Divided_32x32_1: -5599842132927513140
+      Tank_Brown_Divided_32x32_10: -4231303534992226338
+      Tank_Brown_Divided_32x32_100: 1908557020061568431
+      Tank_Brown_Divided_32x32_101: -1521737874906448018
+      Tank_Brown_Divided_32x32_102: 6672029446142646263
+      Tank_Brown_Divided_32x32_103: 537910264905478462
+      Tank_Brown_Divided_32x32_104: 8034629858133548845
+      Tank_Brown_Divided_32x32_105: -1862493997493568184
+      Tank_Brown_Divided_32x32_106: 1817457168314826284
+      Tank_Brown_Divided_32x32_107: 8077405355517069262
+      Tank_Brown_Divided_32x32_108: -2782241313015497227
+      Tank_Brown_Divided_32x32_109: -1396332714122963066
+      Tank_Brown_Divided_32x32_11: 6755993594425762798
+      Tank_Brown_Divided_32x32_110: 1309697288354125894
+      Tank_Brown_Divided_32x32_111: -8979326172586093045
+      Tank_Brown_Divided_32x32_112: -6688276065082962018
+      Tank_Brown_Divided_32x32_113: -7443713472100989135
+      Tank_Brown_Divided_32x32_114: 6782022136191836100
+      Tank_Brown_Divided_32x32_115: 7297965954353513572
+      Tank_Brown_Divided_32x32_116: 4555820259667789181
+      Tank_Brown_Divided_32x32_117: 4378110597350621530
+      Tank_Brown_Divided_32x32_118: 3315409060761866255
+      Tank_Brown_Divided_32x32_119: 4873507234632641565
+      Tank_Brown_Divided_32x32_12: 4654923589730108270
+      Tank_Brown_Divided_32x32_120: -7159943616648827115
+      Tank_Brown_Divided_32x32_121: -3360546145566501148
+      Tank_Brown_Divided_32x32_122: 34808357913504739
+      Tank_Brown_Divided_32x32_123: 739461111546394923
+      Tank_Brown_Divided_32x32_124: -2052599653731119720
+      Tank_Brown_Divided_32x32_125: -6804657149382462460
+      Tank_Brown_Divided_32x32_126: -8703858170219548257
+      Tank_Brown_Divided_32x32_127: -8276964158191750868
+      Tank_Brown_Divided_32x32_128: 5889561507617623751
+      Tank_Brown_Divided_32x32_129: -2906018983593929866
+      Tank_Brown_Divided_32x32_13: -7885394438326526187
+      Tank_Brown_Divided_32x32_130: -6659147570231682714
+      Tank_Brown_Divided_32x32_131: 7982087797378762944
+      Tank_Brown_Divided_32x32_132: -485222426107942011
+      Tank_Brown_Divided_32x32_133: -1907437479978130475
+      Tank_Brown_Divided_32x32_134: 8798226577601845455
+      Tank_Brown_Divided_32x32_135: -722363796023313749
+      Tank_Brown_Divided_32x32_136: 5786395700110527844
+      Tank_Brown_Divided_32x32_137: 5036060809310307609
+      Tank_Brown_Divided_32x32_138: -7312825761692625823
+      Tank_Brown_Divided_32x32_139: -3478734995196209440
+      Tank_Brown_Divided_32x32_14: -2784955201233547050
+      Tank_Brown_Divided_32x32_140: -8971497956257998946
+      Tank_Brown_Divided_32x32_141: 6120087765952882889
+      Tank_Brown_Divided_32x32_142: 8503927955663621253
+      Tank_Brown_Divided_32x32_143: -9210614289585350692
+      Tank_Brown_Divided_32x32_144: 5390540484662969880
+      Tank_Brown_Divided_32x32_145: -338918713586430428
+      Tank_Brown_Divided_32x32_146: -6391119522646712617
+      Tank_Brown_Divided_32x32_147: -6409631478255466521
+      Tank_Brown_Divided_32x32_148: -3099368040366995089
+      Tank_Brown_Divided_32x32_149: 1614861108767694690
+      Tank_Brown_Divided_32x32_15: 4501860017065635199
+      Tank_Brown_Divided_32x32_150: 5819845982504950486
+      Tank_Brown_Divided_32x32_151: -4463700170494831984
+      Tank_Brown_Divided_32x32_152: 1048323420882869086
+      Tank_Brown_Divided_32x32_153: 8193272512040813615
+      Tank_Brown_Divided_32x32_154: -2867633000862269349
+      Tank_Brown_Divided_32x32_155: 5172916725916732396
+      Tank_Brown_Divided_32x32_156: -161993770261624117
+      Tank_Brown_Divided_32x32_157: 4427769258205037880
+      Tank_Brown_Divided_32x32_158: 5142854909094663874
+      Tank_Brown_Divided_32x32_159: 7360090730069195265
+      Tank_Brown_Divided_32x32_16: -779710746917853010
+      Tank_Brown_Divided_32x32_160: -2642393773456386426
+      Tank_Brown_Divided_32x32_161: 6770140442120740876
+      Tank_Brown_Divided_32x32_162: -5060569051823444215
+      Tank_Brown_Divided_32x32_163: -7683379499270653217
+      Tank_Brown_Divided_32x32_164: 348586882810759761
+      Tank_Brown_Divided_32x32_165: 3876288010995446216
+      Tank_Brown_Divided_32x32_166: -3127608165331833939
+      Tank_Brown_Divided_32x32_167: -8237900036581475143
+      Tank_Brown_Divided_32x32_168: -4430175780812433380
+      Tank_Brown_Divided_32x32_169: 3271002102729246164
+      Tank_Brown_Divided_32x32_17: 6989927616703240241
+      Tank_Brown_Divided_32x32_170: -6215762389543557179
+      Tank_Brown_Divided_32x32_171: 1959192461223718647
+      Tank_Brown_Divided_32x32_172: 8180769901991196712
+      Tank_Brown_Divided_32x32_173: 5831474982429599941
+      Tank_Brown_Divided_32x32_174: -6756508609951344194
+      Tank_Brown_Divided_32x32_175: 7575105293276886181
+      Tank_Brown_Divided_32x32_176: 1036817061635872835
+      Tank_Brown_Divided_32x32_177: 168744418144631889
+      Tank_Brown_Divided_32x32_178: 4982028097533520992
+      Tank_Brown_Divided_32x32_179: 5437010374936092349
+      Tank_Brown_Divided_32x32_18: 1956011197526663072
+      Tank_Brown_Divided_32x32_180: -2865160728719888737
+      Tank_Brown_Divided_32x32_181: -1038652810611548014
+      Tank_Brown_Divided_32x32_182: 6785883117943636287
+      Tank_Brown_Divided_32x32_183: -4089604923167793329
+      Tank_Brown_Divided_32x32_184: 5570256297029469554
+      Tank_Brown_Divided_32x32_185: 6908626892142751126
+      Tank_Brown_Divided_32x32_186: -7901282566047054579
+      Tank_Brown_Divided_32x32_187: 347400638990346815
+      Tank_Brown_Divided_32x32_188: -1642750616355595669
+      Tank_Brown_Divided_32x32_189: -2074854939436310417
+      Tank_Brown_Divided_32x32_19: -516700052104711098
+      Tank_Brown_Divided_32x32_2: -4241243972139608050
+      Tank_Brown_Divided_32x32_20: 6188153289067734674
+      Tank_Brown_Divided_32x32_21: -716191517126429357
+      Tank_Brown_Divided_32x32_22: -8471272727192682038
+      Tank_Brown_Divided_32x32_23: -3226151820495710241
+      Tank_Brown_Divided_32x32_24: -4581993462928250740
+      Tank_Brown_Divided_32x32_25: 9178112635523304827
+      Tank_Brown_Divided_32x32_26: -6495260935184999384
+      Tank_Brown_Divided_32x32_27: -3243486479454835832
+      Tank_Brown_Divided_32x32_28: -7174753838457067227
+      Tank_Brown_Divided_32x32_29: -7802275597734713685
+      Tank_Brown_Divided_32x32_3: 3701082184283950896
+      Tank_Brown_Divided_32x32_30: 3649617058752946967
+      Tank_Brown_Divided_32x32_31: -1925497734154394403
+      Tank_Brown_Divided_32x32_32: -540654670835397570
+      Tank_Brown_Divided_32x32_33: 7896486614982997173
+      Tank_Brown_Divided_32x32_34: -3757836463090028766
+      Tank_Brown_Divided_32x32_35: 4879101260454974115
+      Tank_Brown_Divided_32x32_36: 2209219730270665684
+      Tank_Brown_Divided_32x32_37: -3028182194493338893
+      Tank_Brown_Divided_32x32_38: 1992617583349702664
+      Tank_Brown_Divided_32x32_39: -5703352796725959939
+      Tank_Brown_Divided_32x32_4: 4606937913109817458
+      Tank_Brown_Divided_32x32_40: 2319597269838317616
+      Tank_Brown_Divided_32x32_41: -7674657458180918860
+      Tank_Brown_Divided_32x32_42: -8769301305460105774
+      Tank_Brown_Divided_32x32_43: -2512867401251796514
+      Tank_Brown_Divided_32x32_44: 8726136314861481139
+      Tank_Brown_Divided_32x32_45: 9113240534186623368
+      Tank_Brown_Divided_32x32_46: -4962979895585847958
+      Tank_Brown_Divided_32x32_47: -1979597566710137992
+      Tank_Brown_Divided_32x32_48: 3542399569711599931
+      Tank_Brown_Divided_32x32_49: -286462352994629677
+      Tank_Brown_Divided_32x32_5: 1248178597454886773
+      Tank_Brown_Divided_32x32_50: -3129644498045212839
+      Tank_Brown_Divided_32x32_51: 8833985339872878143
+      Tank_Brown_Divided_32x32_52: 2049285068263919016
+      Tank_Brown_Divided_32x32_53: -3989098112420389373
+      Tank_Brown_Divided_32x32_54: -2444501662188402723
+      Tank_Brown_Divided_32x32_55: 5035666291426273270
+      Tank_Brown_Divided_32x32_56: 7065384120505768491
+      Tank_Brown_Divided_32x32_57: -5920534574864755274
+      Tank_Brown_Divided_32x32_58: 7985056279561434868
+      Tank_Brown_Divided_32x32_59: 357316557900788880
+      Tank_Brown_Divided_32x32_6: -7697491229208285161
+      Tank_Brown_Divided_32x32_60: 3691676836480701614
+      Tank_Brown_Divided_32x32_61: -3703988932016107850
+      Tank_Brown_Divided_32x32_62: -5063368365126298266
+      Tank_Brown_Divided_32x32_63: -6907364142530400845
+      Tank_Brown_Divided_32x32_64: -5404777003200995492
+      Tank_Brown_Divided_32x32_65: 2161521863090330247
+      Tank_Brown_Divided_32x32_66: -2141601972151489248
+      Tank_Brown_Divided_32x32_67: 6132609107726965602
+      Tank_Brown_Divided_32x32_68: 3657209146761864123
+      Tank_Brown_Divided_32x32_69: 1563059950924737716
+      Tank_Brown_Divided_32x32_7: -4984175863460387745
+      Tank_Brown_Divided_32x32_70: -6335720339982711428
+      Tank_Brown_Divided_32x32_71: -3668588444659088426
+      Tank_Brown_Divided_32x32_72: -7882943436730451523
+      Tank_Brown_Divided_32x32_73: -8723650805597158662
+      Tank_Brown_Divided_32x32_74: -6612300625110577954
+      Tank_Brown_Divided_32x32_75: 8092583274538501194
+      Tank_Brown_Divided_32x32_76: 8444685511237359017
+      Tank_Brown_Divided_32x32_77: 8530992266542508750
+      Tank_Brown_Divided_32x32_78: 5064449081351958393
+      Tank_Brown_Divided_32x32_79: 4350280049794182452
+      Tank_Brown_Divided_32x32_8: -2188794541558165891
+      Tank_Brown_Divided_32x32_80: -6738670585681509225
+      Tank_Brown_Divided_32x32_81: -6562770816566225013
+      Tank_Brown_Divided_32x32_82: -1422135841274965628
+      Tank_Brown_Divided_32x32_83: 1566272914032843401
+      Tank_Brown_Divided_32x32_84: 8524073644683849387
+      Tank_Brown_Divided_32x32_85: 1562638647892441226
+      Tank_Brown_Divided_32x32_86: -3225457974889782457
+      Tank_Brown_Divided_32x32_87: -2830849096390627364
+      Tank_Brown_Divided_32x32_88: 6859546088126084353
+      Tank_Brown_Divided_32x32_89: 6095985784887327376
+      Tank_Brown_Divided_32x32_9: -5397304656793593556
+      Tank_Brown_Divided_32x32_90: 3347688448330924128
+      Tank_Brown_Divided_32x32_91: 8579888761240811513
+      Tank_Brown_Divided_32x32_92: -4820222582203227963
+      Tank_Brown_Divided_32x32_93: -1522227872104945501
+      Tank_Brown_Divided_32x32_94: -2303657373216225966
+      Tank_Brown_Divided_32x32_95: 7434735784071461266
+      Tank_Brown_Divided_32x32_96: 1487633833703739073
+      Tank_Brown_Divided_32x32_97: -256608310531319259
+      Tank_Brown_Divided_32x32_98: -4578801707747605693
+      Tank_Brown_Divided_32x32_99: 8099928085073345246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

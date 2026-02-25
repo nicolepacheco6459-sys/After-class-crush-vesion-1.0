@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 3952abc3620a4a7419ff783e57572d30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1661580660649800877
+    second: Accessory_28_Military_General_Hat_32x32_0
+  - first:
+      213: -7808185688486893071
+    second: Accessory_28_Military_General_Hat_32x32_1
+  - first:
+      213: -671772562311630912
+    second: Accessory_28_Military_General_Hat_32x32_2
+  - first:
+      213: -748760235099602977
+    second: Accessory_28_Military_General_Hat_32x32_3
+  - first:
+      213: 477863216540861636
+    second: Accessory_28_Military_General_Hat_32x32_4
+  - first:
+      213: 4733285217672244987
+    second: Accessory_28_Military_General_Hat_32x32_5
+  - first:
+      213: 5877307159397125440
+    second: Accessory_28_Military_General_Hat_32x32_6
+  - first:
+      213: 1643818324615451853
+    second: Accessory_28_Military_General_Hat_32x32_7
+  - first:
+      213: -546861413243408853
+    second: Accessory_28_Military_General_Hat_32x32_8
+  - first:
+      213: -1302232871045173879
+    second: Accessory_28_Military_General_Hat_32x32_9
+  - first:
+      213: -1903415441315476044
+    second: Accessory_28_Military_General_Hat_32x32_10
+  - first:
+      213: -6355003418498818765
+    second: Accessory_28_Military_General_Hat_32x32_11
+  - first:
+      213: -2279496916250315617
+    second: Accessory_28_Military_General_Hat_32x32_12
+  - first:
+      213: -8880832902778234792
+    second: Accessory_28_Military_General_Hat_32x32_13
+  - first:
+      213: -1848481634599643513
+    second: Accessory_28_Military_General_Hat_32x32_14
+  - first:
+      213: 608892066385205444
+    second: Accessory_28_Military_General_Hat_32x32_15
+  - first:
+      213: -5641629958618586148
+    second: Accessory_28_Military_General_Hat_32x32_16
+  - first:
+      213: 8949589737488808885
+    second: Accessory_28_Military_General_Hat_32x32_17
+  - first:
+      213: -4957898086714381575
+    second: Accessory_28_Military_General_Hat_32x32_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1237
+        width: 129
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b0b3bece1f0710800000000000000
+      internalID: 1661580660649800877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1173
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f923716c70c3a390800000000000000
+      internalID: -7808185688486893071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1109
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfaf8de9626da6f0800000000000000
+      internalID: -671772562311630912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf33f4888edb95f0800000000000000
+      internalID: -748760235099602977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4c4294016b1a600800000000000000
+      internalID: 477863216540861636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 385
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe26f3d3d100b140800000000000000
+      internalID: 4733285217672244987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 385
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc9bfd8b3609150800000000000000
+      internalID: 5877307159397125440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc45bf19e0400d610800000000000000
+      internalID: 1643818324615451853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 1537
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e224a21782968f0800000000000000
+      internalID: -546861413243408853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 1281
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98de3827a1a8dede0800000000000000
+      internalID: -1302232871045173879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 1792
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc568adb5b595e0800000000000000
+      internalID: -1903415441315476044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 1792
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1cf5af0e7ec7a0800000000000000
+      internalID: -6355003418498818765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f943d48c1a99d50e0800000000000000
+      internalID: -2279496916250315617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8585d401781f0c480800000000000000
+      internalID: -8880832902778234792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786dadb3fbfd856e0800000000000000
+      internalID: -1848481634599643513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 513
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8917bbb18337800800000000000000
+      internalID: 608892066385205444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 769
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3665a7177e4b1b0800000000000000
+      internalID: -5641629958618586148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb70840374533c70800000000000000
+      internalID: 8949589737488808885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_28_Military_General_Hat_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 385
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faeccc45f1023bb0800000000000000
+      internalID: -4957898086714381575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accessory_28_Military_General_Hat_32x32_0: 1661580660649800877
+      Accessory_28_Military_General_Hat_32x32_1: -7808185688486893071
+      Accessory_28_Military_General_Hat_32x32_10: -1903415441315476044
+      Accessory_28_Military_General_Hat_32x32_11: -6355003418498818765
+      Accessory_28_Military_General_Hat_32x32_12: -2279496916250315617
+      Accessory_28_Military_General_Hat_32x32_13: -8880832902778234792
+      Accessory_28_Military_General_Hat_32x32_14: -1848481634599643513
+      Accessory_28_Military_General_Hat_32x32_15: 608892066385205444
+      Accessory_28_Military_General_Hat_32x32_16: -5641629958618586148
+      Accessory_28_Military_General_Hat_32x32_17: 8949589737488808885
+      Accessory_28_Military_General_Hat_32x32_18: -4957898086714381575
+      Accessory_28_Military_General_Hat_32x32_2: -671772562311630912
+      Accessory_28_Military_General_Hat_32x32_3: -748760235099602977
+      Accessory_28_Military_General_Hat_32x32_4: 477863216540861636
+      Accessory_28_Military_General_Hat_32x32_5: 4733285217672244987
+      Accessory_28_Military_General_Hat_32x32_6: 5877307159397125440
+      Accessory_28_Military_General_Hat_32x32_7: 1643818324615451853
+      Accessory_28_Military_General_Hat_32x32_8: -546861413243408853
+      Accessory_28_Military_General_Hat_32x32_9: -1302232871045173879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

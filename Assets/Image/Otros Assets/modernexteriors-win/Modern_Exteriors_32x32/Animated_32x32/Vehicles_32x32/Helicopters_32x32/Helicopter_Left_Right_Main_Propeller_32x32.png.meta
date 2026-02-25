@@ -1,0 +1,4472 @@
+fileFormatVersion: 2
+guid: fd927bd4734a00944831efe453e16af5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7324842212646594177
+    second: Helicopter_Left_Right_Main_Propeller_32x32_0
+  - first:
+      213: 2471239350066864654
+    second: Helicopter_Left_Right_Main_Propeller_32x32_1
+  - first:
+      213: 4216887068721439646
+    second: Helicopter_Left_Right_Main_Propeller_32x32_2
+  - first:
+      213: -7974519144214248425
+    second: Helicopter_Left_Right_Main_Propeller_32x32_3
+  - first:
+      213: -1013130671921260546
+    second: Helicopter_Left_Right_Main_Propeller_32x32_4
+  - first:
+      213: 931599011470804507
+    second: Helicopter_Left_Right_Main_Propeller_32x32_5
+  - first:
+      213: -2151423304857457800
+    second: Helicopter_Left_Right_Main_Propeller_32x32_6
+  - first:
+      213: -8433153742497676253
+    second: Helicopter_Left_Right_Main_Propeller_32x32_7
+  - first:
+      213: -3237214935151650399
+    second: Helicopter_Left_Right_Main_Propeller_32x32_8
+  - first:
+      213: -4235301268956661136
+    second: Helicopter_Left_Right_Main_Propeller_32x32_9
+  - first:
+      213: 534462356130567876
+    second: Helicopter_Left_Right_Main_Propeller_32x32_10
+  - first:
+      213: -6657081482298394638
+    second: Helicopter_Left_Right_Main_Propeller_32x32_11
+  - first:
+      213: -3694524923874201522
+    second: Helicopter_Left_Right_Main_Propeller_32x32_12
+  - first:
+      213: -5483672246851914488
+    second: Helicopter_Left_Right_Main_Propeller_32x32_13
+  - first:
+      213: -6937437259189024642
+    second: Helicopter_Left_Right_Main_Propeller_32x32_14
+  - first:
+      213: 5217632935421639418
+    second: Helicopter_Left_Right_Main_Propeller_32x32_15
+  - first:
+      213: 8020774430631078893
+    second: Helicopter_Left_Right_Main_Propeller_32x32_16
+  - first:
+      213: -1947214860707680209
+    second: Helicopter_Left_Right_Main_Propeller_32x32_17
+  - first:
+      213: -4433488981001564834
+    second: Helicopter_Left_Right_Main_Propeller_32x32_18
+  - first:
+      213: -8846464990461257781
+    second: Helicopter_Left_Right_Main_Propeller_32x32_19
+  - first:
+      213: 5062506676831132087
+    second: Helicopter_Left_Right_Main_Propeller_32x32_20
+  - first:
+      213: -8460261760097160992
+    second: Helicopter_Left_Right_Main_Propeller_32x32_21
+  - first:
+      213: -7297246137380977148
+    second: Helicopter_Left_Right_Main_Propeller_32x32_22
+  - first:
+      213: 4119816337776595303
+    second: Helicopter_Left_Right_Main_Propeller_32x32_23
+  - first:
+      213: -5638821780318530953
+    second: Helicopter_Left_Right_Main_Propeller_32x32_24
+  - first:
+      213: 458701769325407529
+    second: Helicopter_Left_Right_Main_Propeller_32x32_25
+  - first:
+      213: 2476178848828571957
+    second: Helicopter_Left_Right_Main_Propeller_32x32_26
+  - first:
+      213: 2816344208852465270
+    second: Helicopter_Left_Right_Main_Propeller_32x32_27
+  - first:
+      213: -3248373364728861206
+    second: Helicopter_Left_Right_Main_Propeller_32x32_28
+  - first:
+      213: -1123194651385659880
+    second: Helicopter_Left_Right_Main_Propeller_32x32_29
+  - first:
+      213: -7593285808340103620
+    second: Helicopter_Left_Right_Main_Propeller_32x32_30
+  - first:
+      213: -5393414209575279991
+    second: Helicopter_Left_Right_Main_Propeller_32x32_31
+  - first:
+      213: -7221003507561895875
+    second: Helicopter_Left_Right_Main_Propeller_32x32_32
+  - first:
+      213: -5637041956158290039
+    second: Helicopter_Left_Right_Main_Propeller_32x32_33
+  - first:
+      213: 4789134273020957674
+    second: Helicopter_Left_Right_Main_Propeller_32x32_34
+  - first:
+      213: -3100184311945505067
+    second: Helicopter_Left_Right_Main_Propeller_32x32_35
+  - first:
+      213: 6072055958743622282
+    second: Helicopter_Left_Right_Main_Propeller_32x32_36
+  - first:
+      213: -3322805384850796274
+    second: Helicopter_Left_Right_Main_Propeller_32x32_37
+  - first:
+      213: 8380868143707504403
+    second: Helicopter_Left_Right_Main_Propeller_32x32_38
+  - first:
+      213: -6205290411676426139
+    second: Helicopter_Left_Right_Main_Propeller_32x32_39
+  - first:
+      213: -5287095880030640820
+    second: Helicopter_Left_Right_Main_Propeller_32x32_40
+  - first:
+      213: -8050164798582709450
+    second: Helicopter_Left_Right_Main_Propeller_32x32_41
+  - first:
+      213: -1929446377833773100
+    second: Helicopter_Left_Right_Main_Propeller_32x32_42
+  - first:
+      213: 8531148388760449669
+    second: Helicopter_Left_Right_Main_Propeller_32x32_43
+  - first:
+      213: 1940475115711577955
+    second: Helicopter_Left_Right_Main_Propeller_32x32_44
+  - first:
+      213: -927659142089644676
+    second: Helicopter_Left_Right_Main_Propeller_32x32_45
+  - first:
+      213: 2563904820034777750
+    second: Helicopter_Left_Right_Main_Propeller_32x32_46
+  - first:
+      213: -5078757303141590042
+    second: Helicopter_Left_Right_Main_Propeller_32x32_47
+  - first:
+      213: -2832053311052611204
+    second: Helicopter_Left_Right_Main_Propeller_32x32_48
+  - first:
+      213: -2850991204307989833
+    second: Helicopter_Left_Right_Main_Propeller_32x32_49
+  - first:
+      213: 4801293890213400258
+    second: Helicopter_Left_Right_Main_Propeller_32x32_50
+  - first:
+      213: 6953888278536830969
+    second: Helicopter_Left_Right_Main_Propeller_32x32_51
+  - first:
+      213: 6526502262951752380
+    second: Helicopter_Left_Right_Main_Propeller_32x32_52
+  - first:
+      213: -528046454617188613
+    second: Helicopter_Left_Right_Main_Propeller_32x32_53
+  - first:
+      213: 7732486345723380110
+    second: Helicopter_Left_Right_Main_Propeller_32x32_54
+  - first:
+      213: 8456544156774095541
+    second: Helicopter_Left_Right_Main_Propeller_32x32_55
+  - first:
+      213: -968913298334889329
+    second: Helicopter_Left_Right_Main_Propeller_32x32_56
+  - first:
+      213: -8652562108983775550
+    second: Helicopter_Left_Right_Main_Propeller_32x32_57
+  - first:
+      213: -1244120032641126666
+    second: Helicopter_Left_Right_Main_Propeller_32x32_58
+  - first:
+      213: -1205773053410204588
+    second: Helicopter_Left_Right_Main_Propeller_32x32_59
+  - first:
+      213: -1875440940578610916
+    second: Helicopter_Left_Right_Main_Propeller_32x32_60
+  - first:
+      213: 2665700506020100095
+    second: Helicopter_Left_Right_Main_Propeller_32x32_61
+  - first:
+      213: 83827628632733352
+    second: Helicopter_Left_Right_Main_Propeller_32x32_62
+  - first:
+      213: 6729871872297991417
+    second: Helicopter_Left_Right_Main_Propeller_32x32_63
+  - first:
+      213: -3801817565394679749
+    second: Helicopter_Left_Right_Main_Propeller_32x32_64
+  - first:
+      213: 7975023004140644444
+    second: Helicopter_Left_Right_Main_Propeller_32x32_65
+  - first:
+      213: 97711118772659406
+    second: Helicopter_Left_Right_Main_Propeller_32x32_66
+  - first:
+      213: 379585681300536857
+    second: Helicopter_Left_Right_Main_Propeller_32x32_67
+  - first:
+      213: -7021801536013865812
+    second: Helicopter_Left_Right_Main_Propeller_32x32_68
+  - first:
+      213: -6039995578592869727
+    second: Helicopter_Left_Right_Main_Propeller_32x32_69
+  - first:
+      213: -2010292929659840561
+    second: Helicopter_Left_Right_Main_Propeller_32x32_70
+  - first:
+      213: -6722664039696738310
+    second: Helicopter_Left_Right_Main_Propeller_32x32_71
+  - first:
+      213: -7935500395481789330
+    second: Helicopter_Left_Right_Main_Propeller_32x32_72
+  - first:
+      213: -6361364854361363625
+    second: Helicopter_Left_Right_Main_Propeller_32x32_73
+  - first:
+      213: 3860555282875142846
+    second: Helicopter_Left_Right_Main_Propeller_32x32_74
+  - first:
+      213: -1091936787678812011
+    second: Helicopter_Left_Right_Main_Propeller_32x32_75
+  - first:
+      213: 5066587569663882490
+    second: Helicopter_Left_Right_Main_Propeller_32x32_76
+  - first:
+      213: -8301589391991255645
+    second: Helicopter_Left_Right_Main_Propeller_32x32_77
+  - first:
+      213: 6833918962410510608
+    second: Helicopter_Left_Right_Main_Propeller_32x32_78
+  - first:
+      213: -1551144560152053432
+    second: Helicopter_Left_Right_Main_Propeller_32x32_79
+  - first:
+      213: 4841405138717797085
+    second: Helicopter_Left_Right_Main_Propeller_32x32_80
+  - first:
+      213: 2192003137751053501
+    second: Helicopter_Left_Right_Main_Propeller_32x32_81
+  - first:
+      213: 747990918494498141
+    second: Helicopter_Left_Right_Main_Propeller_32x32_82
+  - first:
+      213: 1978195996794845998
+    second: Helicopter_Left_Right_Main_Propeller_32x32_83
+  - first:
+      213: 8512054443512531228
+    second: Helicopter_Left_Right_Main_Propeller_32x32_84
+  - first:
+      213: -2140672063770561419
+    second: Helicopter_Left_Right_Main_Propeller_32x32_85
+  - first:
+      213: 5127386702507414384
+    second: Helicopter_Left_Right_Main_Propeller_32x32_86
+  - first:
+      213: -7276445142864543656
+    second: Helicopter_Left_Right_Main_Propeller_32x32_87
+  - first:
+      213: 3387107154330808621
+    second: Helicopter_Left_Right_Main_Propeller_32x32_88
+  - first:
+      213: -8392134737961062692
+    second: Helicopter_Left_Right_Main_Propeller_32x32_89
+  - first:
+      213: 2607926214059996684
+    second: Helicopter_Left_Right_Main_Propeller_32x32_90
+  - first:
+      213: -3549825534473442362
+    second: Helicopter_Left_Right_Main_Propeller_32x32_91
+  - first:
+      213: 8045509913793003149
+    second: Helicopter_Left_Right_Main_Propeller_32x32_92
+  - first:
+      213: 883549645627606748
+    second: Helicopter_Left_Right_Main_Propeller_32x32_93
+  - first:
+      213: 3409166214878179282
+    second: Helicopter_Left_Right_Main_Propeller_32x32_94
+  - first:
+      213: 2053634938760273520
+    second: Helicopter_Left_Right_Main_Propeller_32x32_95
+  - first:
+      213: -3978050046157861742
+    second: Helicopter_Left_Right_Main_Propeller_32x32_96
+  - first:
+      213: -6975140441288984040
+    second: Helicopter_Left_Right_Main_Propeller_32x32_97
+  - first:
+      213: -7954551371809404942
+    second: Helicopter_Left_Right_Main_Propeller_32x32_98
+  - first:
+      213: -9163177644785948600
+    second: Helicopter_Left_Right_Main_Propeller_32x32_99
+  - first:
+      213: -3484730967207047659
+    second: Helicopter_Left_Right_Main_Propeller_32x32_100
+  - first:
+      213: -1107273389203998367
+    second: Helicopter_Left_Right_Main_Propeller_32x32_101
+  - first:
+      213: 8164100178978848911
+    second: Helicopter_Left_Right_Main_Propeller_32x32_102
+  - first:
+      213: 7360023882890256709
+    second: Helicopter_Left_Right_Main_Propeller_32x32_103
+  - first:
+      213: -5949998760345867219
+    second: Helicopter_Left_Right_Main_Propeller_32x32_104
+  - first:
+      213: 8303038568244049444
+    second: Helicopter_Left_Right_Main_Propeller_32x32_105
+  - first:
+      213: 5249810481938910755
+    second: Helicopter_Left_Right_Main_Propeller_32x32_106
+  - first:
+      213: 1646970900063147818
+    second: Helicopter_Left_Right_Main_Propeller_32x32_107
+  - first:
+      213: 7791580532274330105
+    second: Helicopter_Left_Right_Main_Propeller_32x32_108
+  - first:
+      213: -3512803975973270301
+    second: Helicopter_Left_Right_Main_Propeller_32x32_109
+  - first:
+      213: -635008320094057107
+    second: Helicopter_Left_Right_Main_Propeller_32x32_110
+  - first:
+      213: 5116840087334668803
+    second: Helicopter_Left_Right_Main_Propeller_32x32_111
+  - first:
+      213: 7964218335264449904
+    second: Helicopter_Left_Right_Main_Propeller_32x32_112
+  - first:
+      213: 5756318034717349994
+    second: Helicopter_Left_Right_Main_Propeller_32x32_113
+  - first:
+      213: 378020765696531379
+    second: Helicopter_Left_Right_Main_Propeller_32x32_114
+  - first:
+      213: 5441650246818453633
+    second: Helicopter_Left_Right_Main_Propeller_32x32_115
+  - first:
+      213: -1051997605683722735
+    second: Helicopter_Left_Right_Main_Propeller_32x32_116
+  - first:
+      213: -8924112210840499495
+    second: Helicopter_Left_Right_Main_Propeller_32x32_117
+  - first:
+      213: 5950162301107456893
+    second: Helicopter_Left_Right_Main_Propeller_32x32_118
+  - first:
+      213: -3276656547080948786
+    second: Helicopter_Left_Right_Main_Propeller_32x32_119
+  - first:
+      213: -6985350583868653301
+    second: Helicopter_Left_Right_Main_Propeller_32x32_120
+  - first:
+      213: 7282389906754577652
+    second: Helicopter_Left_Right_Main_Propeller_32x32_121
+  - first:
+      213: -6284576086725923144
+    second: Helicopter_Left_Right_Main_Propeller_32x32_122
+  - first:
+      213: -6332422589506294520
+    second: Helicopter_Left_Right_Main_Propeller_32x32_123
+  - first:
+      213: -3875041217546472800
+    second: Helicopter_Left_Right_Main_Propeller_32x32_124
+  - first:
+      213: -7196285952632878255
+    second: Helicopter_Left_Right_Main_Propeller_32x32_125
+  - first:
+      213: -569195510014949974
+    second: Helicopter_Left_Right_Main_Propeller_32x32_126
+  - first:
+      213: 6037873536713622020
+    second: Helicopter_Left_Right_Main_Propeller_32x32_127
+  - first:
+      213: -8298577030921885144
+    second: Helicopter_Left_Right_Main_Propeller_32x32_128
+  - first:
+      213: -3540380508581396296
+    second: Helicopter_Left_Right_Main_Propeller_32x32_129
+  - first:
+      213: -6995894675829059704
+    second: Helicopter_Left_Right_Main_Propeller_32x32_130
+  - first:
+      213: 1894771269896032664
+    second: Helicopter_Left_Right_Main_Propeller_32x32_131
+  - first:
+      213: -6540313739069694195
+    second: Helicopter_Left_Right_Main_Propeller_32x32_132
+  - first:
+      213: 1138244641441680731
+    second: Helicopter_Left_Right_Main_Propeller_32x32_133
+  - first:
+      213: -6245290176893563425
+    second: Helicopter_Left_Right_Main_Propeller_32x32_134
+  - first:
+      213: -3678816179220823776
+    second: Helicopter_Left_Right_Main_Propeller_32x32_135
+  - first:
+      213: 6891523754291205168
+    second: Helicopter_Left_Right_Main_Propeller_32x32_136
+  - first:
+      213: -4759172414728295747
+    second: Helicopter_Left_Right_Main_Propeller_32x32_137
+  - first:
+      213: 7995960928674584333
+    second: Helicopter_Left_Right_Main_Propeller_32x32_138
+  - first:
+      213: 9066237849581756095
+    second: Helicopter_Left_Right_Main_Propeller_32x32_139
+  - first:
+      213: -4882996404000582222
+    second: Helicopter_Left_Right_Main_Propeller_32x32_140
+  - first:
+      213: -5222307827919820711
+    second: Helicopter_Left_Right_Main_Propeller_32x32_141
+  - first:
+      213: -2206969713692460747
+    second: Helicopter_Left_Right_Main_Propeller_32x32_142
+  - first:
+      213: -3075662106250803627
+    second: Helicopter_Left_Right_Main_Propeller_32x32_143
+  - first:
+      213: 901081271703130292
+    second: Helicopter_Left_Right_Main_Propeller_32x32_144
+  - first:
+      213: 2883011126488497919
+    second: Helicopter_Left_Right_Main_Propeller_32x32_145
+  - first:
+      213: -8787759435910044381
+    second: Helicopter_Left_Right_Main_Propeller_32x32_146
+  - first:
+      213: -5639857244056723184
+    second: Helicopter_Left_Right_Main_Propeller_32x32_147
+  - first:
+      213: -4275258628998475832
+    second: Helicopter_Left_Right_Main_Propeller_32x32_148
+  - first:
+      213: -7530640960116123700
+    second: Helicopter_Left_Right_Main_Propeller_32x32_149
+  - first:
+      213: -3489753410423255392
+    second: Helicopter_Left_Right_Main_Propeller_32x32_150
+  - first:
+      213: 6400952374947016344
+    second: Helicopter_Left_Right_Main_Propeller_32x32_151
+  - first:
+      213: -2018005679090929321
+    second: Helicopter_Left_Right_Main_Propeller_32x32_152
+  - first:
+      213: 1024214274163602085
+    second: Helicopter_Left_Right_Main_Propeller_32x32_153
+  - first:
+      213: 6828581329013300970
+    second: Helicopter_Left_Right_Main_Propeller_32x32_154
+  - first:
+      213: -6385005535815083846
+    second: Helicopter_Left_Right_Main_Propeller_32x32_155
+  - first:
+      213: 8574315877114966585
+    second: Helicopter_Left_Right_Main_Propeller_32x32_156
+  - first:
+      213: 7067018745745435197
+    second: Helicopter_Left_Right_Main_Propeller_32x32_157
+  - first:
+      213: -6404373693992333438
+    second: Helicopter_Left_Right_Main_Propeller_32x32_158
+  - first:
+      213: -9101609596495741745
+    second: Helicopter_Left_Right_Main_Propeller_32x32_159
+  - first:
+      213: 7389255420322915611
+    second: Helicopter_Left_Right_Main_Propeller_32x32_160
+  - first:
+      213: 6755799561789229127
+    second: Helicopter_Left_Right_Main_Propeller_32x32_161
+  - first:
+      213: 6774613187352121905
+    second: Helicopter_Left_Right_Main_Propeller_32x32_162
+  - first:
+      213: 5748075660960635001
+    second: Helicopter_Left_Right_Main_Propeller_32x32_163
+  - first:
+      213: 8773584239574767731
+    second: Helicopter_Left_Right_Main_Propeller_32x32_164
+  - first:
+      213: 3168948289410889683
+    second: Helicopter_Left_Right_Main_Propeller_32x32_165
+  - first:
+      213: -3848497020713383178
+    second: Helicopter_Left_Right_Main_Propeller_32x32_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 863
+        width: 482
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d967f0dee85a90800000000000000
+      internalID: -7324842212646594177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 863
+        width: 24929
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e3bf781b9b4220800000000000000
+      internalID: 2471239350066864654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 737
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93641d6274658a30800000000000000
+      internalID: 4216887068721439646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 11633
+        y: 713
+        width: 476
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714ce82d611d45190800000000000000
+      internalID: -7974519144214248425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 12245
+        y: 579
+        width: 504
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7941d8503a0f1f0800000000000000
+      internalID: -1013130671921260546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 15283
+        y: 581
+        width: 512
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1682d77d54bdec00800000000000000
+      internalID: 931599011470804507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 15889
+        y: 713
+        width: 476
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b697827eb9422e0800000000000000
+      internalID: -2151423304857457800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 16501
+        y: 579
+        width: 504
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3248b2a1a5b67fa80800000000000000
+      internalID: -8433153742497676253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 21635
+        y: 727
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a952b00b2a1313d0800000000000000
+      internalID: -3237214935151650399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 25273
+        y: 737
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ab31b7fef2935c0800000000000000
+      internalID: -4235301268956661136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 727
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61bf26eaaca6700800000000000000
+      internalID: 534462356130567876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 725
+        width: 184
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7f5ce99ab4d93a0800000000000000
+      internalID: -6657081482298394638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 727
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b6aaf7296abcc0800000000000000
+      internalID: -3694524923874201522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 725
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80539bd252516e3b0800000000000000
+      internalID: -5483672246851914488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 727
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e788a72a19549bf90800000000000000
+      internalID: -6937437259189024642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 731
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa7f24b281c86840800000000000000
+      internalID: 5217632935421639418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 737
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb2d4949d38f4f60800000000000000
+      internalID: 8020774430631078893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 5827
+        y: 727
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f203826a66a1af4e0800000000000000
+      internalID: -1947214860707680209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 6435
+        y: 727
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d0bcbe2451972c0800000000000000
+      internalID: -4433488981001564834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 725
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc790a536fa0b3580800000000000000
+      internalID: -8846464990461257781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 8195
+        y: 731
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b910911003a14640800000000000000
+      internalID: 5062506676831132087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 8857
+        y: 737
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0769ae0cc179a80800000000000000
+      internalID: -8460261760097160992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 9475
+        y: 727
+        width: 198
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c0deec49faba90800000000000000
+      internalID: -7297246137380977148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 727
+        width: 232
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615609a1278c2930800000000000000
+      internalID: 4119816337776595303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 10417
+        y: 693
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d0607771eeb1b0800000000000000
+      internalID: -5638821780318530953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 721
+        width: 208
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92deb7234d2ad5600800000000000000
+      internalID: 458701769325407529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 10691
+        y: 659
+        width: 190
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53143cc2b872d5220800000000000000
+      internalID: 2476178848828571957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 10847
+        y: 639
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67631e5e22aa51720800000000000000
+      internalID: 2816344208852465270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 11025
+        y: 699
+        width: 276
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedee79a2a57be2d0800000000000000
+      internalID: -3248373364728861206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 11289
+        y: 589
+        width: 248
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef98e5a6c9960f0800000000000000
+      internalID: -1123194651385659880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 11661
+        y: 579
+        width: 484
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8fdbc9ca3f9690800000000000000
+      internalID: -7593285808340103620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 12849
+        y: 581
+        width: 514
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a8b71a5eb625b0800000000000000
+      internalID: -5393414209575279991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 13459
+        y: 581
+        width: 508
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d386ce18197d9cb90800000000000000
+      internalID: -7221003507561895875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 14067
+        y: 579
+        width: 510
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987463b053435c1b0800000000000000
+      internalID: -5637041956158290039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 14677
+        y: 581
+        width: 508
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae310155f3c667240800000000000000
+      internalID: 4789134273020957674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 15917
+        y: 579
+        width: 484
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6df343bcee9f4d0800000000000000
+      internalID: -3100184311945505067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 17105
+        y: 589
+        width: 268
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82253d29b6444450800000000000000
+      internalID: 6072055958743622282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 17379
+        y: 633
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0196328b1603e1d0800000000000000
+      internalID: -3322805384850796274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 17825
+        y: 737
+        width: 206
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb2174c23de4470800000000000000
+      internalID: 8380868143707504403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 18595
+        y: 727
+        width: 202
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560a3e36f3162e9a0800000000000000
+      internalID: -6205290411676426139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 19203
+        y: 727
+        width: 226
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45a7513f4670a6b0800000000000000
+      internalID: -5287095880030640820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 19587
+        y: 757
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633af1d64c1184090800000000000000
+      internalID: -8050164798582709450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 19635
+        y: 725
+        width: 168
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7cd04fdba3935e0800000000000000
+      internalID: -1929446377833773100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 20297
+        y: 731
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5827636724ab46670800000000000000
+      internalID: 8531148388760449669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 20959
+        y: 737
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f397f26d3fdea10800000000000000
+      internalID: 1940475115711577955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 22243
+        y: 727
+        width: 192
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c756a1bdcea4023f0800000000000000
+      internalID: -927659142089644676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 22843
+        y: 719
+        width: 200
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692b51489d1d49320800000000000000
+      internalID: 2563904820034777750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 23287
+        y: 725
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb13d52421a489b0800000000000000
+      internalID: -5078757303141590042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 24003
+        y: 731
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718db9b48682b8d0800000000000000
+      internalID: -2832053311052611204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 24665
+        y: 737
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba8579da9e3f68d0800000000000000
+      internalID: -2850991204307989833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 617
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce4c64da5f91a240800000000000000
+      internalID: 4801293890213400258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 645
+        width: 214
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb0f9cb8c218060800000000000000
+      internalID: 6953888278536830969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 677
+        width: 222
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2b501ba3bc29a50800000000000000
+      internalID: 6526502262951752380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 725
+        width: 204
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf653a71c800ca8f0800000000000000
+      internalID: -528046454617188613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 719
+        width: 200
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81866bec5f4f4b60800000000000000
+      internalID: 7732486345723380110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 667
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5badceb1b1eab5570800000000000000
+      internalID: 8456544156774095541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 645
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac89a1d7abd82f0800000000000000
+      internalID: -968913298334889329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 603
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce6409ea9cebe780800000000000000
+      internalID: -8652562108983775550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 589
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe6a740c6ffbbee0800000000000000
+      internalID: -1244120032641126666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 5131
+        y: 589
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4542fbfdbcb344fe0800000000000000
+      internalID: -1205773053410204588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 5627
+        y: 617
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11669ba66819f5e0800000000000000
+      internalID: -1875440940578610916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 6203
+        y: 677
+        width: 222
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff738ea9c787ef420800000000000000
+      internalID: 2665700506020100095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 725
+        width: 204
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6740bb8c0d92100800000000000000
+      internalID: 83827628632733352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 7035
+        y: 719
+        width: 200
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcf63cbfce456d50800000000000000
+      internalID: 6729871872297991417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 7651
+        y: 667
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b384fc1311b3d3bc0800000000000000
+      internalID: -3801817565394679749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 8249
+        y: 603
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c582f553b29fcae60800000000000000
+      internalID: 7975023004140644444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 8839
+        y: 589
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4ec0daeb32b5100800000000000000
+      internalID: 97711118772659406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 9275
+        y: 617
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e3ebf7a2f844500800000000000000
+      internalID: 379585681300536857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 9809
+        y: 665
+        width: 264
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cace992c4bc8d8e90800000000000000
+      internalID: -7021801536013865812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 17925
+        y: 581
+        width: 220
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ca05c500ad2ca0800000000000000
+      internalID: -6039995578592869727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 18349
+        y: 589
+        width: 250
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc755214b310a14e0800000000000000
+      internalID: -2010292929659840561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 18935
+        y: 643
+        width: 258
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af755919cac44b2a0800000000000000
+      internalID: -6722664039696738310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 19811
+        y: 659
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c06543f607fd190800000000000000
+      internalID: -7935500395481789330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 20409
+        y: 589
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be2217e54e7b7a0800000000000000
+      internalID: -6361364854361363625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 20991
+        y: 581
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2d78f5392739530800000000000000
+      internalID: 3860555282875142846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 21435
+        y: 585
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5982935e649a8d0f0800000000000000
+      internalID: -1091936787678812011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 22011
+        y: 627
+        width: 222
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b939fc82205640800000000000000
+      internalID: 5066587569663882490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 22635
+        y: 703
+        width: 206
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc5338e64dacc80800000000000000
+      internalID: -8301589391991255645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 23459
+        y: 667
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d842b615f6de50800000000000000
+      internalID: 6833918962410510608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 24057
+        y: 603
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8497bd8ad3a397ae0800000000000000
+      internalID: -1551144560152053432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 24647
+        y: 589
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda6603a250203340800000000000000
+      internalID: 4841405138717797085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 25195
+        y: 589
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db471347d3f8b6e10800000000000000
+      internalID: 2192003137751053501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 9237
+        y: 627
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d251007c5616a00800000000000000
+      internalID: 747990918494498141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 19967
+        y: 639
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7e0537c6f37b10800000000000000
+      internalID: 1978195996794845998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 287
+        width: 482
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c198956ea64e02670800000000000000
+      internalID: 8512054443512531228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 5051
+        y: 161
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747a5a891eca42e0800000000000000
+      internalID: -2140672063770561419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 11603
+        y: 137
+        width: 476
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07314053a03282740800000000000000
+      internalID: 5127386702507414384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 12179
+        y: 3
+        width: 504
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85041ffd1bfd40b90800000000000000
+      internalID: -7276445142864543656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 15213
+        y: 5
+        width: 512
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21721ed20c610f20800000000000000
+      internalID: 3387107154330808621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 15859
+        y: 137
+        width: 476
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde6d945be5298b80800000000000000
+      internalID: -8392134737961062692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 16435
+        y: 3
+        width: 504
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b9750317313420800000000000000
+      internalID: 2607926214059996684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 21375
+        y: 151
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb6913fb7c7cbec0800000000000000
+      internalID: -3549825534473442362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 25115
+        y: 161
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ef380c3a467af60800000000000000
+      internalID: 8045509913793003149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 151
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd64e01b8bff24c00800000000000000
+      internalID: 883549645627606748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 149
+        width: 184
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa3122c9acf4f20800000000000000
+      internalID: 3409166214878179282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 151
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e132f981aff7c10800000000000000
+      internalID: 2053634938760273520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 149
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc8044f802bc8c0800000000000000
+      internalID: -3978050046157861742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 151
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a328a79b2533f90800000000000000
+      internalID: -6975140441288984040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 155
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f744bf1ca1cb9190800000000000000
+      internalID: -7954551371809404942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 161
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848abbc0b7ad5d080800000000000000
+      internalID: -9163177644785948600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 151
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e02d1f5afb3afc0800000000000000
+      internalID: -3484730967207047659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 151
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169b04718bc22a0f0800000000000000
+      internalID: -1107273389203998367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 7557
+        y: 149
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ccb68bd5bc4170800000000000000
+      internalID: 8164100178978848911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 8155
+        y: 155
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a016f9be042660800000000000000
+      internalID: 7360023882890256709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 8745
+        y: 161
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce193e6ab5d6da0800000000000000
+      internalID: -5949998760345867219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 9175
+        y: 151
+        width: 198
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426fd8026915a3370800000000000000
+      internalID: 8303038568244049444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 9749
+        y: 151
+        width: 232
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e471291d21bd840800000000000000
+      internalID: 5249810481938910755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 10349
+        y: 63
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a275badbe473bd610800000000000000
+      internalID: 1646970900063147818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 10399
+        y: 83
+        width: 190
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f97f096631412c60800000000000000
+      internalID: 7791580532274330105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 10597
+        y: 145
+        width: 208
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec888e3563004fc0800000000000000
+      internalID: -3512803975973270301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 10741
+        y: 117
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d406b1c4fff27f0800000000000000
+      internalID: -635008320094057107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 10959
+        y: 13
+        width: 248
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30acf0203faa20740800000000000000
+      internalID: 5116840087334668803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 11195
+        y: 123
+        width: 276
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07527133166968e60800000000000000
+      internalID: 7964218335264449904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 11567
+        y: 3
+        width: 484
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68908911cc82ef40800000000000000
+      internalID: 5756318034717349994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 12781
+        y: 5
+        width: 514
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb101132effe3500800000000000000
+      internalID: 378020765696531379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 13393
+        y: 5
+        width: 508
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188d7818110a48b40800000000000000
+      internalID: 5441650246818453633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 13999
+        y: 3
+        width: 510
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11609a850cd8661f0800000000000000
+      internalID: -1051997605683722735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 14607
+        y: 5
+        width: 508
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4029e93f272480800000000000000
+      internalID: -8924112210840499495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 15823
+        y: 3
+        width: 484
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b4e696619339250800000000000000
+      internalID: 5950162301107456893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 17037
+        y: 57
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3384c1b3af682d0800000000000000
+      internalID: -3276656547080948786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 17283
+        y: 13
+        width: 268
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0101f867ac0f0f90800000000000000
+      internalID: -6985350583868653301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 17841
+        y: 161
+        width: 206
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f42ff3590f301560800000000000000
+      internalID: 7282389906754577652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 18291
+        y: 151
+        width: 202
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be69c2a853b8c8a0800000000000000
+      internalID: -6284576086725923144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 18875
+        y: 151
+        width: 226
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d61d89437be18a0800000000000000
+      internalID: -6332422589506294520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 19717
+        y: 149
+        width: 168
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a235222b86193ac0800000000000000
+      internalID: -3875041217546472800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 19861
+        y: 181
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b0f2bbd08a12c90800000000000000
+      internalID: -7196285952632878255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 20315
+        y: 155
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5cfc903bfc918f0800000000000000
+      internalID: -569195510014949974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 20905
+        y: 161
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020c8addf5dac350800000000000000
+      internalID: 6037873536713622020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 21949
+        y: 151
+        width: 192
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6faa782885dc80800000000000000
+      internalID: -8298577030921885144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 22557
+        y: 143
+        width: 200
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00a486faa0edec0800000000000000
+      internalID: -3540380508581396296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 23365
+        y: 149
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f8921bbd699ee90800000000000000
+      internalID: -6995894675829059704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 23963
+        y: 155
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891d4c85e649b4a10800000000000000
+      internalID: 1894771269896032664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 24553
+        y: 161
+        width: 30
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fd42f6e432c35a0800000000000000
+      internalID: -6540313739069694195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 41
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d8f90887bdbcf00800000000000000
+      internalID: 1138244641441680731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 69
+        width: 214
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddc50f4ca54459a0800000000000000
+      internalID: -6245290176893563425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 101
+        width: 222
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021459b1d2832fcc0800000000000000
+      internalID: -3678816179220823776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 143
+        width: 200
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03491b7775c93af50800000000000000
+      internalID: 6891523754291205168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 149
+        width: 204
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba284b67e504fdb0800000000000000
+      internalID: -4759172414728295747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 91
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071d87a91c57fe60800000000000000
+      internalID: 7995960928674584333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 69
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe95890a4fb1dd70800000000000000
+      internalID: 9066237849581756095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 27
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5190c44ac1c3cb0800000000000000
+      internalID: -4882996404000582222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 13
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958e81113b2a687b0800000000000000
+      internalID: -5222307827919820711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 13
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b0590db44f51e0800000000000000
+      internalID: -2206969713692460747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 5731
+        y: 41
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568ac32c9d0155d0800000000000000
+      internalID: -3075662106250803627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 6343
+        y: 101
+        width: 222
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b05f9974a8418c00800000000000000
+      internalID: 901081271703130292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 143
+        width: 200
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe78dd3853820820800000000000000
+      internalID: 2883011126488497919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 6951
+        y: 149
+        width: 204
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325aef24a5b9b0680800000000000000
+      internalID: -8787759435910044381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 91
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e510c7b33bb1b0800000000000000
+      internalID: -5639857244056723184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 8093
+        y: 27
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4f9f9dea3ba4c0800000000000000
+      internalID: -4275258628998475832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 8759
+        y: 13
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7954122f9cd7790800000000000000
+      internalID: -7530640960116123700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 9379
+        y: 41
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae830243c7e19fc0800000000000000
+      internalID: -3489753410423255392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 9991
+        y: 89
+        width: 264
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee8e47540c4d850800000000000000
+      internalID: 6400952374947016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 17727
+        y: 5
+        width: 220
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7517017d68a9ef3e0800000000000000
+      internalID: -2018005679090929321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 18489
+        y: 13
+        width: 250
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f761b47db63e00800000000000000
+      internalID: 1024214274163602085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 19111
+        y: 67
+        width: 258
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeed3b31a8ef3ce50800000000000000
+      internalID: 6828581329013300970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 19537
+        y: 83
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d6dc5b47e367a0800000000000000
+      internalID: -6385005535815083846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 20179
+        y: 13
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932fd6f8cd61ef670800000000000000
+      internalID: 8574315877114966585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 20859
+        y: 5
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aee294b18131260800000000000000
+      internalID: 7067018745745435197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 21539
+        y: 9
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f0bb0ae081f17a0800000000000000
+      internalID: -6404373693992333438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 22151
+        y: 51
+        width: 222
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb59c5b4690b180800000000000000
+      internalID: -9101609596495741745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 22759
+        y: 127
+        width: 206
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152af2a7a8eb8660800000000000000
+      internalID: 7389255420322915611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 23191
+        y: 91
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748cf2e58eb61cd50800000000000000
+      internalID: 6755799561789229127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 23901
+        y: 27
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132dccaecc2440e50800000000000000
+      internalID: 6774613187352121905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 24567
+        y: 13
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97890a9eb5445cf40800000000000000
+      internalID: 5748075660960635001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 25181
+        y: 13
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d1d6a16802c970800000000000000
+      internalID: 8773584239574767731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 9557
+        y: 51
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7faededad5afb20800000000000000
+      internalID: 3168948289410889683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helicopter_Left_Right_Main_Propeller_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 19489
+        y: 63
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faca319954679ac0800000000000000
+      internalID: -3848497020713383178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Helicopter_Left_Right_Main_Propeller_32x32_0: -7324842212646594177
+      Helicopter_Left_Right_Main_Propeller_32x32_1: 2471239350066864654
+      Helicopter_Left_Right_Main_Propeller_32x32_10: 534462356130567876
+      Helicopter_Left_Right_Main_Propeller_32x32_100: -3484730967207047659
+      Helicopter_Left_Right_Main_Propeller_32x32_101: -1107273389203998367
+      Helicopter_Left_Right_Main_Propeller_32x32_102: 8164100178978848911
+      Helicopter_Left_Right_Main_Propeller_32x32_103: 7360023882890256709
+      Helicopter_Left_Right_Main_Propeller_32x32_104: -5949998760345867219
+      Helicopter_Left_Right_Main_Propeller_32x32_105: 8303038568244049444
+      Helicopter_Left_Right_Main_Propeller_32x32_106: 5249810481938910755
+      Helicopter_Left_Right_Main_Propeller_32x32_107: 1646970900063147818
+      Helicopter_Left_Right_Main_Propeller_32x32_108: 7791580532274330105
+      Helicopter_Left_Right_Main_Propeller_32x32_109: -3512803975973270301
+      Helicopter_Left_Right_Main_Propeller_32x32_11: -6657081482298394638
+      Helicopter_Left_Right_Main_Propeller_32x32_110: -635008320094057107
+      Helicopter_Left_Right_Main_Propeller_32x32_111: 5116840087334668803
+      Helicopter_Left_Right_Main_Propeller_32x32_112: 7964218335264449904
+      Helicopter_Left_Right_Main_Propeller_32x32_113: 5756318034717349994
+      Helicopter_Left_Right_Main_Propeller_32x32_114: 378020765696531379
+      Helicopter_Left_Right_Main_Propeller_32x32_115: 5441650246818453633
+      Helicopter_Left_Right_Main_Propeller_32x32_116: -1051997605683722735
+      Helicopter_Left_Right_Main_Propeller_32x32_117: -8924112210840499495
+      Helicopter_Left_Right_Main_Propeller_32x32_118: 5950162301107456893
+      Helicopter_Left_Right_Main_Propeller_32x32_119: -3276656547080948786
+      Helicopter_Left_Right_Main_Propeller_32x32_12: -3694524923874201522
+      Helicopter_Left_Right_Main_Propeller_32x32_120: -6985350583868653301
+      Helicopter_Left_Right_Main_Propeller_32x32_121: 7282389906754577652
+      Helicopter_Left_Right_Main_Propeller_32x32_122: -6284576086725923144
+      Helicopter_Left_Right_Main_Propeller_32x32_123: -6332422589506294520
+      Helicopter_Left_Right_Main_Propeller_32x32_124: -3875041217546472800
+      Helicopter_Left_Right_Main_Propeller_32x32_125: -7196285952632878255
+      Helicopter_Left_Right_Main_Propeller_32x32_126: -569195510014949974
+      Helicopter_Left_Right_Main_Propeller_32x32_127: 6037873536713622020
+      Helicopter_Left_Right_Main_Propeller_32x32_128: -8298577030921885144
+      Helicopter_Left_Right_Main_Propeller_32x32_129: -3540380508581396296
+      Helicopter_Left_Right_Main_Propeller_32x32_13: -5483672246851914488
+      Helicopter_Left_Right_Main_Propeller_32x32_130: -6995894675829059704
+      Helicopter_Left_Right_Main_Propeller_32x32_131: 1894771269896032664
+      Helicopter_Left_Right_Main_Propeller_32x32_132: -6540313739069694195
+      Helicopter_Left_Right_Main_Propeller_32x32_133: 1138244641441680731
+      Helicopter_Left_Right_Main_Propeller_32x32_134: -6245290176893563425
+      Helicopter_Left_Right_Main_Propeller_32x32_135: -3678816179220823776
+      Helicopter_Left_Right_Main_Propeller_32x32_136: 6891523754291205168
+      Helicopter_Left_Right_Main_Propeller_32x32_137: -4759172414728295747
+      Helicopter_Left_Right_Main_Propeller_32x32_138: 7995960928674584333
+      Helicopter_Left_Right_Main_Propeller_32x32_139: 9066237849581756095
+      Helicopter_Left_Right_Main_Propeller_32x32_14: -6937437259189024642
+      Helicopter_Left_Right_Main_Propeller_32x32_140: -4882996404000582222
+      Helicopter_Left_Right_Main_Propeller_32x32_141: -5222307827919820711
+      Helicopter_Left_Right_Main_Propeller_32x32_142: -2206969713692460747
+      Helicopter_Left_Right_Main_Propeller_32x32_143: -3075662106250803627
+      Helicopter_Left_Right_Main_Propeller_32x32_144: 901081271703130292
+      Helicopter_Left_Right_Main_Propeller_32x32_145: 2883011126488497919
+      Helicopter_Left_Right_Main_Propeller_32x32_146: -8787759435910044381
+      Helicopter_Left_Right_Main_Propeller_32x32_147: -5639857244056723184
+      Helicopter_Left_Right_Main_Propeller_32x32_148: -4275258628998475832
+      Helicopter_Left_Right_Main_Propeller_32x32_149: -7530640960116123700
+      Helicopter_Left_Right_Main_Propeller_32x32_15: 5217632935421639418
+      Helicopter_Left_Right_Main_Propeller_32x32_150: -3489753410423255392
+      Helicopter_Left_Right_Main_Propeller_32x32_151: 6400952374947016344
+      Helicopter_Left_Right_Main_Propeller_32x32_152: -2018005679090929321
+      Helicopter_Left_Right_Main_Propeller_32x32_153: 1024214274163602085
+      Helicopter_Left_Right_Main_Propeller_32x32_154: 6828581329013300970
+      Helicopter_Left_Right_Main_Propeller_32x32_155: -6385005535815083846
+      Helicopter_Left_Right_Main_Propeller_32x32_156: 8574315877114966585
+      Helicopter_Left_Right_Main_Propeller_32x32_157: 7067018745745435197
+      Helicopter_Left_Right_Main_Propeller_32x32_158: -6404373693992333438
+      Helicopter_Left_Right_Main_Propeller_32x32_159: -9101609596495741745
+      Helicopter_Left_Right_Main_Propeller_32x32_16: 8020774430631078893
+      Helicopter_Left_Right_Main_Propeller_32x32_160: 7389255420322915611
+      Helicopter_Left_Right_Main_Propeller_32x32_161: 6755799561789229127
+      Helicopter_Left_Right_Main_Propeller_32x32_162: 6774613187352121905
+      Helicopter_Left_Right_Main_Propeller_32x32_163: 5748075660960635001
+      Helicopter_Left_Right_Main_Propeller_32x32_164: 8773584239574767731
+      Helicopter_Left_Right_Main_Propeller_32x32_165: 3168948289410889683
+      Helicopter_Left_Right_Main_Propeller_32x32_166: -3848497020713383178
+      Helicopter_Left_Right_Main_Propeller_32x32_17: -1947214860707680209
+      Helicopter_Left_Right_Main_Propeller_32x32_18: -4433488981001564834
+      Helicopter_Left_Right_Main_Propeller_32x32_19: -8846464990461257781
+      Helicopter_Left_Right_Main_Propeller_32x32_2: 4216887068721439646
+      Helicopter_Left_Right_Main_Propeller_32x32_20: 5062506676831132087
+      Helicopter_Left_Right_Main_Propeller_32x32_21: -8460261760097160992
+      Helicopter_Left_Right_Main_Propeller_32x32_22: -7297246137380977148
+      Helicopter_Left_Right_Main_Propeller_32x32_23: 4119816337776595303
+      Helicopter_Left_Right_Main_Propeller_32x32_24: -5638821780318530953
+      Helicopter_Left_Right_Main_Propeller_32x32_25: 458701769325407529
+      Helicopter_Left_Right_Main_Propeller_32x32_26: 2476178848828571957
+      Helicopter_Left_Right_Main_Propeller_32x32_27: 2816344208852465270
+      Helicopter_Left_Right_Main_Propeller_32x32_28: -3248373364728861206
+      Helicopter_Left_Right_Main_Propeller_32x32_29: -1123194651385659880
+      Helicopter_Left_Right_Main_Propeller_32x32_3: -7974519144214248425
+      Helicopter_Left_Right_Main_Propeller_32x32_30: -7593285808340103620
+      Helicopter_Left_Right_Main_Propeller_32x32_31: -5393414209575279991
+      Helicopter_Left_Right_Main_Propeller_32x32_32: -7221003507561895875
+      Helicopter_Left_Right_Main_Propeller_32x32_33: -5637041956158290039
+      Helicopter_Left_Right_Main_Propeller_32x32_34: 4789134273020957674
+      Helicopter_Left_Right_Main_Propeller_32x32_35: -3100184311945505067
+      Helicopter_Left_Right_Main_Propeller_32x32_36: 6072055958743622282
+      Helicopter_Left_Right_Main_Propeller_32x32_37: -3322805384850796274
+      Helicopter_Left_Right_Main_Propeller_32x32_38: 8380868143707504403
+      Helicopter_Left_Right_Main_Propeller_32x32_39: -6205290411676426139
+      Helicopter_Left_Right_Main_Propeller_32x32_4: -1013130671921260546
+      Helicopter_Left_Right_Main_Propeller_32x32_40: -5287095880030640820
+      Helicopter_Left_Right_Main_Propeller_32x32_41: -8050164798582709450
+      Helicopter_Left_Right_Main_Propeller_32x32_42: -1929446377833773100
+      Helicopter_Left_Right_Main_Propeller_32x32_43: 8531148388760449669
+      Helicopter_Left_Right_Main_Propeller_32x32_44: 1940475115711577955
+      Helicopter_Left_Right_Main_Propeller_32x32_45: -927659142089644676
+      Helicopter_Left_Right_Main_Propeller_32x32_46: 2563904820034777750
+      Helicopter_Left_Right_Main_Propeller_32x32_47: -5078757303141590042
+      Helicopter_Left_Right_Main_Propeller_32x32_48: -2832053311052611204
+      Helicopter_Left_Right_Main_Propeller_32x32_49: -2850991204307989833
+      Helicopter_Left_Right_Main_Propeller_32x32_5: 931599011470804507
+      Helicopter_Left_Right_Main_Propeller_32x32_50: 4801293890213400258
+      Helicopter_Left_Right_Main_Propeller_32x32_51: 6953888278536830969
+      Helicopter_Left_Right_Main_Propeller_32x32_52: 6526502262951752380
+      Helicopter_Left_Right_Main_Propeller_32x32_53: -528046454617188613
+      Helicopter_Left_Right_Main_Propeller_32x32_54: 7732486345723380110
+      Helicopter_Left_Right_Main_Propeller_32x32_55: 8456544156774095541
+      Helicopter_Left_Right_Main_Propeller_32x32_56: -968913298334889329
+      Helicopter_Left_Right_Main_Propeller_32x32_57: -8652562108983775550
+      Helicopter_Left_Right_Main_Propeller_32x32_58: -1244120032641126666
+      Helicopter_Left_Right_Main_Propeller_32x32_59: -1205773053410204588
+      Helicopter_Left_Right_Main_Propeller_32x32_6: -2151423304857457800
+      Helicopter_Left_Right_Main_Propeller_32x32_60: -1875440940578610916
+      Helicopter_Left_Right_Main_Propeller_32x32_61: 2665700506020100095
+      Helicopter_Left_Right_Main_Propeller_32x32_62: 83827628632733352
+      Helicopter_Left_Right_Main_Propeller_32x32_63: 6729871872297991417
+      Helicopter_Left_Right_Main_Propeller_32x32_64: -3801817565394679749
+      Helicopter_Left_Right_Main_Propeller_32x32_65: 7975023004140644444
+      Helicopter_Left_Right_Main_Propeller_32x32_66: 97711118772659406
+      Helicopter_Left_Right_Main_Propeller_32x32_67: 379585681300536857
+      Helicopter_Left_Right_Main_Propeller_32x32_68: -7021801536013865812
+      Helicopter_Left_Right_Main_Propeller_32x32_69: -6039995578592869727
+      Helicopter_Left_Right_Main_Propeller_32x32_7: -8433153742497676253
+      Helicopter_Left_Right_Main_Propeller_32x32_70: -2010292929659840561
+      Helicopter_Left_Right_Main_Propeller_32x32_71: -6722664039696738310
+      Helicopter_Left_Right_Main_Propeller_32x32_72: -7935500395481789330
+      Helicopter_Left_Right_Main_Propeller_32x32_73: -6361364854361363625
+      Helicopter_Left_Right_Main_Propeller_32x32_74: 3860555282875142846
+      Helicopter_Left_Right_Main_Propeller_32x32_75: -1091936787678812011
+      Helicopter_Left_Right_Main_Propeller_32x32_76: 5066587569663882490
+      Helicopter_Left_Right_Main_Propeller_32x32_77: -8301589391991255645
+      Helicopter_Left_Right_Main_Propeller_32x32_78: 6833918962410510608
+      Helicopter_Left_Right_Main_Propeller_32x32_79: -1551144560152053432
+      Helicopter_Left_Right_Main_Propeller_32x32_8: -3237214935151650399
+      Helicopter_Left_Right_Main_Propeller_32x32_80: 4841405138717797085
+      Helicopter_Left_Right_Main_Propeller_32x32_81: 2192003137751053501
+      Helicopter_Left_Right_Main_Propeller_32x32_82: 747990918494498141
+      Helicopter_Left_Right_Main_Propeller_32x32_83: 1978195996794845998
+      Helicopter_Left_Right_Main_Propeller_32x32_84: 8512054443512531228
+      Helicopter_Left_Right_Main_Propeller_32x32_85: -2140672063770561419
+      Helicopter_Left_Right_Main_Propeller_32x32_86: 5127386702507414384
+      Helicopter_Left_Right_Main_Propeller_32x32_87: -7276445142864543656
+      Helicopter_Left_Right_Main_Propeller_32x32_88: 3387107154330808621
+      Helicopter_Left_Right_Main_Propeller_32x32_89: -8392134737961062692
+      Helicopter_Left_Right_Main_Propeller_32x32_9: -4235301268956661136
+      Helicopter_Left_Right_Main_Propeller_32x32_90: 2607926214059996684
+      Helicopter_Left_Right_Main_Propeller_32x32_91: -3549825534473442362
+      Helicopter_Left_Right_Main_Propeller_32x32_92: 8045509913793003149
+      Helicopter_Left_Right_Main_Propeller_32x32_93: 883549645627606748
+      Helicopter_Left_Right_Main_Propeller_32x32_94: 3409166214878179282
+      Helicopter_Left_Right_Main_Propeller_32x32_95: 2053634938760273520
+      Helicopter_Left_Right_Main_Propeller_32x32_96: -3978050046157861742
+      Helicopter_Left_Right_Main_Propeller_32x32_97: -6975140441288984040
+      Helicopter_Left_Right_Main_Propeller_32x32_98: -7954551371809404942
+      Helicopter_Left_Right_Main_Propeller_32x32_99: -9163177644785948600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

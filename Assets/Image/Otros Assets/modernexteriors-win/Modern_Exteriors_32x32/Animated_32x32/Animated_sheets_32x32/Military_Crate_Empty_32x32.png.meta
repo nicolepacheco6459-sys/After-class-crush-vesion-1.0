@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 5da94518c9c9851479d7e1f93af34862
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1453198291258549880
+    second: Military_Crate_Empty_32x32_0
+  - first:
+      213: 6601847197547822320
+    second: Military_Crate_Empty_32x32_1
+  - first:
+      213: -1823987993955502045
+    second: Military_Crate_Empty_32x32_2
+  - first:
+      213: 1294421123512340989
+    second: Military_Crate_Empty_32x32_3
+  - first:
+      213: -1937796655757240684
+    second: Military_Crate_Empty_32x32_4
+  - first:
+      213: 4161572331449412080
+    second: Military_Crate_Empty_32x32_5
+  - first:
+      213: 3298296827021114183
+    second: Military_Crate_Empty_32x32_6
+  - first:
+      213: -7013706808163345224
+    second: Military_Crate_Empty_32x32_7
+  - first:
+      213: -7869765652085900140
+    second: Military_Crate_Empty_32x32_8
+  - first:
+      213: -1927607554360643927
+    second: Military_Crate_Empty_32x32_9
+  - first:
+      213: 7454219705438698569
+    second: Military_Crate_Empty_32x32_10
+  - first:
+      213: 6225225828236571706
+    second: Military_Crate_Empty_32x32_11
+  - first:
+      213: -5734715470231451130
+    second: Military_Crate_Empty_32x32_12
+  - first:
+      213: 7409928400525978871
+    second: Military_Crate_Empty_32x32_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889545d7ad335dbe0800000000000000
+      internalID: -1453198291258549880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcfe3f4c097e9b50800000000000000
+      internalID: 6601847197547822320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32874b95594efa6e0800000000000000
+      internalID: -1823987993955502045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df117b85725b6f110800000000000000
+      internalID: 1294421123512340989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49656ae55309b15e0800000000000000
+      internalID: -1937796655757240684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e22b8cffd0c930800000000000000
+      internalID: 4161572331449412080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b34623d77e5cd20800000000000000
+      internalID: 3298296827021114183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc5fa471de4aae90800000000000000
+      internalID: -7013706808163345224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c79d1d5d9f8c290800000000000000
+      internalID: -7869765652085900140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae69f76423cf35e0800000000000000
+      internalID: -1927607554360643927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf364f355b27760800000000000000
+      internalID: 7454219705438698569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b0aa78e1746650800000000000000
+      internalID: 6225225828236571706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60acae4e9a23a60b0800000000000000
+      internalID: -5734715470231451130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Empty_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fced6cee9a55d660800000000000000
+      internalID: 7409928400525978871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Military_Crate_Empty_32x32_0: -1453198291258549880
+      Military_Crate_Empty_32x32_1: 6601847197547822320
+      Military_Crate_Empty_32x32_10: 7454219705438698569
+      Military_Crate_Empty_32x32_11: 6225225828236571706
+      Military_Crate_Empty_32x32_12: -5734715470231451130
+      Military_Crate_Empty_32x32_13: 7409928400525978871
+      Military_Crate_Empty_32x32_2: -1823987993955502045
+      Military_Crate_Empty_32x32_3: 1294421123512340989
+      Military_Crate_Empty_32x32_4: -1937796655757240684
+      Military_Crate_Empty_32x32_5: 4161572331449412080
+      Military_Crate_Empty_32x32_6: 3298296827021114183
+      Military_Crate_Empty_32x32_7: -7013706808163345224
+      Military_Crate_Empty_32x32_8: -7869765652085900140
+      Military_Crate_Empty_32x32_9: -1927607554360643927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

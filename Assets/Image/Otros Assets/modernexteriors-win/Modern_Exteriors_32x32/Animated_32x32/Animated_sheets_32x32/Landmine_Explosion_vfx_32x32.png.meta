@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: f4c6a12d0f089824eb644b0a00360333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6451335367699285563
+    second: Landmine_Explosion_vfx_32x32_0
+  - first:
+      213: 6192536618005554365
+    second: Landmine_Explosion_vfx_32x32_1
+  - first:
+      213: 7164555686779498154
+    second: Landmine_Explosion_vfx_32x32_2
+  - first:
+      213: -7380268139184284724
+    second: Landmine_Explosion_vfx_32x32_3
+  - first:
+      213: 6089966785230485186
+    second: Landmine_Explosion_vfx_32x32_4
+  - first:
+      213: 4197733210276740068
+    second: Landmine_Explosion_vfx_32x32_5
+  - first:
+      213: -985993004947673211
+    second: Landmine_Explosion_vfx_32x32_6
+  - first:
+      213: -8860077592500939600
+    second: Landmine_Explosion_vfx_32x32_7
+  - first:
+      213: -97333893283801929
+    second: Landmine_Explosion_vfx_32x32_8
+  - first:
+      213: -6275575418744780731
+    second: Landmine_Explosion_vfx_32x32_9
+  - first:
+      213: -2033198947968417183
+    second: Landmine_Explosion_vfx_32x32_10
+  - first:
+      213: -94657291461790414
+    second: Landmine_Explosion_vfx_32x32_11
+  - first:
+      213: 7049822984726670268
+    second: Landmine_Explosion_vfx_32x32_12
+  - first:
+      213: -7347968888844850063
+    second: Landmine_Explosion_vfx_32x32_13
+  - first:
+      213: -6630062389381192709
+    second: Landmine_Explosion_vfx_32x32_14
+  - first:
+      213: 4531937424595046243
+    second: Landmine_Explosion_vfx_32x32_15
+  - first:
+      213: 6191825176967775624
+    second: Landmine_Explosion_vfx_32x32_16
+  - first:
+      213: 211379051954891667
+    second: Landmine_Explosion_vfx_32x32_17
+  - first:
+      213: 7817808372958559337
+    second: Landmine_Explosion_vfx_32x32_18
+  - first:
+      213: -146446237769843678
+    second: Landmine_Explosion_vfx_32x32_19
+  - first:
+      213: 7374561804879907955
+    second: Landmine_Explosion_vfx_32x32_20
+  - first:
+      213: -7362370650974677501
+    second: Landmine_Explosion_vfx_32x32_21
+  - first:
+      213: -1848179307710474209
+    second: Landmine_Explosion_vfx_32x32_22
+  - first:
+      213: 9194345767044996342
+    second: Landmine_Explosion_vfx_32x32_23
+  - first:
+      213: -5559720585925118246
+    second: Landmine_Explosion_vfx_32x32_24
+  - first:
+      213: 5945903285722649643
+    second: Landmine_Explosion_vfx_32x32_25
+  - first:
+      213: 2207725480057369973
+    second: Landmine_Explosion_vfx_32x32_26
+  - first:
+      213: 2246143520582657414
+    second: Landmine_Explosion_vfx_32x32_27
+  - first:
+      213: 6009411056527013544
+    second: Landmine_Explosion_vfx_32x32_28
+  - first:
+      213: 657986523984736036
+    second: Landmine_Explosion_vfx_32x32_29
+  - first:
+      213: -7334088858067059780
+    second: Landmine_Explosion_vfx_32x32_30
+  - first:
+      213: 7960817175934109744
+    second: Landmine_Explosion_vfx_32x32_31
+  - first:
+      213: -7377111138779101140
+    second: Landmine_Explosion_vfx_32x32_32
+  - first:
+      213: -7680436164652119287
+    second: Landmine_Explosion_vfx_32x32_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 39
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9be59e9a04876a0800000000000000
+      internalID: -6451335367699285563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 25
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e1de9e3f40f550800000000000000
+      internalID: 6192536618005554365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 23
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae2ffb007d9d6360800000000000000
+      internalID: 7164555686779498154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 65
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb99c0da35049990800000000000000
+      internalID: -7380268139184284724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 53
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6379f6688e38450800000000000000
+      internalID: 6089966785230485186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebb76c3d18514a30800000000000000
+      internalID: 4197733210276740068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 81
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fe215069c0152f0800000000000000
+      internalID: -985993004947673211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 81
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b455905f5eaa0580800000000000000
+      internalID: -8860077592500939600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4963af65336aef0800000000000000
+      internalID: -97333893283801929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5484b84f76da8e8a0800000000000000
+      internalID: -6275575418744780731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 65
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16205a44450a8c3e0800000000000000
+      internalID: -2033198947968417183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 83
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f407e1b5bfaef0800000000000000
+      internalID: -94657291461790414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 61
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb640e27a006d160800000000000000
+      internalID: 7049822984726670268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ce7cf0a35c60a90800000000000000
+      internalID: -7347968888844850063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 27
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3a14a62694df3a0800000000000000
+      internalID: -6630062389381192709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f4941931da4ee30800000000000000
+      internalID: 4531937424595046243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 27
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8850c785138cde550800000000000000
+      internalID: 6191825176967775624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 33
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39beab8b028fee200800000000000000
+      internalID: 211379051954891667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 61
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cf4407b4f6e7c60800000000000000
+      internalID: 7817808372958559337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 63
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c39033ce7b7fdf0800000000000000
+      internalID: -146446237769843678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc702b3e4b75660800000000000000
+      internalID: 7374561804879907955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30694e386ea93d990800000000000000
+      internalID: -7362370650974677501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 31
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1890b236b2f956e0800000000000000
+      internalID: -1848179307710474209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc55dae2c0e89f70800000000000000
+      internalID: 9194345767044996342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b1817597e7d2b0800000000000000
+      internalID: -5559720585925118246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 31
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24935e1987148250800000000000000
+      internalID: 5945903285722649643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f56880aa63ae10800000000000000
+      internalID: 2207725480057369973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685efd2a1a7eb2f10800000000000000
+      internalID: 2246143520582657414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6f8954487b56350800000000000000
+      internalID: 6009411056527013544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42faa15e143a12900800000000000000
+      internalID: 657986523984736036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 27
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb33cf8a05183a90800000000000000
+      internalID: -7334088858067059780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 23
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03881651b018a7e60800000000000000
+      internalID: 7960817175934109744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c288e70418c3f9990800000000000000
+      internalID: -7377111138779101140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Explosion_vfx_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc8dd300c996590800000000000000
+      internalID: -7680436164652119287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Landmine_Explosion_vfx_32x32_0: -6451335367699285563
+      Landmine_Explosion_vfx_32x32_1: 6192536618005554365
+      Landmine_Explosion_vfx_32x32_10: -2033198947968417183
+      Landmine_Explosion_vfx_32x32_11: -94657291461790414
+      Landmine_Explosion_vfx_32x32_12: 7049822984726670268
+      Landmine_Explosion_vfx_32x32_13: -7347968888844850063
+      Landmine_Explosion_vfx_32x32_14: -6630062389381192709
+      Landmine_Explosion_vfx_32x32_15: 4531937424595046243
+      Landmine_Explosion_vfx_32x32_16: 6191825176967775624
+      Landmine_Explosion_vfx_32x32_17: 211379051954891667
+      Landmine_Explosion_vfx_32x32_18: 7817808372958559337
+      Landmine_Explosion_vfx_32x32_19: -146446237769843678
+      Landmine_Explosion_vfx_32x32_2: 7164555686779498154
+      Landmine_Explosion_vfx_32x32_20: 7374561804879907955
+      Landmine_Explosion_vfx_32x32_21: -7362370650974677501
+      Landmine_Explosion_vfx_32x32_22: -1848179307710474209
+      Landmine_Explosion_vfx_32x32_23: 9194345767044996342
+      Landmine_Explosion_vfx_32x32_24: -5559720585925118246
+      Landmine_Explosion_vfx_32x32_25: 5945903285722649643
+      Landmine_Explosion_vfx_32x32_26: 2207725480057369973
+      Landmine_Explosion_vfx_32x32_27: 2246143520582657414
+      Landmine_Explosion_vfx_32x32_28: 6009411056527013544
+      Landmine_Explosion_vfx_32x32_29: 657986523984736036
+      Landmine_Explosion_vfx_32x32_3: -7380268139184284724
+      Landmine_Explosion_vfx_32x32_30: -7334088858067059780
+      Landmine_Explosion_vfx_32x32_31: 7960817175934109744
+      Landmine_Explosion_vfx_32x32_32: -7377111138779101140
+      Landmine_Explosion_vfx_32x32_33: -7680436164652119287
+      Landmine_Explosion_vfx_32x32_4: 6089966785230485186
+      Landmine_Explosion_vfx_32x32_5: 4197733210276740068
+      Landmine_Explosion_vfx_32x32_6: -985993004947673211
+      Landmine_Explosion_vfx_32x32_7: -8860077592500939600
+      Landmine_Explosion_vfx_32x32_8: -97333893283801929
+      Landmine_Explosion_vfx_32x32_9: -6275575418744780731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

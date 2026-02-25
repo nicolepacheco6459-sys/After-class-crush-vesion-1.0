@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 08cbd440e73701f4abd958f58c43d2ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6672519428211643181
+    second: Military_Bunker_Roof_Trapdoor_32x32_0
+  - first:
+      213: 5150381897818495452
+    second: Military_Bunker_Roof_Trapdoor_32x32_1
+  - first:
+      213: 2603627465701728536
+    second: Military_Bunker_Roof_Trapdoor_32x32_2
+  - first:
+      213: -3645010881118539468
+    second: Military_Bunker_Roof_Trapdoor_32x32_3
+  - first:
+      213: -8590025890397075984
+    second: Military_Bunker_Roof_Trapdoor_32x32_4
+  - first:
+      213: -3771962920586210155
+    second: Military_Bunker_Roof_Trapdoor_32x32_5
+  - first:
+      213: -902385529348028731
+    second: Military_Bunker_Roof_Trapdoor_32x32_6
+  - first:
+      213: -370989395926664291
+    second: Military_Bunker_Roof_Trapdoor_32x32_7
+  - first:
+      213: -1929608233135972069
+    second: Military_Bunker_Roof_Trapdoor_32x32_8
+  - first:
+      213: -6170735055788093110
+    second: Military_Bunker_Roof_Trapdoor_32x32_9
+  - first:
+      213: -2585320530922277208
+    second: Military_Bunker_Roof_Trapdoor_32x32_10
+  - first:
+      213: 3490639942468057642
+    second: Military_Bunker_Roof_Trapdoor_32x32_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6d8cbee27663a0800000000000000
+      internalID: -6672519428211643181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9d2155c05d97740800000000000000
+      internalID: 5150381897818495452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8112a9ca261f12420800000000000000
+      internalID: 2603627465701728536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431fe7c6ae15a6dc0800000000000000
+      internalID: -3645010881118539468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5497fe6f81ac880800000000000000
+      internalID: -8590025890397075984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 7
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594938c55bb47abc0800000000000000
+      internalID: -3771962920586210155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 7
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c602c064251a73f0800000000000000
+      internalID: -902385529348028731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bba582c1bf9daf0800000000000000
+      internalID: -370989395926664291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 7
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e2441987a835e0800000000000000
+      internalID: -1929608233135972069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 7
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4153b429252d5aa0800000000000000
+      internalID: -6170735055788093110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 7
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a67adbbca81f1cd0800000000000000
+      internalID: -2585320530922277208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Bunker_Roof_Trapdoor_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 7
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a3991988e317030800000000000000
+      internalID: 3490639942468057642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Military_Bunker_Roof_Trapdoor_32x32_0: -6672519428211643181
+      Military_Bunker_Roof_Trapdoor_32x32_1: 5150381897818495452
+      Military_Bunker_Roof_Trapdoor_32x32_10: -2585320530922277208
+      Military_Bunker_Roof_Trapdoor_32x32_11: 3490639942468057642
+      Military_Bunker_Roof_Trapdoor_32x32_2: 2603627465701728536
+      Military_Bunker_Roof_Trapdoor_32x32_3: -3645010881118539468
+      Military_Bunker_Roof_Trapdoor_32x32_4: -8590025890397075984
+      Military_Bunker_Roof_Trapdoor_32x32_5: -3771962920586210155
+      Military_Bunker_Roof_Trapdoor_32x32_6: -902385529348028731
+      Military_Bunker_Roof_Trapdoor_32x32_7: -370989395926664291
+      Military_Bunker_Roof_Trapdoor_32x32_8: -1929608233135972069
+      Military_Bunker_Roof_Trapdoor_32x32_9: -6170735055788093110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

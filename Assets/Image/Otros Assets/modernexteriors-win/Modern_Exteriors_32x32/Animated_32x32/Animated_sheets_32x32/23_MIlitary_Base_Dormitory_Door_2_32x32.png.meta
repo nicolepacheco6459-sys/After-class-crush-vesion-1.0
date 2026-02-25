@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: a309638304cbdc04493b9db8537c518c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7431877202186674447
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_0
+  - first:
+      213: -3840599629239342871
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_1
+  - first:
+      213: 956926936864722401
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_2
+  - first:
+      213: -8463940302223668136
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_3
+  - first:
+      213: 1840426023958447489
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_4
+  - first:
+      213: 573930818297096804
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_5
+  - first:
+      213: -2802702382943946501
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_6
+  - first:
+      213: 7209903926818251561
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_7
+  - first:
+      213: 7704482140847920041
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_8
+  - first:
+      213: -1876143295768052849
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_9
+  - first:
+      213: 4362881134416316164
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_10
+  - first:
+      213: 2754179081211574982
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_11
+  - first:
+      213: 9120894642797459824
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_12
+  - first:
+      213: -8942498656071074746
+    second: 23_MIlitary_Base_Dormitory_Door_2_32x32_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed6557f0bacd890800000000000000
+      internalID: -7431877202186674447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e821be4cf273bac0800000000000000
+      internalID: -3840599629239342871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed03d3aaffa74d00800000000000000
+      internalID: 956926936864722401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c88d5932b0a8a80800000000000000
+      internalID: -8463940302223668136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858d61c7b18a8910800000000000000
+      internalID: 1840426023958447489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a6f36d90307f700800000000000000
+      internalID: 573930818297096804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf83c75380dca19d0800000000000000
+      internalID: -2802702382943946501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92322b6fb69be0460800000000000000
+      internalID: 7209903926818251561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3d49fdfa1dbea60800000000000000
+      internalID: 7704482140847920041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bb30cdc9996f5e0800000000000000
+      internalID: -1876143295768052849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074326b6411c8c30800000000000000
+      internalID: 4362881134416316164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7d67384fc83620800000000000000
+      internalID: 2754179081211574982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079b4b16a5de39e70800000000000000
+      internalID: 9120894642797459824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_Dormitory_Door_2_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 13
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb9780adcd5e380800000000000000
+      internalID: -8942498656071074746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      23_MIlitary_Base_Dormitory_Door_2_32x32_0: -7431877202186674447
+      23_MIlitary_Base_Dormitory_Door_2_32x32_1: -3840599629239342871
+      23_MIlitary_Base_Dormitory_Door_2_32x32_10: 4362881134416316164
+      23_MIlitary_Base_Dormitory_Door_2_32x32_11: 2754179081211574982
+      23_MIlitary_Base_Dormitory_Door_2_32x32_12: 9120894642797459824
+      23_MIlitary_Base_Dormitory_Door_2_32x32_13: -8942498656071074746
+      23_MIlitary_Base_Dormitory_Door_2_32x32_2: 956926936864722401
+      23_MIlitary_Base_Dormitory_Door_2_32x32_3: -8463940302223668136
+      23_MIlitary_Base_Dormitory_Door_2_32x32_4: 1840426023958447489
+      23_MIlitary_Base_Dormitory_Door_2_32x32_5: 573930818297096804
+      23_MIlitary_Base_Dormitory_Door_2_32x32_6: -2802702382943946501
+      23_MIlitary_Base_Dormitory_Door_2_32x32_7: 7209903926818251561
+      23_MIlitary_Base_Dormitory_Door_2_32x32_8: 7704482140847920041
+      23_MIlitary_Base_Dormitory_Door_2_32x32_9: -1876143295768052849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5070 @@
+fileFormatVersion: 2
+guid: 0c2c3fbedb3ba8246adc7fc3b8845e0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2637038624397977997
+    second: Tank_Green_Divided_32x32_0
+  - first:
+      213: -4710315479136820503
+    second: Tank_Green_Divided_32x32_1
+  - first:
+      213: -7643981030622748842
+    second: Tank_Green_Divided_32x32_2
+  - first:
+      213: 9000273106208754093
+    second: Tank_Green_Divided_32x32_3
+  - first:
+      213: -3458419176779802670
+    second: Tank_Green_Divided_32x32_4
+  - first:
+      213: -8307594728899460090
+    second: Tank_Green_Divided_32x32_5
+  - first:
+      213: -8786914914445169861
+    second: Tank_Green_Divided_32x32_6
+  - first:
+      213: 7051812189035613967
+    second: Tank_Green_Divided_32x32_7
+  - first:
+      213: -4246053959478655079
+    second: Tank_Green_Divided_32x32_8
+  - first:
+      213: 4961162022695929047
+    second: Tank_Green_Divided_32x32_9
+  - first:
+      213: 8494490384236544876
+    second: Tank_Green_Divided_32x32_10
+  - first:
+      213: -6275622166080690557
+    second: Tank_Green_Divided_32x32_11
+  - first:
+      213: 5663157220434540859
+    second: Tank_Green_Divided_32x32_12
+  - first:
+      213: -3496034669091335170
+    second: Tank_Green_Divided_32x32_13
+  - first:
+      213: 4290389200729775330
+    second: Tank_Green_Divided_32x32_14
+  - first:
+      213: 7482506179087043825
+    second: Tank_Green_Divided_32x32_15
+  - first:
+      213: -5758154801547655118
+    second: Tank_Green_Divided_32x32_16
+  - first:
+      213: 4599633792353205455
+    second: Tank_Green_Divided_32x32_17
+  - first:
+      213: 6576609332923834934
+    second: Tank_Green_Divided_32x32_18
+  - first:
+      213: 6441598425321863802
+    second: Tank_Green_Divided_32x32_19
+  - first:
+      213: 5596560917027314701
+    second: Tank_Green_Divided_32x32_20
+  - first:
+      213: 2158186322135478862
+    second: Tank_Green_Divided_32x32_21
+  - first:
+      213: 1172179752327596810
+    second: Tank_Green_Divided_32x32_22
+  - first:
+      213: -5799406476571191495
+    second: Tank_Green_Divided_32x32_23
+  - first:
+      213: 7538539671531856561
+    second: Tank_Green_Divided_32x32_24
+  - first:
+      213: -771361679010637052
+    second: Tank_Green_Divided_32x32_25
+  - first:
+      213: -2427380302925064038
+    second: Tank_Green_Divided_32x32_26
+  - first:
+      213: -6986805927153161790
+    second: Tank_Green_Divided_32x32_27
+  - first:
+      213: 6039843149442333204
+    second: Tank_Green_Divided_32x32_28
+  - first:
+      213: -1756235401169422942
+    second: Tank_Green_Divided_32x32_29
+  - first:
+      213: -7446288348721085454
+    second: Tank_Green_Divided_32x32_30
+  - first:
+      213: -6916572082316690278
+    second: Tank_Green_Divided_32x32_31
+  - first:
+      213: 6805914518984149782
+    second: Tank_Green_Divided_32x32_32
+  - first:
+      213: -3962064450067856255
+    second: Tank_Green_Divided_32x32_33
+  - first:
+      213: -4902245756617231392
+    second: Tank_Green_Divided_32x32_34
+  - first:
+      213: 3751096280650767827
+    second: Tank_Green_Divided_32x32_35
+  - first:
+      213: 8629971077269502915
+    second: Tank_Green_Divided_32x32_36
+  - first:
+      213: 1119088566244830566
+    second: Tank_Green_Divided_32x32_37
+  - first:
+      213: 39392325707025042
+    second: Tank_Green_Divided_32x32_38
+  - first:
+      213: -6947914665843310887
+    second: Tank_Green_Divided_32x32_39
+  - first:
+      213: -5995271307821914868
+    second: Tank_Green_Divided_32x32_40
+  - first:
+      213: 962827273043953591
+    second: Tank_Green_Divided_32x32_41
+  - first:
+      213: 8592661872246067672
+    second: Tank_Green_Divided_32x32_42
+  - first:
+      213: 3808773720434671753
+    second: Tank_Green_Divided_32x32_43
+  - first:
+      213: 4130094420161880316
+    second: Tank_Green_Divided_32x32_44
+  - first:
+      213: -4119170929816203152
+    second: Tank_Green_Divided_32x32_45
+  - first:
+      213: -661567033642882644
+    second: Tank_Green_Divided_32x32_46
+  - first:
+      213: -5989124781262774028
+    second: Tank_Green_Divided_32x32_47
+  - first:
+      213: -943811703213684978
+    second: Tank_Green_Divided_32x32_48
+  - first:
+      213: 87437846821931895
+    second: Tank_Green_Divided_32x32_49
+  - first:
+      213: 333912924996806782
+    second: Tank_Green_Divided_32x32_50
+  - first:
+      213: -887841250449562419
+    second: Tank_Green_Divided_32x32_51
+  - first:
+      213: 1565855736726093150
+    second: Tank_Green_Divided_32x32_52
+  - first:
+      213: 1946736428136094211
+    second: Tank_Green_Divided_32x32_53
+  - first:
+      213: -5820147923976860331
+    second: Tank_Green_Divided_32x32_54
+  - first:
+      213: 7862366790320651148
+    second: Tank_Green_Divided_32x32_55
+  - first:
+      213: 5003096345650952399
+    second: Tank_Green_Divided_32x32_56
+  - first:
+      213: -1648915369798191993
+    second: Tank_Green_Divided_32x32_57
+  - first:
+      213: -824538894558424786
+    second: Tank_Green_Divided_32x32_58
+  - first:
+      213: 1603284552738019293
+    second: Tank_Green_Divided_32x32_59
+  - first:
+      213: -5369196593767575160
+    second: Tank_Green_Divided_32x32_60
+  - first:
+      213: 2322545166617991220
+    second: Tank_Green_Divided_32x32_61
+  - first:
+      213: -1368031200035089929
+    second: Tank_Green_Divided_32x32_62
+  - first:
+      213: -3829216745972561361
+    second: Tank_Green_Divided_32x32_63
+  - first:
+      213: 5116853278537173890
+    second: Tank_Green_Divided_32x32_64
+  - first:
+      213: -3859109423834643767
+    second: Tank_Green_Divided_32x32_65
+  - first:
+      213: 4755982720951422735
+    second: Tank_Green_Divided_32x32_66
+  - first:
+      213: -1673937937867183806
+    second: Tank_Green_Divided_32x32_67
+  - first:
+      213: -5991908313371886407
+    second: Tank_Green_Divided_32x32_68
+  - first:
+      213: 1048187720109160730
+    second: Tank_Green_Divided_32x32_69
+  - first:
+      213: 5669923168633203636
+    second: Tank_Green_Divided_32x32_70
+  - first:
+      213: -7553832163184986078
+    second: Tank_Green_Divided_32x32_71
+  - first:
+      213: -1943849717527444708
+    second: Tank_Green_Divided_32x32_72
+  - first:
+      213: 3331923081836944507
+    second: Tank_Green_Divided_32x32_73
+  - first:
+      213: 3326462630374014045
+    second: Tank_Green_Divided_32x32_74
+  - first:
+      213: -4530264429187409686
+    second: Tank_Green_Divided_32x32_75
+  - first:
+      213: 6319733349707011023
+    second: Tank_Green_Divided_32x32_76
+  - first:
+      213: 8457572242405713697
+    second: Tank_Green_Divided_32x32_77
+  - first:
+      213: 8690419586454046803
+    second: Tank_Green_Divided_32x32_78
+  - first:
+      213: 756487371036252362
+    second: Tank_Green_Divided_32x32_79
+  - first:
+      213: -9123190461352341277
+    second: Tank_Green_Divided_32x32_80
+  - first:
+      213: -5678645874356045318
+    second: Tank_Green_Divided_32x32_81
+  - first:
+      213: 6289807974821511372
+    second: Tank_Green_Divided_32x32_82
+  - first:
+      213: -2026288156367433942
+    second: Tank_Green_Divided_32x32_83
+  - first:
+      213: 8241764295266916556
+    second: Tank_Green_Divided_32x32_84
+  - first:
+      213: -1376000471552525375
+    second: Tank_Green_Divided_32x32_85
+  - first:
+      213: 3285767228072587982
+    second: Tank_Green_Divided_32x32_86
+  - first:
+      213: 7555176785157251090
+    second: Tank_Green_Divided_32x32_87
+  - first:
+      213: 5671773928967043438
+    second: Tank_Green_Divided_32x32_88
+  - first:
+      213: 6417998521382328929
+    second: Tank_Green_Divided_32x32_89
+  - first:
+      213: 3241008777508066423
+    second: Tank_Green_Divided_32x32_90
+  - first:
+      213: 2580722861706606823
+    second: Tank_Green_Divided_32x32_91
+  - first:
+      213: -4533383222477137893
+    second: Tank_Green_Divided_32x32_92
+  - first:
+      213: 4386033314394096462
+    second: Tank_Green_Divided_32x32_93
+  - first:
+      213: -3024207091145172010
+    second: Tank_Green_Divided_32x32_94
+  - first:
+      213: -5822564865152755123
+    second: Tank_Green_Divided_32x32_95
+  - first:
+      213: -3625634253941057724
+    second: Tank_Green_Divided_32x32_96
+  - first:
+      213: 2692676340936214567
+    second: Tank_Green_Divided_32x32_97
+  - first:
+      213: -5980939730580222542
+    second: Tank_Green_Divided_32x32_98
+  - first:
+      213: -5950503674542048830
+    second: Tank_Green_Divided_32x32_99
+  - first:
+      213: -6450711258027202995
+    second: Tank_Green_Divided_32x32_100
+  - first:
+      213: 2198391894909503943
+    second: Tank_Green_Divided_32x32_101
+  - first:
+      213: -2496577564365005088
+    second: Tank_Green_Divided_32x32_102
+  - first:
+      213: 4033098127810080292
+    second: Tank_Green_Divided_32x32_103
+  - first:
+      213: -6670894711420529969
+    second: Tank_Green_Divided_32x32_104
+  - first:
+      213: 5967094949315372256
+    second: Tank_Green_Divided_32x32_105
+  - first:
+      213: 3183415668064206335
+    second: Tank_Green_Divided_32x32_106
+  - first:
+      213: 177924837485797886
+    second: Tank_Green_Divided_32x32_107
+  - first:
+      213: -7942631750837397987
+    second: Tank_Green_Divided_32x32_108
+  - first:
+      213: 5357574009194096059
+    second: Tank_Green_Divided_32x32_109
+  - first:
+      213: 2133028972947611937
+    second: Tank_Green_Divided_32x32_110
+  - first:
+      213: -7609310615994991316
+    second: Tank_Green_Divided_32x32_111
+  - first:
+      213: -8907175403723303848
+    second: Tank_Green_Divided_32x32_112
+  - first:
+      213: -7065154782043832854
+    second: Tank_Green_Divided_32x32_113
+  - first:
+      213: 7891275808121922894
+    second: Tank_Green_Divided_32x32_114
+  - first:
+      213: -6687775985787345268
+    second: Tank_Green_Divided_32x32_115
+  - first:
+      213: 1854237597162155262
+    second: Tank_Green_Divided_32x32_116
+  - first:
+      213: 642529156979943220
+    second: Tank_Green_Divided_32x32_117
+  - first:
+      213: -7735748691767533630
+    second: Tank_Green_Divided_32x32_118
+  - first:
+      213: 7901089175438837662
+    second: Tank_Green_Divided_32x32_119
+  - first:
+      213: -6759396313672506306
+    second: Tank_Green_Divided_32x32_120
+  - first:
+      213: 1368670239262348185
+    second: Tank_Green_Divided_32x32_121
+  - first:
+      213: 6953532159146922669
+    second: Tank_Green_Divided_32x32_122
+  - first:
+      213: 8497233557245041322
+    second: Tank_Green_Divided_32x32_123
+  - first:
+      213: -7985104694230949004
+    second: Tank_Green_Divided_32x32_124
+  - first:
+      213: -1063937176368835068
+    second: Tank_Green_Divided_32x32_125
+  - first:
+      213: 9111888313024005593
+    second: Tank_Green_Divided_32x32_126
+  - first:
+      213: 4678847836376135539
+    second: Tank_Green_Divided_32x32_127
+  - first:
+      213: -3482787574375666417
+    second: Tank_Green_Divided_32x32_128
+  - first:
+      213: 9149956157326028064
+    second: Tank_Green_Divided_32x32_129
+  - first:
+      213: 3944337577158664831
+    second: Tank_Green_Divided_32x32_130
+  - first:
+      213: 4906546981619578207
+    second: Tank_Green_Divided_32x32_131
+  - first:
+      213: 2571698439279864882
+    second: Tank_Green_Divided_32x32_132
+  - first:
+      213: 3453005388840544994
+    second: Tank_Green_Divided_32x32_133
+  - first:
+      213: 7738782537700267535
+    second: Tank_Green_Divided_32x32_134
+  - first:
+      213: 465576060793944207
+    second: Tank_Green_Divided_32x32_135
+  - first:
+      213: -4072758328999516154
+    second: Tank_Green_Divided_32x32_136
+  - first:
+      213: 543101826029136797
+    second: Tank_Green_Divided_32x32_137
+  - first:
+      213: -9102247890794064052
+    second: Tank_Green_Divided_32x32_138
+  - first:
+      213: 1944952961972087414
+    second: Tank_Green_Divided_32x32_139
+  - first:
+      213: -8013743466451807651
+    second: Tank_Green_Divided_32x32_140
+  - first:
+      213: -2989868475386098612
+    second: Tank_Green_Divided_32x32_141
+  - first:
+      213: -6053016890997390363
+    second: Tank_Green_Divided_32x32_142
+  - first:
+      213: -8288865961632657578
+    second: Tank_Green_Divided_32x32_143
+  - first:
+      213: 5130620631558214934
+    second: Tank_Green_Divided_32x32_144
+  - first:
+      213: 7119461989771902309
+    second: Tank_Green_Divided_32x32_145
+  - first:
+      213: 3346240548515153903
+    second: Tank_Green_Divided_32x32_146
+  - first:
+      213: -4552424971512212893
+    second: Tank_Green_Divided_32x32_147
+  - first:
+      213: 2634400827210992944
+    second: Tank_Green_Divided_32x32_148
+  - first:
+      213: 5248621689870779373
+    second: Tank_Green_Divided_32x32_149
+  - first:
+      213: 1147862639064943917
+    second: Tank_Green_Divided_32x32_150
+  - first:
+      213: 2032273724260848327
+    second: Tank_Green_Divided_32x32_151
+  - first:
+      213: -3744857240638862798
+    second: Tank_Green_Divided_32x32_152
+  - first:
+      213: 1914568676442212710
+    second: Tank_Green_Divided_32x32_153
+  - first:
+      213: -3093837035353182247
+    second: Tank_Green_Divided_32x32_154
+  - first:
+      213: 5413353159120902140
+    second: Tank_Green_Divided_32x32_155
+  - first:
+      213: 5978621132526912593
+    second: Tank_Green_Divided_32x32_156
+  - first:
+      213: -464438658192469676
+    second: Tank_Green_Divided_32x32_157
+  - first:
+      213: -4637934549819236354
+    second: Tank_Green_Divided_32x32_158
+  - first:
+      213: -3367981646854993269
+    second: Tank_Green_Divided_32x32_159
+  - first:
+      213: 8157661044634719871
+    second: Tank_Green_Divided_32x32_160
+  - first:
+      213: -3236075482407312950
+    second: Tank_Green_Divided_32x32_161
+  - first:
+      213: -9211428638775754167
+    second: Tank_Green_Divided_32x32_162
+  - first:
+      213: 1855291382697404019
+    second: Tank_Green_Divided_32x32_163
+  - first:
+      213: 3592207405688245574
+    second: Tank_Green_Divided_32x32_164
+  - first:
+      213: 1384290246570225624
+    second: Tank_Green_Divided_32x32_165
+  - first:
+      213: -1280716130420937996
+    second: Tank_Green_Divided_32x32_166
+  - first:
+      213: -1750318249022488824
+    second: Tank_Green_Divided_32x32_167
+  - first:
+      213: 755117179623813237
+    second: Tank_Green_Divided_32x32_168
+  - first:
+      213: -6037254561741760235
+    second: Tank_Green_Divided_32x32_169
+  - first:
+      213: -9208103125006302345
+    second: Tank_Green_Divided_32x32_170
+  - first:
+      213: 7504218888386269898
+    second: Tank_Green_Divided_32x32_171
+  - first:
+      213: 5736171600306463796
+    second: Tank_Green_Divided_32x32_172
+  - first:
+      213: 2791123797929295164
+    second: Tank_Green_Divided_32x32_173
+  - first:
+      213: 907756413898605292
+    second: Tank_Green_Divided_32x32_174
+  - first:
+      213: -5893986424226728411
+    second: Tank_Green_Divided_32x32_175
+  - first:
+      213: -3728430915425711719
+    second: Tank_Green_Divided_32x32_176
+  - first:
+      213: -3726827945935180005
+    second: Tank_Green_Divided_32x32_177
+  - first:
+      213: -126981780351800359
+    second: Tank_Green_Divided_32x32_178
+  - first:
+      213: -7324005924334981273
+    second: Tank_Green_Divided_32x32_179
+  - first:
+      213: 8069880985158534882
+    second: Tank_Green_Divided_32x32_180
+  - first:
+      213: -5160614136327363481
+    second: Tank_Green_Divided_32x32_181
+  - first:
+      213: -8953926849773318806
+    second: Tank_Green_Divided_32x32_182
+  - first:
+      213: -5293664113325314841
+    second: Tank_Green_Divided_32x32_183
+  - first:
+      213: 1085118184622983997
+    second: Tank_Green_Divided_32x32_184
+  - first:
+      213: 4301356793260260138
+    second: Tank_Green_Divided_32x32_185
+  - first:
+      213: -7261170580442628965
+    second: Tank_Green_Divided_32x32_186
+  - first:
+      213: -7115084148839657489
+    second: Tank_Green_Divided_32x32_187
+  - first:
+      213: 4682971541369744420
+    second: Tank_Green_Divided_32x32_188
+  - first:
+      213: -8642149045937683263
+    second: Tank_Green_Divided_32x32_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6975
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e93248a4a89420800000000000000
+      internalID: 2637038624397977997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6975
+        width: 146
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a60e270991aeb0800000000000000
+      internalID: -4710315479136820503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 6975
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f18ef80cf1be590800000000000000
+      internalID: -7643981030622748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 6975
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9031164b467ec70800000000000000
+      internalID: 9000273106208754093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 6911
+        width: 1058
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d714ab051a3100d0800000000000000
+      internalID: -3458419176779802670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6527
+        width: 353
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044a0e0c9e75bc80800000000000000
+      internalID: -8307594728899460090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be9ecb07b9e0680800000000000000
+      internalID: -8786914914445169861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6207
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fcc36e2d11dd160800000000000000
+      internalID: 7051812189035613967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 6207
+        width: 254
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974220ab6cf215c0800000000000000
+      internalID: -4246053959478655079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 6207
+        width: 258
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d403f3039699d440800000000000000
+      internalID: 4961162022695929047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 6299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63046caffd72e570800000000000000
+      internalID: 8494490384236544876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 6207
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386613eb3e288e8a0800000000000000
+      internalID: -6275622166080690557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 6301
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39703fbc73979e40800000000000000
+      internalID: 5663157220434540859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 6207
+        width: 248
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef35c52cdf69b7fc0800000000000000
+      internalID: -3496034669091335170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 6303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec9ba12f368a8b30800000000000000
+      internalID: 4290389200729775330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 6207
+        width: 250
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc0622d9b337d760800000000000000
+      internalID: 7482506179087043825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ca0c47bce610b0800000000000000
+      internalID: -5758154801547655118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 6215
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc7812709e25df30800000000000000
+      internalID: 4599633792353205455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 6217
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632a17b085fc44b50800000000000000
+      internalID: 6576609332923834934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 6219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a760783a7256950800000000000000
+      internalID: 6441598425321863802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c5f3f808afaad40800000000000000
+      internalID: 5596560917027314701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fdf1860b63fd10800000000000000
+      internalID: 2158186322135478862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b4466364b644010800000000000000
+      internalID: 1172179752327596810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937dfdf398e548fa0800000000000000
+      internalID: -5799406476571191495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2a8dee3e54e9860800000000000000
+      internalID: 7538539671531856561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd839c3a29b45f0800000000000000
+      internalID: -771361679010637052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981f5da976305ed0800000000000000
+      internalID: -2427380302925064038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c92175e601e90f90800000000000000
+      internalID: -6986805927153161790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a369d0855d1d350800000000000000
+      internalID: 6039843149442333204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b453253990a7e0800000000000000
+      internalID: -1756235401169422942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3895fe23879a890800000000000000
+      internalID: -7446288348721085454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 5885
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c312236566300a0800000000000000
+      internalID: -6916572082316690278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b49bb1237737e50800000000000000
+      internalID: 6805914518984149782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1848084ef5be309c0800000000000000
+      internalID: -3962064450067856255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f9232579b7fbb0800000000000000
+      internalID: -4902245756617231392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd5a7e61329e0430800000000000000
+      internalID: 3751096280650767827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 5651
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb3b82a8f0d3c770800000000000000
+      internalID: 8629971077269502915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 6003
+        y: 5883
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d693f2f1dc78f00800000000000000
+      internalID: 1119088566244830566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ac4ac8c13fb8000800000000000000
+      internalID: 39392325707025042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debeac4c6c049f90800000000000000
+      internalID: -6947914665843310887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ee2582848ccca0800000000000000
+      internalID: -5995271307821914868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7c7d5bd46ac5d00800000000000000
+      internalID: 962827273043953591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1154a62744f3770800000000000000
+      internalID: 8592661872246067672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 5767
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800a5cd48b7bd430800000000000000
+      internalID: 3808773720434671753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5439
+        width: 160
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf062923efa015930800000000000000
+      internalID: 4130094420161880316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5439
+        width: 152
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07090371dd3c5d6c0800000000000000
+      internalID: -4119170929816203152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 5439
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca96b9cb944a1d6f0800000000000000
+      internalID: -661567033642882644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 5439
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0e7514eba52eca0800000000000000
+      internalID: -5989124781262774028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 5439
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078717a148e6e2f0800000000000000
+      internalID: -943811703213684978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 5453
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b0fb72244a63100800000000000000
+      internalID: 87437846821931895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 5439
+        width: 158
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78a850490c42a400800000000000000
+      internalID: 333912924996806782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e3023611cda3f0800000000000000
+      internalID: -887841250449562419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5df01d0f790bb510800000000000000
+      internalID: 1565855736726093150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a5d569772340b10800000000000000
+      internalID: 1946736428136094211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc123bc4eaa3fa0800000000000000
+      internalID: -5820147923976860331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf3ee60fcbc1d60800000000000000
+      internalID: 7862366790320651148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8749b6e919e6540800000000000000
+      internalID: 5003096345650952399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7843f7e1530ed19e0800000000000000
+      internalID: -1648915369798191993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e211a567e36ae84f0800000000000000
+      internalID: -824538894558424786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd712df5ec2004610800000000000000
+      internalID: 1603284552738019293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8811f3b2528cc75b0800000000000000
+      internalID: -5369196593767575160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d01f06865b3020800000000000000
+      internalID: 2322545166617991220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 5163
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d1482fd6c30de0800000000000000
+      internalID: -1368031200035089929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a045858a3ebdac0800000000000000
+      internalID: -3829216745972561361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b400352f6b20740800000000000000
+      internalID: 5116853278537173890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c249faec60b17ac0800000000000000
+      internalID: -3859109423834643767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f84302615a00240800000000000000
+      internalID: 4755982720951422735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249606d705af4c8e0800000000000000
+      internalID: -1673937937867183806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 5167
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc32cea22778dca0800000000000000
+      internalID: -5991908313371886407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19780b8d29eb8e00800000000000000
+      internalID: 1048187720109160730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba322d41d9fae40800000000000000
+      internalID: 5669923168633203636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22830746ba56b2790800000000000000
+      internalID: -7553832163184986078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13880a1bfe0605e0800000000000000
+      internalID: -1943849717527444708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd0dfb36e5d3e20800000000000000
+      internalID: 3331923081836944507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 5047
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cfd025328f92e20800000000000000
+      internalID: 3326462630374014045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4671
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae852b701844121c0800000000000000
+      internalID: -4530264429187409686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4767
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3d9788ff334b750800000000000000
+      internalID: 6319733349707011023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4671
+        width: 254
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ebc2f4255f5570800000000000000
+      internalID: 8457572242405713697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4671
+        width: 258
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358c0bfe1929a9870800000000000000
+      internalID: 8690419586454046803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4671
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85fa381459f7a00800000000000000
+      internalID: 756487371036252362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4763
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e09cd4bc9ae36180800000000000000
+      internalID: -9123190461352341277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 4671
+        width: 248
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af935cdf9a56131b0800000000000000
+      internalID: -5678645874356045318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 4765
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c7ac3703e94750800000000000000
+      internalID: 6289807974821511372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 4671
+        width: 250
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f432358ad21e3e0800000000000000
+      internalID: -2026288156367433942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 4767
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8d1e5b5f0a06270800000000000000
+      internalID: 8241764295266916556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4681
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb775a8cd677ece0800000000000000
+      internalID: -1376000471552525375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4679
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2f2eb92e3699d20800000000000000
+      internalID: 3285767228072587982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 4681
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210639ec14169d860800000000000000
+      internalID: 7555176785157251090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 4683
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69f66a865036be40800000000000000
+      internalID: 5671773928967043438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ad9f3b6af411950800000000000000
+      internalID: 6417998521382328929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7749a41cf406afc20800000000000000
+      internalID: 3241008777508066423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e870cbf4c190d320800000000000000
+      internalID: 2580722861706606823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d8816aff2611c0800000000000000
+      internalID: -4533383222477137893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434d7daf025edc30800000000000000
+      internalID: 4386033314394096462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db131d6cabd706d0800000000000000
+      internalID: -3024207091145172010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a56eaba18123fa0800000000000000
+      internalID: -5822564865152755123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447da500bd82fadc0800000000000000
+      internalID: -3625634253941057724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280a9c9dde4e5520800000000000000
+      internalID: 2692676340936214567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdcebfd00f6ffca0800000000000000
+      internalID: -5980939730580222542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b3446f609b6da0800000000000000
+      internalID: -5950503674542048830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 4347
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46eca4c9487a76a0800000000000000
+      internalID: -6450711258027202995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cd25e7c1428e10800000000000000
+      internalID: 2198391894909503943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee50d1ceef5a5dd0800000000000000
+      internalID: -2496577564365005088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ea964016178f730800000000000000
+      internalID: 4033098127810080292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25fb79a983c63a0800000000000000
+      internalID: -6670894711420529969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e468facd316fc250800000000000000
+      internalID: 5967094949315372256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 4347
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd31630fa3cd2c20800000000000000
+      internalID: 3183415668064206335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 6467
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef16f0f62bd187200800000000000000
+      internalID: 177924837485797886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d161995218a16c190800000000000000
+      internalID: -7942631750837397987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb521ebfc2de95a40800000000000000
+      internalID: 5357574009194096059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121a824bc8a0a9d10800000000000000
+      internalID: 2133028972947611937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d72048f4c466690800000000000000
+      internalID: -7609310615994991316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 4231
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d9fc992b536480800000000000000
+      internalID: -8907175403723303848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4085
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedff15982783fd90800000000000000
+      internalID: -7065154782043832854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3903
+        width: 148
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45adb7a981738d60800000000000000
+      internalID: 7891275808121922894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4085
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e1cd9c2f3033a0800000000000000
+      internalID: -6687775985787345268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc260c35439bb910800000000000000
+      internalID: 1854237597162155262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3903
+        width: 152
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ee9f2dd8bae800800000000000000
+      internalID: 642529156979943220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 4089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd083fc8915a490800000000000000
+      internalID: -7735748691767533630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 3903
+        width: 156
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9747b84ebe46ad60800000000000000
+      internalID: 7901089175438837662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3903
+        width: 156
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3427739ddcc132a0800000000000000
+      internalID: -6759396313672506306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 3903
+        width: 154
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99391e1c45e7ef210800000000000000
+      internalID: 1368670239262348185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 3903
+        width: 154
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2153848a8ef7060800000000000000
+      internalID: 6953532159146922669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3915
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa9e1966ec3ce570800000000000000
+      internalID: 8497233557245041322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3921
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4736f0666953f2190800000000000000
+      internalID: -7985104694230949004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406143b66c22c31f0800000000000000
+      internalID: -1063937176368835068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d544d2d42ee37e70800000000000000
+      internalID: 9111888313024005593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377fd4d415b9ee040800000000000000
+      internalID: 4678847836376135539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0da1395727aaafc0800000000000000
+      internalID: -3482787574375666417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02de0d385ac2bfe70800000000000000
+      internalID: 9149956157326028064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7264c0e02a1db630800000000000000
+      internalID: 3944337577158664831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f553339db7e871440800000000000000
+      internalID: 4906546981619578207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ce3b6ea1280b320800000000000000
+      internalID: 2571698439279864882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa9593b1a8bef20800000000000000
+      internalID: 3453005388840544994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06de9957bda56b60800000000000000
+      internalID: 7738782537700267535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887c87e5fe067600800000000000000
+      internalID: 465576060793944207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 3593
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60868ffc0e7aa77c0800000000000000
+      internalID: -4072758328999516154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b2559bb3c798700800000000000000
+      internalID: 543101826029136797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47dba3e4c15ea180800000000000000
+      internalID: -9102247890794064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa0330a6cddfa10800000000000000
+      internalID: 1944952961972087414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d525801a6c679c090800000000000000
+      internalID: -8013743466451807651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c097f667ad186d0800000000000000
+      internalID: -2989868475386098612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 3593
+        width: 224
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e349a8353d5ffba0800000000000000
+      internalID: -6053016890997390363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0f0ef25808fc80800000000000000
+      internalID: -8288865961632657578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615515df740a33740800000000000000
+      internalID: 5130620631558214934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dff3c85f86dc260800000000000000
+      internalID: 7119461989771902309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7014bbc0c307e20800000000000000
+      internalID: 3346240548515153903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 7873
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629562bb9982d0c0800000000000000
+      internalID: -4552424971512212893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 3471
+        width: 92
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d08ed38954f8420800000000000000
+      internalID: 2634400827210992944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3071
+        width: 353
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de388295e99d6d840800000000000000
+      internalID: 5248621689870779373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2751
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d88641df60eef00800000000000000
+      internalID: 1147862639064943917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2751
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29dec4f26143c10800000000000000
+      internalID: 2032273724260848327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23acb254e28970cc0800000000000000
+      internalID: -3744857240638862798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698d61411ae19a10800000000000000
+      internalID: 1914568676442212710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2429
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df63d2bb9b7015d0800000000000000
+      internalID: -3093837035353182247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2429
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d32d5408102b40800000000000000
+      internalID: 5413353159120902140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15409e27e3458f250800000000000000
+      internalID: 5978621132526912593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2427
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4519a76408bfd89f0800000000000000
+      internalID: -464438658192469676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2303
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff538a891fb2afb0800000000000000
+      internalID: -4637934549819236354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2303
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4c2959868241d0800000000000000
+      internalID: -3367981646854993269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1983
+        width: 146
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769e7bbf75d53170800000000000000
+      internalID: 8157661044634719871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1983
+        width: 146
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e2c48e762713d0800000000000000
+      internalID: -3236075482407312950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94249ef057e6a2080800000000000000
+      internalID: -9211428638775754167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376a58ccea15fb910800000000000000
+      internalID: 1855291382697404019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1707
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d43976a951ad130800000000000000
+      internalID: 3592207405688245574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1707
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2bdc15acf53310800000000000000
+      internalID: 1384290246570225624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa524077bf93ee0800000000000000
+      internalID: -1280716130420937996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1711
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f712b73de95b7e0800000000000000
+      internalID: -1750318249022488824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1583
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b547f217ba7a00800000000000000
+      internalID: 755117179623813237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1583
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51996cc76fc573ca0800000000000000
+      internalID: -6037254561741760235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1215
+        width: 244
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c5d29efe363080800000000000000
+      internalID: -9208103125006302345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1215
+        width: 254
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac25a07e157542860800000000000000
+      internalID: 7504218888386269898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43463fecda9fa9f40800000000000000
+      internalID: 5736171600306463796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df6b36e401cb620800000000000000
+      internalID: 2791123797929295164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 891
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2420126aff89c00800000000000000
+      internalID: 907756413898605292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 891
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526bdf8239a543ea0800000000000000
+      internalID: -5893986424226728411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999477426d3f14cc0800000000000000
+      internalID: -3728430915425711719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 891
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe88f8ab5a74cc0800000000000000
+      internalID: -3726827945935180005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 767
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db2f295ebedc3ef0800000000000000
+      internalID: -126981780351800359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 767
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f28238a67eb5a90800000000000000
+      internalID: -7324005924334981273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 447
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6cd0cfff9fdff60800000000000000
+      internalID: 8069880985158534882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 447
+        width: 146
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764295df8c0d168b0800000000000000
+      internalID: -5160614136327363481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dcd6658f24db380800000000000000
+      internalID: -8953926849773318806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece20539802986b0800000000000000
+      internalID: -5293664113325314841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 137
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b05cd5d3d1f0f00800000000000000
+      internalID: 1085118184622983997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 137
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bbd72c63d71bb30800000000000000
+      internalID: 4301356793260260138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c333314d32b3b90800000000000000
+      internalID: -7261170580442628965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 137
+        width: 236
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef4669f9a4224d90800000000000000
+      internalID: -7115084148839657489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 7
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c6b903ec14df040800000000000000
+      internalID: 4682971541369744420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tank_Green_Divided_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 7
+        width: 92
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c447e41b3be01880800000000000000
+      internalID: -8642149045937683263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tank_Green_Divided_32x32_0: 2637038624397977997
+      Tank_Green_Divided_32x32_1: -4710315479136820503
+      Tank_Green_Divided_32x32_10: 8494490384236544876
+      Tank_Green_Divided_32x32_100: -6450711258027202995
+      Tank_Green_Divided_32x32_101: 2198391894909503943
+      Tank_Green_Divided_32x32_102: -2496577564365005088
+      Tank_Green_Divided_32x32_103: 4033098127810080292
+      Tank_Green_Divided_32x32_104: -6670894711420529969
+      Tank_Green_Divided_32x32_105: 5967094949315372256
+      Tank_Green_Divided_32x32_106: 3183415668064206335
+      Tank_Green_Divided_32x32_107: 177924837485797886
+      Tank_Green_Divided_32x32_108: -7942631750837397987
+      Tank_Green_Divided_32x32_109: 5357574009194096059
+      Tank_Green_Divided_32x32_11: -6275622166080690557
+      Tank_Green_Divided_32x32_110: 2133028972947611937
+      Tank_Green_Divided_32x32_111: -7609310615994991316
+      Tank_Green_Divided_32x32_112: -8907175403723303848
+      Tank_Green_Divided_32x32_113: -7065154782043832854
+      Tank_Green_Divided_32x32_114: 7891275808121922894
+      Tank_Green_Divided_32x32_115: -6687775985787345268
+      Tank_Green_Divided_32x32_116: 1854237597162155262
+      Tank_Green_Divided_32x32_117: 642529156979943220
+      Tank_Green_Divided_32x32_118: -7735748691767533630
+      Tank_Green_Divided_32x32_119: 7901089175438837662
+      Tank_Green_Divided_32x32_12: 5663157220434540859
+      Tank_Green_Divided_32x32_120: -6759396313672506306
+      Tank_Green_Divided_32x32_121: 1368670239262348185
+      Tank_Green_Divided_32x32_122: 6953532159146922669
+      Tank_Green_Divided_32x32_123: 8497233557245041322
+      Tank_Green_Divided_32x32_124: -7985104694230949004
+      Tank_Green_Divided_32x32_125: -1063937176368835068
+      Tank_Green_Divided_32x32_126: 9111888313024005593
+      Tank_Green_Divided_32x32_127: 4678847836376135539
+      Tank_Green_Divided_32x32_128: -3482787574375666417
+      Tank_Green_Divided_32x32_129: 9149956157326028064
+      Tank_Green_Divided_32x32_13: -3496034669091335170
+      Tank_Green_Divided_32x32_130: 3944337577158664831
+      Tank_Green_Divided_32x32_131: 4906546981619578207
+      Tank_Green_Divided_32x32_132: 2571698439279864882
+      Tank_Green_Divided_32x32_133: 3453005388840544994
+      Tank_Green_Divided_32x32_134: 7738782537700267535
+      Tank_Green_Divided_32x32_135: 465576060793944207
+      Tank_Green_Divided_32x32_136: -4072758328999516154
+      Tank_Green_Divided_32x32_137: 543101826029136797
+      Tank_Green_Divided_32x32_138: -9102247890794064052
+      Tank_Green_Divided_32x32_139: 1944952961972087414
+      Tank_Green_Divided_32x32_14: 4290389200729775330
+      Tank_Green_Divided_32x32_140: -8013743466451807651
+      Tank_Green_Divided_32x32_141: -2989868475386098612
+      Tank_Green_Divided_32x32_142: -6053016890997390363
+      Tank_Green_Divided_32x32_143: -8288865961632657578
+      Tank_Green_Divided_32x32_144: 5130620631558214934
+      Tank_Green_Divided_32x32_145: 7119461989771902309
+      Tank_Green_Divided_32x32_146: 3346240548515153903
+      Tank_Green_Divided_32x32_147: -4552424971512212893
+      Tank_Green_Divided_32x32_148: 2634400827210992944
+      Tank_Green_Divided_32x32_149: 5248621689870779373
+      Tank_Green_Divided_32x32_15: 7482506179087043825
+      Tank_Green_Divided_32x32_150: 1147862639064943917
+      Tank_Green_Divided_32x32_151: 2032273724260848327
+      Tank_Green_Divided_32x32_152: -3744857240638862798
+      Tank_Green_Divided_32x32_153: 1914568676442212710
+      Tank_Green_Divided_32x32_154: -3093837035353182247
+      Tank_Green_Divided_32x32_155: 5413353159120902140
+      Tank_Green_Divided_32x32_156: 5978621132526912593
+      Tank_Green_Divided_32x32_157: -464438658192469676
+      Tank_Green_Divided_32x32_158: -4637934549819236354
+      Tank_Green_Divided_32x32_159: -3367981646854993269
+      Tank_Green_Divided_32x32_16: -5758154801547655118
+      Tank_Green_Divided_32x32_160: 8157661044634719871
+      Tank_Green_Divided_32x32_161: -3236075482407312950
+      Tank_Green_Divided_32x32_162: -9211428638775754167
+      Tank_Green_Divided_32x32_163: 1855291382697404019
+      Tank_Green_Divided_32x32_164: 3592207405688245574
+      Tank_Green_Divided_32x32_165: 1384290246570225624
+      Tank_Green_Divided_32x32_166: -1280716130420937996
+      Tank_Green_Divided_32x32_167: -1750318249022488824
+      Tank_Green_Divided_32x32_168: 755117179623813237
+      Tank_Green_Divided_32x32_169: -6037254561741760235
+      Tank_Green_Divided_32x32_17: 4599633792353205455
+      Tank_Green_Divided_32x32_170: -9208103125006302345
+      Tank_Green_Divided_32x32_171: 7504218888386269898
+      Tank_Green_Divided_32x32_172: 5736171600306463796
+      Tank_Green_Divided_32x32_173: 2791123797929295164
+      Tank_Green_Divided_32x32_174: 907756413898605292
+      Tank_Green_Divided_32x32_175: -5893986424226728411
+      Tank_Green_Divided_32x32_176: -3728430915425711719
+      Tank_Green_Divided_32x32_177: -3726827945935180005
+      Tank_Green_Divided_32x32_178: -126981780351800359
+      Tank_Green_Divided_32x32_179: -7324005924334981273
+      Tank_Green_Divided_32x32_18: 6576609332923834934
+      Tank_Green_Divided_32x32_180: 8069880985158534882
+      Tank_Green_Divided_32x32_181: -5160614136327363481
+      Tank_Green_Divided_32x32_182: -8953926849773318806
+      Tank_Green_Divided_32x32_183: -5293664113325314841
+      Tank_Green_Divided_32x32_184: 1085118184622983997
+      Tank_Green_Divided_32x32_185: 4301356793260260138
+      Tank_Green_Divided_32x32_186: -7261170580442628965
+      Tank_Green_Divided_32x32_187: -7115084148839657489
+      Tank_Green_Divided_32x32_188: 4682971541369744420
+      Tank_Green_Divided_32x32_189: -8642149045937683263
+      Tank_Green_Divided_32x32_19: 6441598425321863802
+      Tank_Green_Divided_32x32_2: -7643981030622748842
+      Tank_Green_Divided_32x32_20: 5596560917027314701
+      Tank_Green_Divided_32x32_21: 2158186322135478862
+      Tank_Green_Divided_32x32_22: 1172179752327596810
+      Tank_Green_Divided_32x32_23: -5799406476571191495
+      Tank_Green_Divided_32x32_24: 7538539671531856561
+      Tank_Green_Divided_32x32_25: -771361679010637052
+      Tank_Green_Divided_32x32_26: -2427380302925064038
+      Tank_Green_Divided_32x32_27: -6986805927153161790
+      Tank_Green_Divided_32x32_28: 6039843149442333204
+      Tank_Green_Divided_32x32_29: -1756235401169422942
+      Tank_Green_Divided_32x32_3: 9000273106208754093
+      Tank_Green_Divided_32x32_30: -7446288348721085454
+      Tank_Green_Divided_32x32_31: -6916572082316690278
+      Tank_Green_Divided_32x32_32: 6805914518984149782
+      Tank_Green_Divided_32x32_33: -3962064450067856255
+      Tank_Green_Divided_32x32_34: -4902245756617231392
+      Tank_Green_Divided_32x32_35: 3751096280650767827
+      Tank_Green_Divided_32x32_36: 8629971077269502915
+      Tank_Green_Divided_32x32_37: 1119088566244830566
+      Tank_Green_Divided_32x32_38: 39392325707025042
+      Tank_Green_Divided_32x32_39: -6947914665843310887
+      Tank_Green_Divided_32x32_4: -3458419176779802670
+      Tank_Green_Divided_32x32_40: -5995271307821914868
+      Tank_Green_Divided_32x32_41: 962827273043953591
+      Tank_Green_Divided_32x32_42: 8592661872246067672
+      Tank_Green_Divided_32x32_43: 3808773720434671753
+      Tank_Green_Divided_32x32_44: 4130094420161880316
+      Tank_Green_Divided_32x32_45: -4119170929816203152
+      Tank_Green_Divided_32x32_46: -661567033642882644
+      Tank_Green_Divided_32x32_47: -5989124781262774028
+      Tank_Green_Divided_32x32_48: -943811703213684978
+      Tank_Green_Divided_32x32_49: 87437846821931895
+      Tank_Green_Divided_32x32_5: -8307594728899460090
+      Tank_Green_Divided_32x32_50: 333912924996806782
+      Tank_Green_Divided_32x32_51: -887841250449562419
+      Tank_Green_Divided_32x32_52: 1565855736726093150
+      Tank_Green_Divided_32x32_53: 1946736428136094211
+      Tank_Green_Divided_32x32_54: -5820147923976860331
+      Tank_Green_Divided_32x32_55: 7862366790320651148
+      Tank_Green_Divided_32x32_56: 5003096345650952399
+      Tank_Green_Divided_32x32_57: -1648915369798191993
+      Tank_Green_Divided_32x32_58: -824538894558424786
+      Tank_Green_Divided_32x32_59: 1603284552738019293
+      Tank_Green_Divided_32x32_6: -8786914914445169861
+      Tank_Green_Divided_32x32_60: -5369196593767575160
+      Tank_Green_Divided_32x32_61: 2322545166617991220
+      Tank_Green_Divided_32x32_62: -1368031200035089929
+      Tank_Green_Divided_32x32_63: -3829216745972561361
+      Tank_Green_Divided_32x32_64: 5116853278537173890
+      Tank_Green_Divided_32x32_65: -3859109423834643767
+      Tank_Green_Divided_32x32_66: 4755982720951422735
+      Tank_Green_Divided_32x32_67: -1673937937867183806
+      Tank_Green_Divided_32x32_68: -5991908313371886407
+      Tank_Green_Divided_32x32_69: 1048187720109160730
+      Tank_Green_Divided_32x32_7: 7051812189035613967
+      Tank_Green_Divided_32x32_70: 5669923168633203636
+      Tank_Green_Divided_32x32_71: -7553832163184986078
+      Tank_Green_Divided_32x32_72: -1943849717527444708
+      Tank_Green_Divided_32x32_73: 3331923081836944507
+      Tank_Green_Divided_32x32_74: 3326462630374014045
+      Tank_Green_Divided_32x32_75: -4530264429187409686
+      Tank_Green_Divided_32x32_76: 6319733349707011023
+      Tank_Green_Divided_32x32_77: 8457572242405713697
+      Tank_Green_Divided_32x32_78: 8690419586454046803
+      Tank_Green_Divided_32x32_79: 756487371036252362
+      Tank_Green_Divided_32x32_8: -4246053959478655079
+      Tank_Green_Divided_32x32_80: -9123190461352341277
+      Tank_Green_Divided_32x32_81: -5678645874356045318
+      Tank_Green_Divided_32x32_82: 6289807974821511372
+      Tank_Green_Divided_32x32_83: -2026288156367433942
+      Tank_Green_Divided_32x32_84: 8241764295266916556
+      Tank_Green_Divided_32x32_85: -1376000471552525375
+      Tank_Green_Divided_32x32_86: 3285767228072587982
+      Tank_Green_Divided_32x32_87: 7555176785157251090
+      Tank_Green_Divided_32x32_88: 5671773928967043438
+      Tank_Green_Divided_32x32_89: 6417998521382328929
+      Tank_Green_Divided_32x32_9: 4961162022695929047
+      Tank_Green_Divided_32x32_90: 3241008777508066423
+      Tank_Green_Divided_32x32_91: 2580722861706606823
+      Tank_Green_Divided_32x32_92: -4533383222477137893
+      Tank_Green_Divided_32x32_93: 4386033314394096462
+      Tank_Green_Divided_32x32_94: -3024207091145172010
+      Tank_Green_Divided_32x32_95: -5822564865152755123
+      Tank_Green_Divided_32x32_96: -3625634253941057724
+      Tank_Green_Divided_32x32_97: 2692676340936214567
+      Tank_Green_Divided_32x32_98: -5980939730580222542
+      Tank_Green_Divided_32x32_99: -5950503674542048830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 58a24352340937c4f8cb37055f8332cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4803300928737103134
+    second: Haunted_House_Door_Opening_48x48_0
+  - first:
+      213: -5192562768234185400
+    second: Haunted_House_Door_Opening_48x48_1
+  - first:
+      213: 2618999000033793536
+    second: Haunted_House_Door_Opening_48x48_2
+  - first:
+      213: -464988768486479980
+    second: Haunted_House_Door_Opening_48x48_3
+  - first:
+      213: 3815488561987144541
+    second: Haunted_House_Door_Opening_48x48_4
+  - first:
+      213: 6296753322582009049
+    second: Haunted_House_Door_Opening_48x48_5
+  - first:
+      213: -8786446450032964657
+    second: Haunted_House_Door_Opening_48x48_6
+  - first:
+      213: -4286775996487524045
+    second: Haunted_House_Door_Opening_48x48_7
+  - first:
+      213: -5756757297112133811
+    second: Haunted_House_Door_Opening_48x48_8
+  - first:
+      213: -8857113042598317419
+    second: Haunted_House_Door_Opening_48x48_9
+  - first:
+      213: -2776068303963828564
+    second: Haunted_House_Door_Opening_48x48_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1727
+        width: 6144
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23259114f375db0800000000000000
+      internalID: -4803300928737103134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1568
+        width: 518
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d7b757caf40f7b0800000000000000
+      internalID: -5192562768234185400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 4993
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061e18e6bd885420800000000000000
+      internalID: 2618999000033793536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1184
+        width: 518
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49721ddbd270c89f0800000000000000
+      internalID: -464988768486479980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 4417
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b4fcdb1a653f430800000000000000
+      internalID: 3815488561987144541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 800
+        width: 518
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e2c609cf826750800000000000000
+      internalID: 6296753322582009049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 773
+        width: 2198
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb0bcb9185401680800000000000000
+      internalID: -8786446450032964657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 2305
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331a0b981ff4284c0800000000000000
+      internalID: -4286775996487524045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 518
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f4e772db3eb10b0800000000000000
+      internalID: -5756757297112133811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 1729
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592b2706d96351580800000000000000
+      internalID: -8857113042598317419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_House_Door_Opening_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 518
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec306f59c6979d0800000000000000
+      internalID: -2776068303963828564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Haunted_House_Door_Opening_48x48_0: -4803300928737103134
+      Haunted_House_Door_Opening_48x48_1: -5192562768234185400
+      Haunted_House_Door_Opening_48x48_10: -2776068303963828564
+      Haunted_House_Door_Opening_48x48_2: 2618999000033793536
+      Haunted_House_Door_Opening_48x48_3: -464988768486479980
+      Haunted_House_Door_Opening_48x48_4: 3815488561987144541
+      Haunted_House_Door_Opening_48x48_5: 6296753322582009049
+      Haunted_House_Door_Opening_48x48_6: -8786446450032964657
+      Haunted_House_Door_Opening_48x48_7: -4286775996487524045
+      Haunted_House_Door_Opening_48x48_8: -5756757297112133811
+      Haunted_House_Door_Opening_48x48_9: -8857113042598317419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

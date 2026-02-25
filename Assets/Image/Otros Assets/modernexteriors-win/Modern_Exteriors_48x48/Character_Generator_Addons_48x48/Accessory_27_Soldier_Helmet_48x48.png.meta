@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 9b51680746b3bd642b813dcedfef6eda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8909334563153375975
+    second: Accessory_27_Soldier_Helmet_48x48_0
+  - first:
+      213: -3806076401955134381
+    second: Accessory_27_Soldier_Helmet_48x48_1
+  - first:
+      213: -8266500662275459910
+    second: Accessory_27_Soldier_Helmet_48x48_2
+  - first:
+      213: 2880955691904521777
+    second: Accessory_27_Soldier_Helmet_48x48_3
+  - first:
+      213: 2894682538304668993
+    second: Accessory_27_Soldier_Helmet_48x48_4
+  - first:
+      213: 583509357971071022
+    second: Accessory_27_Soldier_Helmet_48x48_5
+  - first:
+      213: 8720578869257654694
+    second: Accessory_27_Soldier_Helmet_48x48_6
+  - first:
+      213: 3405849766691463793
+    second: Accessory_27_Soldier_Helmet_48x48_7
+  - first:
+      213: 7135580126983570475
+    second: Accessory_27_Soldier_Helmet_48x48_8
+  - first:
+      213: -1887624294082326102
+    second: Accessory_27_Soldier_Helmet_48x48_9
+  - first:
+      213: 8732180289740569062
+    second: Accessory_27_Soldier_Helmet_48x48_10
+  - first:
+      213: 6776967511273692217
+    second: Accessory_27_Soldier_Helmet_48x48_11
+  - first:
+      213: -3665169680584692623
+    second: Accessory_27_Soldier_Helmet_48x48_12
+  - first:
+      213: 3342094483225802560
+    second: Accessory_27_Soldier_Helmet_48x48_13
+  - first:
+      213: 2252931530200593677
+    second: Accessory_27_Soldier_Helmet_48x48_14
+  - first:
+      213: 3291217097390426582
+    second: Accessory_27_Soldier_Helmet_48x48_15
+  - first:
+      213: -6872795779230005113
+    second: Accessory_27_Soldier_Helmet_48x48_16
+  - first:
+      213: -124091296286386342
+    second: Accessory_27_Soldier_Helmet_48x48_17
+  - first:
+      213: -8754945095561030076
+    second: Accessory_27_Soldier_Helmet_48x48_18
+  - first:
+      213: 3886977489112282506
+    second: Accessory_27_Soldier_Helmet_48x48_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 193
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2fdddd49054ab70800000000000000
+      internalID: 8909334563153375975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354a7798da91e2bc0800000000000000
+      internalID: -3806076401955134381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43a89027d774d80800000000000000
+      internalID: -8266500662275459910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1583
+        width: 289
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136db9510f53bf720800000000000000
+      internalID: 2880955691904521777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 577
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1450d219e6afb2820800000000000000
+      internalID: 2894682538304668993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 577
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206bf46baa091800800000000000000
+      internalID: 583509357971071022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 577
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a151e92748b50970800000000000000
+      internalID: 8720578869257654694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 577
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172edfd5152044f20800000000000000
+      internalID: 3405849766691463793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24413fc15ca60360800000000000000
+      internalID: 7135580126983570475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 2305
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa153d1a4bfcdc5e0800000000000000
+      internalID: -1887624294082326102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 1921
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e977ac55bfee2970800000000000000
+      internalID: 8732180289740569062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 2688
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cd4dbab00ac0e50800000000000000
+      internalID: 6776967511273692217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 2688
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca73b2893b22dc0800000000000000
+      internalID: -3665169680584692623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047777ea931816e20800000000000000
+      internalID: 3342094483225802560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0532e84a45044f10800000000000000
+      internalID: 2252931530200593677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d906a03380ccad20800000000000000
+      internalID: 3291217097390426582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 769
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788013507acee90a0800000000000000
+      internalID: -6872795779230005113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 1153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d12d9f93274ef0800000000000000
+      internalID: -124091296286386342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 577
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446590f32df208680800000000000000
+      internalID: -8754945095561030076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_27_Soldier_Helmet_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 577
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853a78ae6151f530800000000000000
+      internalID: 3886977489112282506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accessory_27_Soldier_Helmet_48x48_0: 8909334563153375975
+      Accessory_27_Soldier_Helmet_48x48_1: -3806076401955134381
+      Accessory_27_Soldier_Helmet_48x48_10: 8732180289740569062
+      Accessory_27_Soldier_Helmet_48x48_11: 6776967511273692217
+      Accessory_27_Soldier_Helmet_48x48_12: -3665169680584692623
+      Accessory_27_Soldier_Helmet_48x48_13: 3342094483225802560
+      Accessory_27_Soldier_Helmet_48x48_14: 2252931530200593677
+      Accessory_27_Soldier_Helmet_48x48_15: 3291217097390426582
+      Accessory_27_Soldier_Helmet_48x48_16: -6872795779230005113
+      Accessory_27_Soldier_Helmet_48x48_17: -124091296286386342
+      Accessory_27_Soldier_Helmet_48x48_18: -8754945095561030076
+      Accessory_27_Soldier_Helmet_48x48_19: 3886977489112282506
+      Accessory_27_Soldier_Helmet_48x48_2: -8266500662275459910
+      Accessory_27_Soldier_Helmet_48x48_3: 2880955691904521777
+      Accessory_27_Soldier_Helmet_48x48_4: 2894682538304668993
+      Accessory_27_Soldier_Helmet_48x48_5: 583509357971071022
+      Accessory_27_Soldier_Helmet_48x48_6: 8720578869257654694
+      Accessory_27_Soldier_Helmet_48x48_7: 3405849766691463793
+      Accessory_27_Soldier_Helmet_48x48_8: 7135580126983570475
+      Accessory_27_Soldier_Helmet_48x48_9: -1887624294082326102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: d82e9190f7145544196e67feb2a9f96a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1123458795865550782
+    second: Ghost_Friendly_32x32_0
+  - first:
+      213: 1625362756770349433
+    second: Ghost_Friendly_32x32_1
+  - first:
+      213: 2244182437650364399
+    second: Ghost_Friendly_32x32_2
+  - first:
+      213: 3534102550603884878
+    second: Ghost_Friendly_32x32_3
+  - first:
+      213: 3718307336563114021
+    second: Ghost_Friendly_32x32_4
+  - first:
+      213: 2221372921485753572
+    second: Ghost_Friendly_32x32_5
+  - first:
+      213: -2080892741963775147
+    second: Ghost_Friendly_32x32_6
+  - first:
+      213: 7917491458956217741
+    second: Ghost_Friendly_32x32_7
+  - first:
+      213: -2586808385873580172
+    second: Ghost_Friendly_32x32_8
+  - first:
+      213: -1455712208819388954
+    second: Ghost_Friendly_32x32_9
+  - first:
+      213: -953775395080740401
+    second: Ghost_Friendly_32x32_10
+  - first:
+      213: 2371882662230511810
+    second: Ghost_Friendly_32x32_11
+  - first:
+      213: 8632216275297917853
+    second: Ghost_Friendly_32x32_12
+  - first:
+      213: 1985598746480497394
+    second: Ghost_Friendly_32x32_13
+  - first:
+      213: 731906883323381084
+    second: Ghost_Friendly_32x32_14
+  - first:
+      213: -7982787780530519583
+    second: Ghost_Friendly_32x32_15
+  - first:
+      213: -4543901643432541334
+    second: Ghost_Friendly_32x32_16
+  - first:
+      213: 2019293475034762871
+    second: Ghost_Friendly_32x32_17
+  - first:
+      213: 725804647769280332
+    second: Ghost_Friendly_32x32_18
+  - first:
+      213: -5531537515537440629
+    second: Ghost_Friendly_32x32_19
+  - first:
+      213: 4250848925255933733
+    second: Ghost_Friendly_32x32_20
+  - first:
+      213: 4820172707791317432
+    second: Ghost_Friendly_32x32_21
+  - first:
+      213: -8821462850096331524
+    second: Ghost_Friendly_32x32_22
+  - first:
+      213: 1776578925491393017
+    second: Ghost_Friendly_32x32_23
+  - first:
+      213: -6771318866615868023
+    second: Ghost_Friendly_32x32_24
+  - first:
+      213: -1923561150767664103
+    second: Ghost_Friendly_32x32_25
+  - first:
+      213: 6357884700177894125
+    second: Ghost_Friendly_32x32_26
+  - first:
+      213: 2798656224407706360
+    second: Ghost_Friendly_32x32_27
+  - first:
+      213: 8640296071031765478
+    second: Ghost_Friendly_32x32_28
+  - first:
+      213: 60643865464071564
+    second: Ghost_Friendly_32x32_29
+  - first:
+      213: 2249179592591372204
+    second: Ghost_Friendly_32x32_30
+  - first:
+      213: -3737418512640545920
+    second: Ghost_Friendly_32x32_31
+  - first:
+      213: 4625681681800719108
+    second: Ghost_Friendly_32x32_32
+  - first:
+      213: 8598191045192605694
+    second: Ghost_Friendly_32x32_33
+  - first:
+      213: 5868180003124908310
+    second: Ghost_Friendly_32x32_34
+  - first:
+      213: 9205086210681440353
+    second: Ghost_Friendly_32x32_35
+  - first:
+      213: 1947944468110312407
+    second: Ghost_Friendly_32x32_36
+  - first:
+      213: -5715589394300479258
+    second: Ghost_Friendly_32x32_37
+  - first:
+      213: -1503899423272932229
+    second: Ghost_Friendly_32x32_38
+  - first:
+      213: -9116466665893434390
+    second: Ghost_Friendly_32x32_39
+  - first:
+      213: -2704557109269817687
+    second: Ghost_Friendly_32x32_40
+  - first:
+      213: 4899147121960702666
+    second: Ghost_Friendly_32x32_41
+  - first:
+      213: -3568124357248540340
+    second: Ghost_Friendly_32x32_42
+  - first:
+      213: -3804553588392302195
+    second: Ghost_Friendly_32x32_43
+  - first:
+      213: 6696389679148049038
+    second: Ghost_Friendly_32x32_44
+  - first:
+      213: 6008705057737380631
+    second: Ghost_Friendly_32x32_45
+  - first:
+      213: -5579339320486741618
+    second: Ghost_Friendly_32x32_46
+  - first:
+      213: -3372941148149008939
+    second: Ghost_Friendly_32x32_47
+  - first:
+      213: -7582644059456227918
+    second: Ghost_Friendly_32x32_48
+  - first:
+      213: 3900998540139880981
+    second: Ghost_Friendly_32x32_49
+  - first:
+      213: 4827987001716805371
+    second: Ghost_Friendly_32x32_50
+  - first:
+      213: 6740949627682611480
+    second: Ghost_Friendly_32x32_51
+  - first:
+      213: 7433227287201216033
+    second: Ghost_Friendly_32x32_52
+  - first:
+      213: -2969551768268479261
+    second: Ghost_Friendly_32x32_53
+  - first:
+      213: 3689205664957840594
+    second: Ghost_Friendly_32x32_54
+  - first:
+      213: 3462764874715524114
+    second: Ghost_Friendly_32x32_55
+  - first:
+      213: 1270806732290517791
+    second: Ghost_Friendly_32x32_56
+  - first:
+      213: -1467644295780773771
+    second: Ghost_Friendly_32x32_57
+  - first:
+      213: 9116174814607506265
+    second: Ghost_Friendly_32x32_58
+  - first:
+      213: 1319455070027071310
+    second: Ghost_Friendly_32x32_59
+  - first:
+      213: -8632119333002660282
+    second: Ghost_Friendly_32x32_60
+  - first:
+      213: 818015376800820863
+    second: Ghost_Friendly_32x32_61
+  - first:
+      213: -4540188477139657840
+    second: Ghost_Friendly_32x32_62
+  - first:
+      213: 7404118061066481704
+    second: Ghost_Friendly_32x32_63
+  - first:
+      213: 8032018750153029616
+    second: Ghost_Friendly_32x32_64
+  - first:
+      213: 25902152413166671
+    second: Ghost_Friendly_32x32_65
+  - first:
+      213: 5347618449520605592
+    second: Ghost_Friendly_32x32_66
+  - first:
+      213: -44131193603275039
+    second: Ghost_Friendly_32x32_67
+  - first:
+      213: -8505912904864490643
+    second: Ghost_Friendly_32x32_68
+  - first:
+      213: -6115219088734710075
+    second: Ghost_Friendly_32x32_69
+  - first:
+      213: -5763378809858780962
+    second: Ghost_Friendly_32x32_70
+  - first:
+      213: -7494433433234414361
+    second: Ghost_Friendly_32x32_71
+  - first:
+      213: 2658879960222761870
+    second: Ghost_Friendly_32x32_72
+  - first:
+      213: -1158165215026906022
+    second: Ghost_Friendly_32x32_73
+  - first:
+      213: -1883714627939681035
+    second: Ghost_Friendly_32x32_74
+  - first:
+      213: 5445292721498064767
+    second: Ghost_Friendly_32x32_75
+  - first:
+      213: -5748500172270420066
+    second: Ghost_Friendly_32x32_76
+  - first:
+      213: 5183691050384769325
+    second: Ghost_Friendly_32x32_77
+  - first:
+      213: -4489591716086594978
+    second: Ghost_Friendly_32x32_78
+  - first:
+      213: -3433781531792256426
+    second: Ghost_Friendly_32x32_79
+  - first:
+      213: -1666966812136630891
+    second: Ghost_Friendly_32x32_80
+  - first:
+      213: 6261248124174255419
+    second: Ghost_Friendly_32x32_81
+  - first:
+      213: 422566868090533454
+    second: Ghost_Friendly_32x32_82
+  - first:
+      213: -4836026735148200965
+    second: Ghost_Friendly_32x32_83
+  - first:
+      213: -2705989100119136509
+    second: Ghost_Friendly_32x32_84
+  - first:
+      213: -7020648255117166738
+    second: Ghost_Friendly_32x32_85
+  - first:
+      213: -45921201739697919
+    second: Ghost_Friendly_32x32_86
+  - first:
+      213: -3638627697520743505
+    second: Ghost_Friendly_32x32_87
+  - first:
+      213: -659486311972781736
+    second: Ghost_Friendly_32x32_88
+  - first:
+      213: 6850146219013146684
+    second: Ghost_Friendly_32x32_89
+  - first:
+      213: -5136902320869098629
+    second: Ghost_Friendly_32x32_90
+  - first:
+      213: -2509314969816866425
+    second: Ghost_Friendly_32x32_91
+  - first:
+      213: -5376065002032486591
+    second: Ghost_Friendly_32x32_92
+  - first:
+      213: -385502205186076221
+    second: Ghost_Friendly_32x32_93
+  - first:
+      213: -7705855104181292580
+    second: Ghost_Friendly_32x32_94
+  - first:
+      213: -5841632628657655957
+    second: Ghost_Friendly_32x32_95
+  - first:
+      213: 1679229998874173962
+    second: Ghost_Friendly_32x32_96
+  - first:
+      213: 6504612940999147003
+    second: Ghost_Friendly_32x32_97
+  - first:
+      213: -7321728250801241123
+    second: Ghost_Friendly_32x32_98
+  - first:
+      213: 4433257322199495000
+    second: Ghost_Friendly_32x32_99
+  - first:
+      213: -6328384962439651202
+    second: Ghost_Friendly_32x32_100
+  - first:
+      213: 4334083060731061561
+    second: Ghost_Friendly_32x32_101
+  - first:
+      213: -4962461323919648053
+    second: Ghost_Friendly_32x32_102
+  - first:
+      213: -1318157151458005705
+    second: Ghost_Friendly_32x32_103
+  - first:
+      213: -5366911085389732191
+    second: Ghost_Friendly_32x32_104
+  - first:
+      213: 8338388933629023577
+    second: Ghost_Friendly_32x32_105
+  - first:
+      213: 5810125495100137446
+    second: Ghost_Friendly_32x32_106
+  - first:
+      213: -6743696524023181164
+    second: Ghost_Friendly_32x32_107
+  - first:
+      213: 8110668154968476575
+    second: Ghost_Friendly_32x32_108
+  - first:
+      213: 466158878157931208
+    second: Ghost_Friendly_32x32_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 201
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfaa5f82d3579f00800000000000000
+      internalID: 1123458795865550782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 193
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9714274d0d27e8610800000000000000
+      internalID: 1625362756770349433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 201
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7f15f6900f42f10800000000000000
+      internalID: 2244182437650364399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 193
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49eb889b87ab0130800000000000000
+      internalID: 3534102550603884878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 201
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520c29972d41a9330800000000000000
+      internalID: 3718307336563114021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 193
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec74da17e6e3de10800000000000000
+      internalID: 2221372921485753572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 201
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5538f83831f2f13e0800000000000000
+      internalID: -2080892741963775147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 193
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4643888490ed60800000000000000
+      internalID: 7917491458956217741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 195
+        width: 186
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fe0028a7fc91cd0800000000000000
+      internalID: -2586808385873580172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edfe1275754ccbe0800000000000000
+      internalID: -1455712208819388954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 139
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc164bcd45283c2f0800000000000000
+      internalID: -953775395080740401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 141
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0582be6be9ae020800000000000000
+      internalID: 2371882662230511810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 141
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b5a7987facbc770800000000000000
+      internalID: 8632216275297917853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 141
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f25e6e2a834e8b10800000000000000
+      internalID: 1985598746480497394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 139
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55472dbe61482a00800000000000000
+      internalID: 731906883323381084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 137
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14628eec0773190800000000000000
+      internalID: -7982787780530519583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 137
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c3e8a781d0f0c0800000000000000
+      internalID: -4543901643432541334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e06b487b8f50c10800000000000000
+      internalID: 2019293475034762871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 139
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f8d9e4b73921a00800000000000000
+      internalID: 725804647769280332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 141
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80e4acdfe70c33b0800000000000000
+      internalID: -5531537515537440629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1bb7539c0efa30800000000000000
+      internalID: 4250848925255933733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 141
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b92fe31a81b4e240800000000000000
+      internalID: 4820172707791317432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 141
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf404b4a64ed39580800000000000000
+      internalID: -8821462850096331524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 139
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11c59be1da7a810800000000000000
+      internalID: 1776578925491393017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e576ed517702a0800000000000000
+      internalID: -6771318866615868023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91470c823532e45e0800000000000000
+      internalID: -1923561150767664103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 135
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea8ef4037ebb3850800000000000000
+      internalID: 6357884700177894125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 139
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fad1481203d6d620800000000000000
+      internalID: 2798656224407706360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 141
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e93d049f7f78e770800000000000000
+      internalID: 8640296071031765478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 141
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85eaca364377d000800000000000000
+      internalID: 60643865464071564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 141
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf677c3ce0b63f10800000000000000
+      internalID: 2249179592591372204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 139
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b67191aa5022cc0800000000000000
+      internalID: -3737418512640545920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 137
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b63cf4bf8b13040800000000000000
+      internalID: 4625681681800719108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 137
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff56af4339e25770800000000000000
+      internalID: 8598191045192605694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6119f443f96ff6150800000000000000
+      internalID: 5868180003124908310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 139
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168838253290fbf70800000000000000
+      internalID: 9205086210681440353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d307ef4c2d780b10800000000000000
+      internalID: 1947944468110312407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 141
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8dab67ab52ea0b0800000000000000
+      internalID: -5715589394300479258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 141
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce6e94173112be0800000000000000
+      internalID: -1503899423272932229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 141
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb6bb45eddcb7180800000000000000
+      internalID: -9116466665893434390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 139
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6173373ab777ad0800000000000000
+      internalID: -2704557109269817687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac258d2c9544df340800000000000000
+      internalID: 4899147121960702666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4128c34dc97b7ec0800000000000000
+      internalID: -3568124357248540340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8960f23ba2833bc0800000000000000
+      internalID: -3804553588392302195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8226372fea5eec50800000000000000
+      internalID: 6696389679148049038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713978e1a65336350800000000000000
+      internalID: 6008705057737380631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b409d2743292b0800000000000000
+      internalID: -5579339320486741618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b74875e7e031d0800000000000000
+      internalID: -3372941148149008939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b2e9076905c690800000000000000
+      internalID: -7582644059456227918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512ea5ef081232630800000000000000
+      internalID: 3900998540139880981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe88892994700340800000000000000
+      internalID: 4827987001716805371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e2d6a8f9ac8d50800000000000000
+      internalID: 6740949627682611480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1267e54b5d0282760800000000000000
+      internalID: 7433227287201216033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4693e66680ac6d0800000000000000
+      internalID: -2969551768268479261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcbb2b8101b23330800000000000000
+      internalID: 3689205664957840594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c6e1a9e463e0030800000000000000
+      internalID: 3462764874715524114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1be9507dffc2a110800000000000000
+      internalID: 1270806732290517791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570db55f941e1abe0800000000000000
+      internalID: -1467644295780773771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bfa0fb1b8238e70800000000000000
+      internalID: 9116174814607506265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3d0a3565af4210800000000000000
+      internalID: 1319455070027071310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463899933d843880800000000000000
+      internalID: -8632119333002660282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e2503b6ac2a5b00800000000000000
+      internalID: 818015376800820863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd4ce82a20ef0c0800000000000000
+      internalID: -4540188477139657840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820fbe8d526b0c660800000000000000
+      internalID: 7404118061066481704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7f5207f76777f60800000000000000
+      internalID: 8032018750153029616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3181ded50c5000800000000000000
+      internalID: 25902152413166671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899300e95ae863a40800000000000000
+      internalID: 5347618449520605592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e643c9c9e6336ff0800000000000000
+      internalID: -44131193603275039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b142f774de4f980800000000000000
+      internalID: -8505912904864490643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6974c73a0622ba0800000000000000
+      internalID: -6115219088734710075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed09a54128d5400b0800000000000000
+      internalID: -5763378809858780962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4604bef7c6ef790800000000000000
+      internalID: -7494433433234414361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e838b798c3d36e420800000000000000
+      internalID: 2658879960222761870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c7b178fde5defe0800000000000000
+      internalID: -1158165215026906022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 129
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb277b683bbd5e0800000000000000
+      internalID: -1883714627939681035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7789ea31e0919b40800000000000000
+      internalID: 5445292721498064767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 73
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fbc88dc893930b0800000000000000
+      internalID: -5748500172270420066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214e83cb8b20f740800000000000000
+      internalID: 5183691050384769325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 73
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e524f100f14c1b1c0800000000000000
+      internalID: -4489591716086594978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 73
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d939c3e1c850d0800000000000000
+      internalID: -3433781531792256426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 73
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951b3e248ebdd8e0800000000000000
+      internalID: -1666966812136630891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 73
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ccf3defb64e650800000000000000
+      internalID: 6261248124174255419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b262e3524dd500800000000000000
+      internalID: 422566868090533454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb03378e4bf2ecb0800000000000000
+      internalID: -4836026735148200965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307e1591045627ad0800000000000000
+      internalID: -2705989100119136509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 73
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6776c4eb95a19e90800000000000000
+      internalID: -7020648255117166738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10175aa09eadc5ff0800000000000000
+      internalID: -45921201739697919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 73
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe06b236ff08dc0800000000000000
+      internalID: -3638627697520743505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 73
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85141a081b809d6f0800000000000000
+      internalID: -659486311972781736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 73
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3883cb41bb901f50800000000000000
+      internalID: 6850146219013146684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 73
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bb7be3e8e06b8b0800000000000000
+      internalID: -5136902320869098629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781ee72745f1d2dd0800000000000000
+      internalID: -2509314969816866425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 73
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147a1704d516465b0800000000000000
+      internalID: -5376065002032486591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c111cf69cb66aaf0800000000000000
+      internalID: -385502205186076221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b4a03c9d4f0590800000000000000
+      internalID: -7705855104181292580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6784131a5eeea0800000000000000
+      internalID: -5841632628657655957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02231b79c2dd4710800000000000000
+      internalID: 1679229998874173962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb9a5c107054a50800000000000000
+      internalID: 6504612940999147003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3cc05b2fef36a90800000000000000
+      internalID: -7321728250801241123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b99fcb08168d30800000000000000
+      internalID: 4433257322199495000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e706cd7e76f0d28a0800000000000000
+      internalID: -6328384962439651202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a9eda491c52c30800000000000000
+      internalID: 4334083060731061561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca9728d7bbc12bb0800000000000000
+      internalID: -4962461323919648053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d643dfd07f4bde0800000000000000
+      internalID: -1318157151458005705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62d3e8dc6e485b0800000000000000
+      internalID: -5366911085389732191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95591047e88e7b370800000000000000
+      internalID: 8338388933629023577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef52ebba56b1a050800000000000000
+      internalID: 5810125495100137446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490df84bdb39962a0800000000000000
+      internalID: -6743696524023181164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b08fbf6b1ee8070800000000000000
+      internalID: 8110668154968476575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Friendly_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 278
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c28f75a701287600800000000000000
+      internalID: 466158878157931208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ghost_Friendly_32x32_0: 1123458795865550782
+      Ghost_Friendly_32x32_1: 1625362756770349433
+      Ghost_Friendly_32x32_10: -953775395080740401
+      Ghost_Friendly_32x32_100: -6328384962439651202
+      Ghost_Friendly_32x32_101: 4334083060731061561
+      Ghost_Friendly_32x32_102: -4962461323919648053
+      Ghost_Friendly_32x32_103: -1318157151458005705
+      Ghost_Friendly_32x32_104: -5366911085389732191
+      Ghost_Friendly_32x32_105: 8338388933629023577
+      Ghost_Friendly_32x32_106: 5810125495100137446
+      Ghost_Friendly_32x32_107: -6743696524023181164
+      Ghost_Friendly_32x32_108: 8110668154968476575
+      Ghost_Friendly_32x32_109: 466158878157931208
+      Ghost_Friendly_32x32_11: 2371882662230511810
+      Ghost_Friendly_32x32_12: 8632216275297917853
+      Ghost_Friendly_32x32_13: 1985598746480497394
+      Ghost_Friendly_32x32_14: 731906883323381084
+      Ghost_Friendly_32x32_15: -7982787780530519583
+      Ghost_Friendly_32x32_16: -4543901643432541334
+      Ghost_Friendly_32x32_17: 2019293475034762871
+      Ghost_Friendly_32x32_18: 725804647769280332
+      Ghost_Friendly_32x32_19: -5531537515537440629
+      Ghost_Friendly_32x32_2: 2244182437650364399
+      Ghost_Friendly_32x32_20: 4250848925255933733
+      Ghost_Friendly_32x32_21: 4820172707791317432
+      Ghost_Friendly_32x32_22: -8821462850096331524
+      Ghost_Friendly_32x32_23: 1776578925491393017
+      Ghost_Friendly_32x32_24: -6771318866615868023
+      Ghost_Friendly_32x32_25: -1923561150767664103
+      Ghost_Friendly_32x32_26: 6357884700177894125
+      Ghost_Friendly_32x32_27: 2798656224407706360
+      Ghost_Friendly_32x32_28: 8640296071031765478
+      Ghost_Friendly_32x32_29: 60643865464071564
+      Ghost_Friendly_32x32_3: 3534102550603884878
+      Ghost_Friendly_32x32_30: 2249179592591372204
+      Ghost_Friendly_32x32_31: -3737418512640545920
+      Ghost_Friendly_32x32_32: 4625681681800719108
+      Ghost_Friendly_32x32_33: 8598191045192605694
+      Ghost_Friendly_32x32_34: 5868180003124908310
+      Ghost_Friendly_32x32_35: 9205086210681440353
+      Ghost_Friendly_32x32_36: 1947944468110312407
+      Ghost_Friendly_32x32_37: -5715589394300479258
+      Ghost_Friendly_32x32_38: -1503899423272932229
+      Ghost_Friendly_32x32_39: -9116466665893434390
+      Ghost_Friendly_32x32_4: 3718307336563114021
+      Ghost_Friendly_32x32_40: -2704557109269817687
+      Ghost_Friendly_32x32_41: 4899147121960702666
+      Ghost_Friendly_32x32_42: -3568124357248540340
+      Ghost_Friendly_32x32_43: -3804553588392302195
+      Ghost_Friendly_32x32_44: 6696389679148049038
+      Ghost_Friendly_32x32_45: 6008705057737380631
+      Ghost_Friendly_32x32_46: -5579339320486741618
+      Ghost_Friendly_32x32_47: -3372941148149008939
+      Ghost_Friendly_32x32_48: -7582644059456227918
+      Ghost_Friendly_32x32_49: 3900998540139880981
+      Ghost_Friendly_32x32_5: 2221372921485753572
+      Ghost_Friendly_32x32_50: 4827987001716805371
+      Ghost_Friendly_32x32_51: 6740949627682611480
+      Ghost_Friendly_32x32_52: 7433227287201216033
+      Ghost_Friendly_32x32_53: -2969551768268479261
+      Ghost_Friendly_32x32_54: 3689205664957840594
+      Ghost_Friendly_32x32_55: 3462764874715524114
+      Ghost_Friendly_32x32_56: 1270806732290517791
+      Ghost_Friendly_32x32_57: -1467644295780773771
+      Ghost_Friendly_32x32_58: 9116174814607506265
+      Ghost_Friendly_32x32_59: 1319455070027071310
+      Ghost_Friendly_32x32_6: -2080892741963775147
+      Ghost_Friendly_32x32_60: -8632119333002660282
+      Ghost_Friendly_32x32_61: 818015376800820863
+      Ghost_Friendly_32x32_62: -4540188477139657840
+      Ghost_Friendly_32x32_63: 7404118061066481704
+      Ghost_Friendly_32x32_64: 8032018750153029616
+      Ghost_Friendly_32x32_65: 25902152413166671
+      Ghost_Friendly_32x32_66: 5347618449520605592
+      Ghost_Friendly_32x32_67: -44131193603275039
+      Ghost_Friendly_32x32_68: -8505912904864490643
+      Ghost_Friendly_32x32_69: -6115219088734710075
+      Ghost_Friendly_32x32_7: 7917491458956217741
+      Ghost_Friendly_32x32_70: -5763378809858780962
+      Ghost_Friendly_32x32_71: -7494433433234414361
+      Ghost_Friendly_32x32_72: 2658879960222761870
+      Ghost_Friendly_32x32_73: -1158165215026906022
+      Ghost_Friendly_32x32_74: -1883714627939681035
+      Ghost_Friendly_32x32_75: 5445292721498064767
+      Ghost_Friendly_32x32_76: -5748500172270420066
+      Ghost_Friendly_32x32_77: 5183691050384769325
+      Ghost_Friendly_32x32_78: -4489591716086594978
+      Ghost_Friendly_32x32_79: -3433781531792256426
+      Ghost_Friendly_32x32_8: -2586808385873580172
+      Ghost_Friendly_32x32_80: -1666966812136630891
+      Ghost_Friendly_32x32_81: 6261248124174255419
+      Ghost_Friendly_32x32_82: 422566868090533454
+      Ghost_Friendly_32x32_83: -4836026735148200965
+      Ghost_Friendly_32x32_84: -2705989100119136509
+      Ghost_Friendly_32x32_85: -7020648255117166738
+      Ghost_Friendly_32x32_86: -45921201739697919
+      Ghost_Friendly_32x32_87: -3638627697520743505
+      Ghost_Friendly_32x32_88: -659486311972781736
+      Ghost_Friendly_32x32_89: 6850146219013146684
+      Ghost_Friendly_32x32_9: -1455712208819388954
+      Ghost_Friendly_32x32_90: -5136902320869098629
+      Ghost_Friendly_32x32_91: -2509314969816866425
+      Ghost_Friendly_32x32_92: -5376065002032486591
+      Ghost_Friendly_32x32_93: -385502205186076221
+      Ghost_Friendly_32x32_94: -7705855104181292580
+      Ghost_Friendly_32x32_95: -5841632628657655957
+      Ghost_Friendly_32x32_96: 1679229998874173962
+      Ghost_Friendly_32x32_97: 6504612940999147003
+      Ghost_Friendly_32x32_98: -7321728250801241123
+      Ghost_Friendly_32x32_99: 4433257322199495000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

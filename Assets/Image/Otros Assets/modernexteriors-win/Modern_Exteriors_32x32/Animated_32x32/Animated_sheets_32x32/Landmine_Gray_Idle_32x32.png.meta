@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 9fb2ce9572ef36f4eaa0c797cd2d23bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2649908909110487546
+    second: Landmine_Gray_Idle_32x32_0
+  - first:
+      213: 5568535332850622985
+    second: Landmine_Gray_Idle_32x32_1
+  - first:
+      213: 7729928961750305264
+    second: Landmine_Gray_Idle_32x32_2
+  - first:
+      213: -3703462541932968021
+    second: Landmine_Gray_Idle_32x32_3
+  - first:
+      213: -7226143172860012905
+    second: Landmine_Gray_Idle_32x32_4
+  - first:
+      213: 6936845844273833706
+    second: Landmine_Gray_Idle_32x32_5
+  - first:
+      213: -6765370486203767143
+    second: Landmine_Gray_Idle_32x32_6
+  - first:
+      213: -8427896571805250452
+    second: Landmine_Gray_Idle_32x32_7
+  - first:
+      213: 7306773754981076733
+    second: Landmine_Gray_Idle_32x32_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af96caeec1e56c420800000000000000
+      internalID: 2649908909110487546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e5c1c169674d40800000000000000
+      internalID: 5568535332850622985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f981209f69364b60800000000000000
+      internalID: 7729928961750305264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7ce1d9078aa9cc0800000000000000
+      internalID: -3703462541932968021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796909de11597bb90800000000000000
+      internalID: -7226143172860012905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae62699da80a44060800000000000000
+      internalID: 6936845844273833706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a9e323639c12a0800000000000000
+      internalID: -6765370486203767143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc0d988b81a0b80800000000000000
+      internalID: -8427896571805250452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landmine_Gray_Idle_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 9
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe4bc76400e66560800000000000000
+      internalID: 7306773754981076733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Landmine_Gray_Idle_32x32_0: 2649908909110487546
+      Landmine_Gray_Idle_32x32_1: 5568535332850622985
+      Landmine_Gray_Idle_32x32_2: 7729928961750305264
+      Landmine_Gray_Idle_32x32_3: -3703462541932968021
+      Landmine_Gray_Idle_32x32_4: -7226143172860012905
+      Landmine_Gray_Idle_32x32_5: 6936845844273833706
+      Landmine_Gray_Idle_32x32_6: -6765370486203767143
+      Landmine_Gray_Idle_32x32_7: -8427896571805250452
+      Landmine_Gray_Idle_32x32_8: 7306773754981076733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

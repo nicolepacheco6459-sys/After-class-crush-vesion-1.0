@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 097617b0d22a78f44a81ea76362bd50d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2873271101011404826
+    second: Military_Crate_Medicines_1_48x48_0
+  - first:
+      213: -2598464735755365529
+    second: Military_Crate_Medicines_1_48x48_1
+  - first:
+      213: -8767019343764474439
+    second: Military_Crate_Medicines_1_48x48_2
+  - first:
+      213: 2475640094924040638
+    second: Military_Crate_Medicines_1_48x48_3
+  - first:
+      213: -37569045521393661
+    second: Military_Crate_Medicines_1_48x48_4
+  - first:
+      213: -3709234854297218373
+    second: Military_Crate_Medicines_1_48x48_5
+  - first:
+      213: 5681948137266788845
+    second: Military_Crate_Medicines_1_48x48_6
+  - first:
+      213: -1318028290356299941
+    second: Military_Crate_Medicines_1_48x48_7
+  - first:
+      213: -6044573854929297529
+    second: Military_Crate_Medicines_1_48x48_8
+  - first:
+      213: 2484666753930992851
+    second: Military_Crate_Medicines_1_48x48_9
+  - first:
+      213: -1612357683621341167
+    second: Military_Crate_Medicines_1_48x48_10
+  - first:
+      213: 1132185262682283117
+    second: Military_Crate_Medicines_1_48x48_11
+  - first:
+      213: -5322912928641932597
+    second: Military_Crate_Medicines_1_48x48_12
+  - first:
+      213: -5501413515366374449
+    second: Military_Crate_Medicines_1_48x48_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a182e27d7d8efd720800000000000000
+      internalID: 2873271101011404826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631cef071660fbd0800000000000000
+      internalID: -2598464735755365529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b0f34b5a455680800000000000000
+      internalID: -8767019343764474439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb969a1cc8d3b5220800000000000000
+      internalID: 2475640094924040638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089523f6278a7ff0800000000000000
+      internalID: -37569045521393661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 131
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2dd196d86268cc0800000000000000
+      internalID: -3709234854297218373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 131
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9baf10ab55ade40800000000000000
+      internalID: 5681948137266788845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b56dc04c65bde0800000000000000
+      internalID: -1318028290356299941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 131
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f535eba1c5d1ca0800000000000000
+      internalID: -6044573854929297529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 0
+        width: 131
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc97459f3f4b7220800000000000000
+      internalID: 2484666753930992851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118d0e8ba31cf99e0800000000000000
+      internalID: -1612357683621341167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1c127f7456bf00800000000000000
+      internalID: 1132185262682283117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2a6f5b4e63126b0800000000000000
+      internalID: -5322912928641932597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military_Crate_Medicines_1_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 131
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ed063e8d07a3b0800000000000000
+      internalID: -5501413515366374449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Military_Crate_Medicines_1_48x48_0: 2873271101011404826
+      Military_Crate_Medicines_1_48x48_1: -2598464735755365529
+      Military_Crate_Medicines_1_48x48_10: -1612357683621341167
+      Military_Crate_Medicines_1_48x48_11: 1132185262682283117
+      Military_Crate_Medicines_1_48x48_12: -5322912928641932597
+      Military_Crate_Medicines_1_48x48_13: -5501413515366374449
+      Military_Crate_Medicines_1_48x48_2: -8767019343764474439
+      Military_Crate_Medicines_1_48x48_3: 2475640094924040638
+      Military_Crate_Medicines_1_48x48_4: -37569045521393661
+      Military_Crate_Medicines_1_48x48_5: -3709234854297218373
+      Military_Crate_Medicines_1_48x48_6: 5681948137266788845
+      Military_Crate_Medicines_1_48x48_7: -1318028290356299941
+      Military_Crate_Medicines_1_48x48_8: -6044573854929297529
+      Military_Crate_Medicines_1_48x48_9: 2484666753930992851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

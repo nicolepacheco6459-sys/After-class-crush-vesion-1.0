@@ -1,0 +1,5096 @@
+fileFormatVersion: 2
+guid: bcd27d0001c41f44a8c05211fbd65350
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8049815746340196606
+    second: 23_MIlitary_Base_16x16_0
+  - first:
+      213: 9150421803429782087
+    second: 23_MIlitary_Base_16x16_1
+  - first:
+      213: 1030594813256888359
+    second: 23_MIlitary_Base_16x16_2
+  - first:
+      213: -1329027996159397260
+    second: 23_MIlitary_Base_16x16_3
+  - first:
+      213: -6099148624272528936
+    second: 23_MIlitary_Base_16x16_4
+  - first:
+      213: -8567190412726238390
+    second: 23_MIlitary_Base_16x16_5
+  - first:
+      213: 4741003515373368188
+    second: 23_MIlitary_Base_16x16_6
+  - first:
+      213: 5943096248643869487
+    second: 23_MIlitary_Base_16x16_7
+  - first:
+      213: -2083922271073211735
+    second: 23_MIlitary_Base_16x16_8
+  - first:
+      213: 2576224423873603314
+    second: 23_MIlitary_Base_16x16_9
+  - first:
+      213: -6903450153935502548
+    second: 23_MIlitary_Base_16x16_10
+  - first:
+      213: 8939910878108363652
+    second: 23_MIlitary_Base_16x16_11
+  - first:
+      213: -5667720989869048123
+    second: 23_MIlitary_Base_16x16_12
+  - first:
+      213: 4357630850499262608
+    second: 23_MIlitary_Base_16x16_13
+  - first:
+      213: -8246707135146471163
+    second: 23_MIlitary_Base_16x16_14
+  - first:
+      213: -3517872270617454388
+    second: 23_MIlitary_Base_16x16_15
+  - first:
+      213: 4932230879036784707
+    second: 23_MIlitary_Base_16x16_16
+  - first:
+      213: -3910214976300228184
+    second: 23_MIlitary_Base_16x16_17
+  - first:
+      213: 1035024692478675691
+    second: 23_MIlitary_Base_16x16_18
+  - first:
+      213: -2626068218539433069
+    second: 23_MIlitary_Base_16x16_19
+  - first:
+      213: -5406898893268967644
+    second: 23_MIlitary_Base_16x16_20
+  - first:
+      213: -4585631392690894780
+    second: 23_MIlitary_Base_16x16_21
+  - first:
+      213: -7754084137219138558
+    second: 23_MIlitary_Base_16x16_22
+  - first:
+      213: -6093059708889079680
+    second: 23_MIlitary_Base_16x16_23
+  - first:
+      213: 4887033414684053348
+    second: 23_MIlitary_Base_16x16_24
+  - first:
+      213: 5982530356583392080
+    second: 23_MIlitary_Base_16x16_25
+  - first:
+      213: 3624950367715353016
+    second: 23_MIlitary_Base_16x16_26
+  - first:
+      213: -1376762130403329115
+    second: 23_MIlitary_Base_16x16_27
+  - first:
+      213: 979322776118411493
+    second: 23_MIlitary_Base_16x16_28
+  - first:
+      213: 4676807343148842860
+    second: 23_MIlitary_Base_16x16_29
+  - first:
+      213: -6435675478945166321
+    second: 23_MIlitary_Base_16x16_30
+  - first:
+      213: 3762757855725555802
+    second: 23_MIlitary_Base_16x16_31
+  - first:
+      213: 7500139222298645383
+    second: 23_MIlitary_Base_16x16_32
+  - first:
+      213: 6952581616648802613
+    second: 23_MIlitary_Base_16x16_33
+  - first:
+      213: 6975216499225748353
+    second: 23_MIlitary_Base_16x16_34
+  - first:
+      213: 7708130387616197465
+    second: 23_MIlitary_Base_16x16_35
+  - first:
+      213: -1295729543661322176
+    second: 23_MIlitary_Base_16x16_36
+  - first:
+      213: -6087232242143679605
+    second: 23_MIlitary_Base_16x16_37
+  - first:
+      213: -3257829982345219588
+    second: 23_MIlitary_Base_16x16_38
+  - first:
+      213: 4659751176638788797
+    second: 23_MIlitary_Base_16x16_39
+  - first:
+      213: 540760950659907351
+    second: 23_MIlitary_Base_16x16_40
+  - first:
+      213: 2699826729152461386
+    second: 23_MIlitary_Base_16x16_41
+  - first:
+      213: -6379203515191082592
+    second: 23_MIlitary_Base_16x16_42
+  - first:
+      213: 7719711177100191383
+    second: 23_MIlitary_Base_16x16_43
+  - first:
+      213: -283967876889502443
+    second: 23_MIlitary_Base_16x16_44
+  - first:
+      213: 5527509270858782420
+    second: 23_MIlitary_Base_16x16_45
+  - first:
+      213: -9062505314425294729
+    second: 23_MIlitary_Base_16x16_46
+  - first:
+      213: 2898766898572792807
+    second: 23_MIlitary_Base_16x16_47
+  - first:
+      213: 6821911522149721707
+    second: 23_MIlitary_Base_16x16_48
+  - first:
+      213: -7762682893976894084
+    second: 23_MIlitary_Base_16x16_49
+  - first:
+      213: 4684098452395212670
+    second: 23_MIlitary_Base_16x16_50
+  - first:
+      213: 6234577536419935030
+    second: 23_MIlitary_Base_16x16_51
+  - first:
+      213: -6433059265196976248
+    second: 23_MIlitary_Base_16x16_52
+  - first:
+      213: -7982451374186725352
+    second: 23_MIlitary_Base_16x16_53
+  - first:
+      213: 3056295908822583854
+    second: 23_MIlitary_Base_16x16_54
+  - first:
+      213: -5029687706729003965
+    second: 23_MIlitary_Base_16x16_55
+  - first:
+      213: -359267306703281309
+    second: 23_MIlitary_Base_16x16_56
+  - first:
+      213: -3203212068440183968
+    second: 23_MIlitary_Base_16x16_57
+  - first:
+      213: -7191061988612347063
+    second: 23_MIlitary_Base_16x16_58
+  - first:
+      213: 7206951983112148825
+    second: 23_MIlitary_Base_16x16_59
+  - first:
+      213: 8824877703939612822
+    second: 23_MIlitary_Base_16x16_60
+  - first:
+      213: -3239209409707049997
+    second: 23_MIlitary_Base_16x16_61
+  - first:
+      213: 3992577400476430141
+    second: 23_MIlitary_Base_16x16_62
+  - first:
+      213: -8404581453116148099
+    second: 23_MIlitary_Base_16x16_63
+  - first:
+      213: 6899201074712080165
+    second: 23_MIlitary_Base_16x16_64
+  - first:
+      213: 5876439820805287897
+    second: 23_MIlitary_Base_16x16_65
+  - first:
+      213: 7117134286013293659
+    second: 23_MIlitary_Base_16x16_66
+  - first:
+      213: -2272890912387255919
+    second: 23_MIlitary_Base_16x16_67
+  - first:
+      213: 2812933196503770060
+    second: 23_MIlitary_Base_16x16_68
+  - first:
+      213: -8834743557555169425
+    second: 23_MIlitary_Base_16x16_69
+  - first:
+      213: 4554938742568344228
+    second: 23_MIlitary_Base_16x16_70
+  - first:
+      213: 3835534507821456510
+    second: 23_MIlitary_Base_16x16_71
+  - first:
+      213: 6649909405396941786
+    second: 23_MIlitary_Base_16x16_72
+  - first:
+      213: -8109475711600943351
+    second: 23_MIlitary_Base_16x16_73
+  - first:
+      213: 1154169118676763228
+    second: 23_MIlitary_Base_16x16_74
+  - first:
+      213: 6532387997983438190
+    second: 23_MIlitary_Base_16x16_75
+  - first:
+      213: 8556806285835646124
+    second: 23_MIlitary_Base_16x16_76
+  - first:
+      213: -2990483441125956330
+    second: 23_MIlitary_Base_16x16_77
+  - first:
+      213: 3749944223216598401
+    second: 23_MIlitary_Base_16x16_78
+  - first:
+      213: 1924632614778909334
+    second: 23_MIlitary_Base_16x16_79
+  - first:
+      213: 3266207580132721165
+    second: 23_MIlitary_Base_16x16_80
+  - first:
+      213: -6857014260147250093
+    second: 23_MIlitary_Base_16x16_81
+  - first:
+      213: 150387084371461559
+    second: 23_MIlitary_Base_16x16_82
+  - first:
+      213: -7514812010303352276
+    second: 23_MIlitary_Base_16x16_83
+  - first:
+      213: -7496519307834471758
+    second: 23_MIlitary_Base_16x16_84
+  - first:
+      213: 7082442633120393667
+    second: 23_MIlitary_Base_16x16_85
+  - first:
+      213: 3202694310683949453
+    second: 23_MIlitary_Base_16x16_86
+  - first:
+      213: 4369997483241334080
+    second: 23_MIlitary_Base_16x16_87
+  - first:
+      213: -6943309059111654228
+    second: 23_MIlitary_Base_16x16_88
+  - first:
+      213: -8685076267470468599
+    second: 23_MIlitary_Base_16x16_89
+  - first:
+      213: 5724421168165683651
+    second: 23_MIlitary_Base_16x16_90
+  - first:
+      213: 7964076200393462218
+    second: 23_MIlitary_Base_16x16_91
+  - first:
+      213: 8274870197191869779
+    second: 23_MIlitary_Base_16x16_92
+  - first:
+      213: 8926842542384396259
+    second: 23_MIlitary_Base_16x16_93
+  - first:
+      213: 6882617454849819924
+    second: 23_MIlitary_Base_16x16_94
+  - first:
+      213: 2864313916253336656
+    second: 23_MIlitary_Base_16x16_95
+  - first:
+      213: -2608638312652052795
+    second: 23_MIlitary_Base_16x16_96
+  - first:
+      213: -1602302243290580401
+    second: 23_MIlitary_Base_16x16_97
+  - first:
+      213: -7823409822906024907
+    second: 23_MIlitary_Base_16x16_98
+  - first:
+      213: -8320164720223432341
+    second: 23_MIlitary_Base_16x16_99
+  - first:
+      213: -6590352817276475416
+    second: 23_MIlitary_Base_16x16_100
+  - first:
+      213: 2601131678754195148
+    second: 23_MIlitary_Base_16x16_101
+  - first:
+      213: -5648479922464995699
+    second: 23_MIlitary_Base_16x16_102
+  - first:
+      213: 5816100423104156467
+    second: 23_MIlitary_Base_16x16_103
+  - first:
+      213: 780893637228226917
+    second: 23_MIlitary_Base_16x16_104
+  - first:
+      213: -8782489766021362300
+    second: 23_MIlitary_Base_16x16_105
+  - first:
+      213: -5322618317193572557
+    second: 23_MIlitary_Base_16x16_106
+  - first:
+      213: 1272181788907031037
+    second: 23_MIlitary_Base_16x16_107
+  - first:
+      213: -850848900182653135
+    second: 23_MIlitary_Base_16x16_108
+  - first:
+      213: 4724899507880650758
+    second: 23_MIlitary_Base_16x16_109
+  - first:
+      213: 4446597513580351187
+    second: 23_MIlitary_Base_16x16_110
+  - first:
+      213: 5659025103556426244
+    second: 23_MIlitary_Base_16x16_111
+  - first:
+      213: 8982905319173404046
+    second: 23_MIlitary_Base_16x16_112
+  - first:
+      213: 8301256574164100285
+    second: 23_MIlitary_Base_16x16_113
+  - first:
+      213: 1980666479919225571
+    second: 23_MIlitary_Base_16x16_114
+  - first:
+      213: -1506069504666814813
+    second: 23_MIlitary_Base_16x16_115
+  - first:
+      213: 3733759841697357621
+    second: 23_MIlitary_Base_16x16_116
+  - first:
+      213: -477306651099817785
+    second: 23_MIlitary_Base_16x16_117
+  - first:
+      213: 1928761923929732928
+    second: 23_MIlitary_Base_16x16_118
+  - first:
+      213: -7283157832556101492
+    second: 23_MIlitary_Base_16x16_119
+  - first:
+      213: 4014496701978862347
+    second: 23_MIlitary_Base_16x16_120
+  - first:
+      213: -5687896230065510381
+    second: 23_MIlitary_Base_16x16_121
+  - first:
+      213: -2270143466170445737
+    second: 23_MIlitary_Base_16x16_122
+  - first:
+      213: 9002792387105343361
+    second: 23_MIlitary_Base_16x16_123
+  - first:
+      213: 5895240468410733701
+    second: 23_MIlitary_Base_16x16_124
+  - first:
+      213: -1204178968897458078
+    second: 23_MIlitary_Base_16x16_125
+  - first:
+      213: 4944366250145094705
+    second: 23_MIlitary_Base_16x16_126
+  - first:
+      213: 3176007313745211937
+    second: 23_MIlitary_Base_16x16_127
+  - first:
+      213: 1650022969710293433
+    second: 23_MIlitary_Base_16x16_128
+  - first:
+      213: -913803149750463509
+    second: 23_MIlitary_Base_16x16_129
+  - first:
+      213: 5444776853572851052
+    second: 23_MIlitary_Base_16x16_130
+  - first:
+      213: -1380360167760494413
+    second: 23_MIlitary_Base_16x16_131
+  - first:
+      213: -5269336970920871469
+    second: 23_MIlitary_Base_16x16_132
+  - first:
+      213: -9030528615914477021
+    second: 23_MIlitary_Base_16x16_133
+  - first:
+      213: -7551598437443661210
+    second: 23_MIlitary_Base_16x16_134
+  - first:
+      213: 6534455247636180553
+    second: 23_MIlitary_Base_16x16_135
+  - first:
+      213: 2292137757309820884
+    second: 23_MIlitary_Base_16x16_136
+  - first:
+      213: -8412455103564725530
+    second: 23_MIlitary_Base_16x16_137
+  - first:
+      213: -3558420300625785154
+    second: 23_MIlitary_Base_16x16_138
+  - first:
+      213: -4897813131547154297
+    second: 23_MIlitary_Base_16x16_139
+  - first:
+      213: 8490746975467025674
+    second: 23_MIlitary_Base_16x16_140
+  - first:
+      213: -7700800735618879634
+    second: 23_MIlitary_Base_16x16_141
+  - first:
+      213: 6930224748105715096
+    second: 23_MIlitary_Base_16x16_142
+  - first:
+      213: 4336066721450710817
+    second: 23_MIlitary_Base_16x16_143
+  - first:
+      213: -8805141953333481090
+    second: 23_MIlitary_Base_16x16_144
+  - first:
+      213: 758930933449596463
+    second: 23_MIlitary_Base_16x16_145
+  - first:
+      213: -5879806780716487445
+    second: 23_MIlitary_Base_16x16_146
+  - first:
+      213: 7519725147225779276
+    second: 23_MIlitary_Base_16x16_147
+  - first:
+      213: -8059604166514679914
+    second: 23_MIlitary_Base_16x16_148
+  - first:
+      213: 3256683675528249725
+    second: 23_MIlitary_Base_16x16_149
+  - first:
+      213: 7761911409091423365
+    second: 23_MIlitary_Base_16x16_150
+  - first:
+      213: -2440361727631246387
+    second: 23_MIlitary_Base_16x16_151
+  - first:
+      213: 3030353967706926923
+    second: 23_MIlitary_Base_16x16_152
+  - first:
+      213: -2167434388924330432
+    second: 23_MIlitary_Base_16x16_153
+  - first:
+      213: -8294197440646035808
+    second: 23_MIlitary_Base_16x16_154
+  - first:
+      213: 7724881387571572359
+    second: 23_MIlitary_Base_16x16_155
+  - first:
+      213: 3735167365640568676
+    second: 23_MIlitary_Base_16x16_156
+  - first:
+      213: -7519453375475724150
+    second: 23_MIlitary_Base_16x16_157
+  - first:
+      213: 549724359324388808
+    second: 23_MIlitary_Base_16x16_158
+  - first:
+      213: 2805420681609475972
+    second: 23_MIlitary_Base_16x16_159
+  - first:
+      213: -7723791647061726689
+    second: 23_MIlitary_Base_16x16_160
+  - first:
+      213: -7052519963272942152
+    second: 23_MIlitary_Base_16x16_161
+  - first:
+      213: 5246698976433115432
+    second: 23_MIlitary_Base_16x16_162
+  - first:
+      213: 3932784026869278930
+    second: 23_MIlitary_Base_16x16_163
+  - first:
+      213: -2887128249325223981
+    second: 23_MIlitary_Base_16x16_164
+  - first:
+      213: 4375787287032685656
+    second: 23_MIlitary_Base_16x16_165
+  - first:
+      213: 7387238746330349025
+    second: 23_MIlitary_Base_16x16_166
+  - first:
+      213: -4303439689789599973
+    second: 23_MIlitary_Base_16x16_167
+  - first:
+      213: 3113269255677965084
+    second: 23_MIlitary_Base_16x16_168
+  - first:
+      213: 2395982528857287003
+    second: 23_MIlitary_Base_16x16_169
+  - first:
+      213: -3329911364894961390
+    second: 23_MIlitary_Base_16x16_170
+  - first:
+      213: 6415653121835835974
+    second: 23_MIlitary_Base_16x16_171
+  - first:
+      213: 6451109307822671658
+    second: 23_MIlitary_Base_16x16_172
+  - first:
+      213: -5214000156039086708
+    second: 23_MIlitary_Base_16x16_173
+  - first:
+      213: -9067996636869878558
+    second: 23_MIlitary_Base_16x16_174
+  - first:
+      213: -5044436742241204267
+    second: 23_MIlitary_Base_16x16_175
+  - first:
+      213: 7297664399895504477
+    second: 23_MIlitary_Base_16x16_176
+  - first:
+      213: -4225605769960138870
+    second: 23_MIlitary_Base_16x16_177
+  - first:
+      213: 6498659652213212334
+    second: 23_MIlitary_Base_16x16_178
+  - first:
+      213: -6252818029062207907
+    second: 23_MIlitary_Base_16x16_179
+  - first:
+      213: 1211363133504464418
+    second: 23_MIlitary_Base_16x16_180
+  - first:
+      213: -5068529094767540026
+    second: 23_MIlitary_Base_16x16_181
+  - first:
+      213: -8845259754309652483
+    second: 23_MIlitary_Base_16x16_182
+  - first:
+      213: 8989817081781635884
+    second: 23_MIlitary_Base_16x16_183
+  - first:
+      213: 4355287401553343138
+    second: 23_MIlitary_Base_16x16_184
+  - first:
+      213: -9065824541360299282
+    second: 23_MIlitary_Base_16x16_185
+  - first:
+      213: -5887519537484651306
+    second: 23_MIlitary_Base_16x16_186
+  - first:
+      213: 1543943294589069875
+    second: 23_MIlitary_Base_16x16_187
+  - first:
+      213: -7780817845865904690
+    second: 23_MIlitary_Base_16x16_188
+  - first:
+      213: 7444196630443452015
+    second: 23_MIlitary_Base_16x16_189
+  - first:
+      213: -4930803747533007775
+    second: 23_MIlitary_Base_16x16_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4382
+        width: 65
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20feb0c7a3f494090800000000000000
+      internalID: -8049815746340196606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4478
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742eb623624dcfe70800000000000000
+      internalID: 9150421803429782087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4478
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207987b5886d4e00800000000000000
+      internalID: 1030594813256888359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4190
+        width: 130
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472be5834185e8de0800000000000000
+      internalID: -1329027996159397260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4382
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96ce114a87b5ba0800000000000000
+      internalID: -6099148624272528936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4558
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430256e5b93b1980800000000000000
+      internalID: -8567190412726238390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4558
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7335bc049d6bc140800000000000000
+      internalID: 4741003515373368188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4545
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bdf5edc8e1a7250800000000000000
+      internalID: 5943096248643869487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4520
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae72d4cbb6413e0800000000000000
+      internalID: -2083922271073211735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4520
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6ebaec67690c320800000000000000
+      internalID: 2576224423873603314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4520
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230f0a39a40230a0800000000000000
+      internalID: -6903450153935502548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4504
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bac45f391f01c70800000000000000
+      internalID: 8939910878108363652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4504
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce74d0e9c53851b0800000000000000
+      internalID: -5667720989869048123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4504
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ba4abb2a697c30800000000000000
+      internalID: 4357630850499262608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4488
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5015ae2bd8fcd8d80800000000000000
+      internalID: -8246707135146471163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4488
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc856a0fec10e2fc0800000000000000
+      internalID: -3517872270617454388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4463
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34043373addc27440800000000000000
+      internalID: 4932230879036784707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4446
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1663e32302cb9c0800000000000000
+      internalID: -3910214976300228184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4446
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea03f859752d5e00800000000000000
+      internalID: 1035024692478675691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4382
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a3066ed45e8bd0800000000000000
+      internalID: -2626068218539433069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4452
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f10428a16d6f4b0800000000000000
+      internalID: -5406898893268967644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 4399
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44887c74b809c50c0800000000000000
+      internalID: -4585631392690894780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4399
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cdf826f85f36490800000000000000
+      internalID: -7754084137219138558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4190
+        width: 65
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080eb682a7a117ba0800000000000000
+      internalID: -6093059708889079680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4286
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f05bf7ffa32d340800000000000000
+      internalID: 4887033414684053348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4286
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e42a99a7360350800000000000000
+      internalID: 5982530356583392080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4190
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1681457296e4230800000000000000
+      internalID: 3624950367715353016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 4320
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab79150322c4ece0800000000000000
+      internalID: -1376762130403329115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4190
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ccfe40e0479d00800000000000000
+      internalID: 979322776118411493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4096
+        width: 89
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f3353ff7b57e040800000000000000
+      internalID: 4676807343148842860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3998
+        width: 65
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c08c3ef33efa6a0800000000000000
+      internalID: -6435675478945166321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4094
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5015567550083430800000000000000
+      internalID: 3762757855725555802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4094
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783d51f92e8d51860800000000000000
+      internalID: 7500139222298645383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3998
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531534cd4288c7060800000000000000
+      internalID: 6952581616648802613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3998
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1836bc32372fcc060800000000000000
+      internalID: 6975216499225748353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 4064
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be1448fb7c8fa60800000000000000
+      internalID: 7708130387616197465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4068
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040861958d4a40ee0800000000000000
+      internalID: -1295729543661322176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3998
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba8bdf68ec58ba0800000000000000
+      internalID: -6087232242143679605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3967
+        width: 146
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf132bb44ecd9c2d0800000000000000
+      internalID: -3257829982345219588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3935
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47349b103caa040800000000000000
+      internalID: 4659751176638788797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3982
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f7c74383b218700800000000000000
+      internalID: 540760950659907351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3950
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4abc3a1b16b77520800000000000000
+      internalID: 2699826729152461386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3966
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cc1f83348877a0800000000000000
+      internalID: -6379203515191082592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3966
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966baf2a6ce12b60800000000000000
+      internalID: 7719711177100191383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3935
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d116278b42f0cf0800000000000000
+      internalID: -283967876889502443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3966
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d657365568a5bc40800000000000000
+      internalID: 5527509270858782420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3966
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77037968e638b3280800000000000000
+      internalID: -9062505314425294729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3938
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3971cc22d7a3820800000000000000
+      internalID: 2898766898572792807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3936
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66e0e6a26c4cae50800000000000000
+      internalID: 6821911522149721707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3935
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7581805909654490800000000000000
+      internalID: -7762682893976894084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3935
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f39fb99b2410140800000000000000
+      internalID: 4684098452395212670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3726
+        width: 65
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633b0f6bc3ba58650800000000000000
+      internalID: 6234577536419935030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3838
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88716ee9eae29b6a0800000000000000
+      internalID: -6433059265196976248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3838
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81085cc94c2a83190800000000000000
+      internalID: -7982451374186725352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3903
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a89d5afe42a6a20800000000000000
+      internalID: 3056295908822583854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3919
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c44ddda5f23ab0800000000000000
+      internalID: -5029687706729003965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3694
+        width: 89
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3632a8cb940a30bf0800000000000000
+      internalID: -359267306703281309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3903
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be0685897eb83d0800000000000000
+      internalID: -3203212068440183968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3903
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b62f2a837343c90800000000000000
+      internalID: -7191061988612347063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3726
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95752b205ac340460800000000000000
+      internalID: 7206951983112148825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3726
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e599f383487a70800000000000000
+      internalID: 8824877703939612822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3694
+        width: 178
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfe4534340c03d0800000000000000
+      internalID: -3239209409707049997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3678
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f66adfdfb786730800000000000000
+      internalID: 3992577400476430141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3678
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76fc21a2bdec5b80800000000000000
+      internalID: -8404581453116148099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3678
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe43ce2d2eebf50800000000000000
+      internalID: 6899201074712080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3630
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df2f0fd1ee4d8150800000000000000
+      internalID: 5876439820805287897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3582
+        width: 169
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b546398cce325c260800000000000000
+      internalID: 7117134286013293659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3566
+        width: 177
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b1f9e1c11570e0800000000000000
+      internalID: -2272890912387255919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3585
+        width: 121
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e282b6db890720800000000000000
+      internalID: 2812933196503770060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3537
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67d04afa8fa46580800000000000000
+      internalID: -8834743557555169425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3550
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa537c37a4663f30800000000000000
+      internalID: 4554938742568344228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3550
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c5376305e8a3530800000000000000
+      internalID: 3835534507821456510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3502
+        width: 177
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb6391f59394c50800000000000000
+      internalID: 6649909405396941786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3486
+        width: 176
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f1e5f5eca557f80800000000000000
+      internalID: -8109475711600943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3470
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524479c2be640010800000000000000
+      internalID: 1154169118676763228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3374
+        width: 178
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f3da2644b7aa50800000000000000
+      internalID: 6532387997983438190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3331
+        width: 177
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca430172bf1efb670800000000000000
+      internalID: 8556806285835646124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3406
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615eff0972baf76d0800000000000000
+      internalID: -2990483441125956330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3232
+        width: 177
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7a58276a7a0430800000000000000
+      internalID: 3749944223216598401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3278
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692370f7a2ba5ba10800000000000000
+      internalID: 1924632614778909334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3283
+        width: 88
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02cf703d76e35d20800000000000000
+      internalID: 3266207580132721165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3088
+        width: 178
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c92244cddf6d0a0800000000000000
+      internalID: -6857014260147250093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3247
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b584c6a148461200800000000000000
+      internalID: 150387084371461559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3166
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229704ba4606b790800000000000000
+      internalID: -7514812010303352276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3120
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4ba4686307f790800000000000000
+      internalID: -7496519307834471758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3104
+        width: 18
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c92939ec04e94260800000000000000
+      internalID: 7082442633120393667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3134
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d893b78c181427c20800000000000000
+      internalID: 3202694310683949453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2990
+        width: 171
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04563f9ce8955ac30800000000000000
+      internalID: 4369997483241334080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3104
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cace5eda23964af90800000000000000
+      internalID: -6943309059111654228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2878
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a4f367629687780800000000000000
+      internalID: -8685076267470468599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2942
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10e3129ba317f40800000000000000
+      internalID: 5724421168165683651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2896
+        width: 225
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac15898db15168e60800000000000000
+      internalID: 7964076200393462218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2878
+        width: 129
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355861a2a9e36d270800000000000000
+      internalID: 8274870197191869779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2846
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7baa0fef382eb70800000000000000
+      internalID: 8926842542384396259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2846
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4150a390c18f38f50800000000000000
+      internalID: 6882617454849819924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2846
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054fc7fb45610c720800000000000000
+      internalID: 2864313916253336656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2830
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c666ea96414ccbd0800000000000000
+      internalID: -2608638312652052795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2702
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a7add599a73c9e0800000000000000
+      internalID: -1602302243290580401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2782
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c726d573aad6390800000000000000
+      internalID: -7823409822906024907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2798
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b615852e446d88c80800000000000000
+      internalID: -8320164720223432341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2798
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7adb5a70d5a84a0800000000000000
+      internalID: -6590352817276475416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2801
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c82efa73191420800000000000000
+      internalID: 2601131678754195148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2801
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d864c8cff619c91b0800000000000000
+      internalID: -5648479922464995699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2788
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335f111580f6b050800000000000000
+      internalID: 5816100423104156467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2751
+        width: 15
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569e95e20aa46da00800000000000000
+      internalID: 780893637228226917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2750
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d0bc4e6145e1680800000000000000
+      internalID: -8782489766021362300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2750
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f80b847d24226b0800000000000000
+      internalID: -5322618317193572557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2750
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94681c892b7a110800000000000000
+      internalID: 1272181788907031037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2783
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c41bee6d2134f0800000000000000
+      internalID: -850848900182653135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2766
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e4ae9117329140800000000000000
+      internalID: 4724899507880650758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2766
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de871821ec75bd30800000000000000
+      internalID: 4446597513580351187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2756
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abf705955e88e40800000000000000
+      internalID: 5659025103556426244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2544
+        width: 189
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e853c485bc0b9ac70800000000000000
+      internalID: 8982905319173404046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2511
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db46d6c4fdcf33370800000000000000
+      internalID: 8301256574164100285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2510
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eadb126badbc7b10800000000000000
+      internalID: 1980666479919225571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2511
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63947d3cd591be0800000000000000
+      internalID: -1506069504666814813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2510
+        width: 316
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5df03bcaf0d330800000000000000
+      internalID: 3733759841697357621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2304
+        width: 189
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8934431244069f0800000000000000
+      internalID: -477306651099817785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2304
+        width: 285
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047712430c654ca10800000000000000
+      internalID: 1928761923929732928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2494
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c3630a860dea90800000000000000
+      internalID: -7283157832556101492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2467
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b036d611b7b56b730800000000000000
+      internalID: 4014496701978862347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2430
+        width: 129
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31869a7b3888011b0800000000000000
+      internalID: -5687896230065510381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2382
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7509cb59b84de70e0800000000000000
+      internalID: -2270143466170445737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2370
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187410c2af750fc70800000000000000
+      internalID: 9002792387105343361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2370
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5841121c8f910d150800000000000000
+      internalID: 5895240468410733701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2334
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260fed89b95e94fe0800000000000000
+      internalID: -1204178968897458078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2302
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c145b78eaed9440800000000000000
+      internalID: 4944366250145094705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2302
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12273db13d1731c20800000000000000
+      internalID: 3176007313745211937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2270
+        width: 98
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b131d4162f06e610800000000000000
+      internalID: 1650022969710293433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2270
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be39d7870e48153f0800000000000000
+      internalID: -913803149750463509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2270
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659a7e53bbbf8b40800000000000000
+      internalID: 5444776853572851052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1918
+        width: 121
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0898aadb9f7dce0800000000000000
+      internalID: -1380360167760494413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2082
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9bd6e61fd8fd6b0800000000000000
+      internalID: -5269336970920871469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1918
+        width: 121
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aea62d11e1da280800000000000000
+      internalID: -9030528615914477021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2056
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66296c13b35533790800000000000000
+      internalID: -7551598437443661210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2056
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eaa0c3d6c0faa50800000000000000
+      internalID: 6534455247636180553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1964
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df56b0652f4fcf10800000000000000
+      internalID: 2292137757309820884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1838
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e24a1787a4f04b80800000000000000
+      internalID: -8412455103564725530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1758
+        width: 74
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe49a30793fd9ec0800000000000000
+      internalID: -3558420300625785154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1758
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78863e518e8770cb0800000000000000
+      internalID: -4897813131547154297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a053f66636135d570800000000000000
+      internalID: 8490746975467025674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1598
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fae531882412590800000000000000
+      internalID: -7700800735618879634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1655
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d4674c0ba1d2060800000000000000
+      internalID: 6930224748105715096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1595
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127567ea5bdcc2c30800000000000000
+      internalID: 4336066721450710817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1653
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e713baa8b0addc580800000000000000
+      internalID: -8805141953333481090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1655
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e9159b9a3488a00800000000000000
+      internalID: 758930933449596463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1462
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece57fa2eab66ea0800000000000000
+      internalID: -5879806780716487445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1500
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce6f02e2e6b5860800000000000000
+      internalID: 7519725147225779276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1438
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f52a056b8862090800000000000000
+      internalID: -8059604166514679914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1501
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71cca95c80123d20800000000000000
+      internalID: 3256683675528249725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1500
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c22fc5d49d7bb60800000000000000
+      internalID: 7761911409091423365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb41530f7122ed0800000000000000
+      internalID: -2440361727631246387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1372
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4feddcc0eafd0a20800000000000000
+      internalID: 3030353967706926923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1314
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e033628e9bbe1e0800000000000000
+      internalID: -2167434388924330432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1371
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6c65d4f5715ec80800000000000000
+      internalID: -8294197440646035808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1372
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eea3e91ba443b60800000000000000
+      internalID: 7724881387571572359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f33a5edeaf5d330800000000000000
+      internalID: 3735167365640568676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1150
+        width: 74
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8058a9aef885a790800000000000000
+      internalID: -7519453375475724150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1150
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc8e9646301a700800000000000000
+      internalID: 549724359324388808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487fdd40f3bdee620800000000000000
+      internalID: 2805420681609475972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1061
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa1cd5b649fc490800000000000000
+      internalID: -7723791647061726689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1006
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde3c1957a602e90800000000000000
+      internalID: -7052519963272942152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1063
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82193bdbbe400d840800000000000000
+      internalID: 5246698976433115432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1003
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8afd35c3e049630800000000000000
+      internalID: 3932784026869278930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1063
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df79f5672cdee7d0800000000000000
+      internalID: -2887128249325223981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 870
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e0488a5be9bc30800000000000000
+      internalID: 4375787287032685656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 908
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb502208eb48660800000000000000
+      internalID: 7387238746330349025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 846
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f06c9176c1744c0800000000000000
+      internalID: -4303439689789599973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 909
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1374daa4ed843b20800000000000000
+      internalID: 3113269255677965084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 908
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a4906a6d304120800000000000000
+      internalID: 2395982528857287003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21156e99147c9c1d0800000000000000
+      internalID: -3329911364894961390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 780
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a621d58af80950800000000000000
+      internalID: 6415653121835835974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 722
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a278cfb6cb1f68950800000000000000
+      internalID: 6451109307822671658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 779
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7578ab7624a7b0800000000000000
+      internalID: -5214000156039086708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 780
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec1fe26a11082280800000000000000
+      internalID: -9067996636869878558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 543
+        width: 244
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7c8ce628f8ef9b0800000000000000
+      internalID: -5044436742241204267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 543
+        width: 242
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5629c56b13864560800000000000000
+      internalID: 7297664399895504477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 510
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a875fa0c0f1ab55c0800000000000000
+      internalID: -4225605769960138870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 99
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea40556b580ef2a50800000000000000
+      internalID: 6498659652213212334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 286
+        width: 60
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56c694a1278939a0800000000000000
+      internalID: -6252818029062207907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 492
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a9821a50afc010800000000000000
+      internalID: 1211363133504464418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 458
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c806ac74a7f8a9b0800000000000000
+      internalID: -5068529094767540026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 291
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff605e1e135f3580800000000000000
+      internalID: -8845259754309652483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 382
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b455b710f32cc70800000000000000
+      internalID: 8989817081781635884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 366
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2325001d6117c30800000000000000
+      internalID: 4355287401553343138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 367
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee26338cc98bf2280800000000000000
+      internalID: -9065824541360299282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 10
+        width: 60
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d42e009c245b4ea0800000000000000
+      internalID: -5887519537484651306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 99
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae35b0f303d6510800000000000000
+      internalID: 1543943294589069875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 178
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5842bc46bf40490800000000000000
+      internalID: -7780817845865904690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 87
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66edb3f4691f4760800000000000000
+      internalID: 7444196630443452015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23_MIlitary_Base_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 49
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164512bbd14429bb0800000000000000
+      internalID: -4930803747533007775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      23_MIlitary_Base_16x16_0: -8049815746340196606
+      23_MIlitary_Base_16x16_1: 9150421803429782087
+      23_MIlitary_Base_16x16_10: -6903450153935502548
+      23_MIlitary_Base_16x16_100: -6590352817276475416
+      23_MIlitary_Base_16x16_101: 2601131678754195148
+      23_MIlitary_Base_16x16_102: -5648479922464995699
+      23_MIlitary_Base_16x16_103: 5816100423104156467
+      23_MIlitary_Base_16x16_104: 780893637228226917
+      23_MIlitary_Base_16x16_105: -8782489766021362300
+      23_MIlitary_Base_16x16_106: -5322618317193572557
+      23_MIlitary_Base_16x16_107: 1272181788907031037
+      23_MIlitary_Base_16x16_108: -850848900182653135
+      23_MIlitary_Base_16x16_109: 4724899507880650758
+      23_MIlitary_Base_16x16_11: 8939910878108363652
+      23_MIlitary_Base_16x16_110: 4446597513580351187
+      23_MIlitary_Base_16x16_111: 5659025103556426244
+      23_MIlitary_Base_16x16_112: 8982905319173404046
+      23_MIlitary_Base_16x16_113: 8301256574164100285
+      23_MIlitary_Base_16x16_114: 1980666479919225571
+      23_MIlitary_Base_16x16_115: -1506069504666814813
+      23_MIlitary_Base_16x16_116: 3733759841697357621
+      23_MIlitary_Base_16x16_117: -477306651099817785
+      23_MIlitary_Base_16x16_118: 1928761923929732928
+      23_MIlitary_Base_16x16_119: -7283157832556101492
+      23_MIlitary_Base_16x16_12: -5667720989869048123
+      23_MIlitary_Base_16x16_120: 4014496701978862347
+      23_MIlitary_Base_16x16_121: -5687896230065510381
+      23_MIlitary_Base_16x16_122: -2270143466170445737
+      23_MIlitary_Base_16x16_123: 9002792387105343361
+      23_MIlitary_Base_16x16_124: 5895240468410733701
+      23_MIlitary_Base_16x16_125: -1204178968897458078
+      23_MIlitary_Base_16x16_126: 4944366250145094705
+      23_MIlitary_Base_16x16_127: 3176007313745211937
+      23_MIlitary_Base_16x16_128: 1650022969710293433
+      23_MIlitary_Base_16x16_129: -913803149750463509
+      23_MIlitary_Base_16x16_13: 4357630850499262608
+      23_MIlitary_Base_16x16_130: 5444776853572851052
+      23_MIlitary_Base_16x16_131: -1380360167760494413
+      23_MIlitary_Base_16x16_132: -5269336970920871469
+      23_MIlitary_Base_16x16_133: -9030528615914477021
+      23_MIlitary_Base_16x16_134: -7551598437443661210
+      23_MIlitary_Base_16x16_135: 6534455247636180553
+      23_MIlitary_Base_16x16_136: 2292137757309820884
+      23_MIlitary_Base_16x16_137: -8412455103564725530
+      23_MIlitary_Base_16x16_138: -3558420300625785154
+      23_MIlitary_Base_16x16_139: -4897813131547154297
+      23_MIlitary_Base_16x16_14: -8246707135146471163
+      23_MIlitary_Base_16x16_140: 8490746975467025674
+      23_MIlitary_Base_16x16_141: -7700800735618879634
+      23_MIlitary_Base_16x16_142: 6930224748105715096
+      23_MIlitary_Base_16x16_143: 4336066721450710817
+      23_MIlitary_Base_16x16_144: -8805141953333481090
+      23_MIlitary_Base_16x16_145: 758930933449596463
+      23_MIlitary_Base_16x16_146: -5879806780716487445
+      23_MIlitary_Base_16x16_147: 7519725147225779276
+      23_MIlitary_Base_16x16_148: -8059604166514679914
+      23_MIlitary_Base_16x16_149: 3256683675528249725
+      23_MIlitary_Base_16x16_15: -3517872270617454388
+      23_MIlitary_Base_16x16_150: 7761911409091423365
+      23_MIlitary_Base_16x16_151: -2440361727631246387
+      23_MIlitary_Base_16x16_152: 3030353967706926923
+      23_MIlitary_Base_16x16_153: -2167434388924330432
+      23_MIlitary_Base_16x16_154: -8294197440646035808
+      23_MIlitary_Base_16x16_155: 7724881387571572359
+      23_MIlitary_Base_16x16_156: 3735167365640568676
+      23_MIlitary_Base_16x16_157: -7519453375475724150
+      23_MIlitary_Base_16x16_158: 549724359324388808
+      23_MIlitary_Base_16x16_159: 2805420681609475972
+      23_MIlitary_Base_16x16_16: 4932230879036784707
+      23_MIlitary_Base_16x16_160: -7723791647061726689
+      23_MIlitary_Base_16x16_161: -7052519963272942152
+      23_MIlitary_Base_16x16_162: 5246698976433115432
+      23_MIlitary_Base_16x16_163: 3932784026869278930
+      23_MIlitary_Base_16x16_164: -2887128249325223981
+      23_MIlitary_Base_16x16_165: 4375787287032685656
+      23_MIlitary_Base_16x16_166: 7387238746330349025
+      23_MIlitary_Base_16x16_167: -4303439689789599973
+      23_MIlitary_Base_16x16_168: 3113269255677965084
+      23_MIlitary_Base_16x16_169: 2395982528857287003
+      23_MIlitary_Base_16x16_17: -3910214976300228184
+      23_MIlitary_Base_16x16_170: -3329911364894961390
+      23_MIlitary_Base_16x16_171: 6415653121835835974
+      23_MIlitary_Base_16x16_172: 6451109307822671658
+      23_MIlitary_Base_16x16_173: -5214000156039086708
+      23_MIlitary_Base_16x16_174: -9067996636869878558
+      23_MIlitary_Base_16x16_175: -5044436742241204267
+      23_MIlitary_Base_16x16_176: 7297664399895504477
+      23_MIlitary_Base_16x16_177: -4225605769960138870
+      23_MIlitary_Base_16x16_178: 6498659652213212334
+      23_MIlitary_Base_16x16_179: -6252818029062207907
+      23_MIlitary_Base_16x16_18: 1035024692478675691
+      23_MIlitary_Base_16x16_180: 1211363133504464418
+      23_MIlitary_Base_16x16_181: -5068529094767540026
+      23_MIlitary_Base_16x16_182: -8845259754309652483
+      23_MIlitary_Base_16x16_183: 8989817081781635884
+      23_MIlitary_Base_16x16_184: 4355287401553343138
+      23_MIlitary_Base_16x16_185: -9065824541360299282
+      23_MIlitary_Base_16x16_186: -5887519537484651306
+      23_MIlitary_Base_16x16_187: 1543943294589069875
+      23_MIlitary_Base_16x16_188: -7780817845865904690
+      23_MIlitary_Base_16x16_189: 7444196630443452015
+      23_MIlitary_Base_16x16_19: -2626068218539433069
+      23_MIlitary_Base_16x16_190: -4930803747533007775
+      23_MIlitary_Base_16x16_2: 1030594813256888359
+      23_MIlitary_Base_16x16_20: -5406898893268967644
+      23_MIlitary_Base_16x16_21: -4585631392690894780
+      23_MIlitary_Base_16x16_22: -7754084137219138558
+      23_MIlitary_Base_16x16_23: -6093059708889079680
+      23_MIlitary_Base_16x16_24: 4887033414684053348
+      23_MIlitary_Base_16x16_25: 5982530356583392080
+      23_MIlitary_Base_16x16_26: 3624950367715353016
+      23_MIlitary_Base_16x16_27: -1376762130403329115
+      23_MIlitary_Base_16x16_28: 979322776118411493
+      23_MIlitary_Base_16x16_29: 4676807343148842860
+      23_MIlitary_Base_16x16_3: -1329027996159397260
+      23_MIlitary_Base_16x16_30: -6435675478945166321
+      23_MIlitary_Base_16x16_31: 3762757855725555802
+      23_MIlitary_Base_16x16_32: 7500139222298645383
+      23_MIlitary_Base_16x16_33: 6952581616648802613
+      23_MIlitary_Base_16x16_34: 6975216499225748353
+      23_MIlitary_Base_16x16_35: 7708130387616197465
+      23_MIlitary_Base_16x16_36: -1295729543661322176
+      23_MIlitary_Base_16x16_37: -6087232242143679605
+      23_MIlitary_Base_16x16_38: -3257829982345219588
+      23_MIlitary_Base_16x16_39: 4659751176638788797
+      23_MIlitary_Base_16x16_4: -6099148624272528936
+      23_MIlitary_Base_16x16_40: 540760950659907351
+      23_MIlitary_Base_16x16_41: 2699826729152461386
+      23_MIlitary_Base_16x16_42: -6379203515191082592
+      23_MIlitary_Base_16x16_43: 7719711177100191383
+      23_MIlitary_Base_16x16_44: -283967876889502443
+      23_MIlitary_Base_16x16_45: 5527509270858782420
+      23_MIlitary_Base_16x16_46: -9062505314425294729
+      23_MIlitary_Base_16x16_47: 2898766898572792807
+      23_MIlitary_Base_16x16_48: 6821911522149721707
+      23_MIlitary_Base_16x16_49: -7762682893976894084
+      23_MIlitary_Base_16x16_5: -8567190412726238390
+      23_MIlitary_Base_16x16_50: 4684098452395212670
+      23_MIlitary_Base_16x16_51: 6234577536419935030
+      23_MIlitary_Base_16x16_52: -6433059265196976248
+      23_MIlitary_Base_16x16_53: -7982451374186725352
+      23_MIlitary_Base_16x16_54: 3056295908822583854
+      23_MIlitary_Base_16x16_55: -5029687706729003965
+      23_MIlitary_Base_16x16_56: -359267306703281309
+      23_MIlitary_Base_16x16_57: -3203212068440183968
+      23_MIlitary_Base_16x16_58: -7191061988612347063
+      23_MIlitary_Base_16x16_59: 7206951983112148825
+      23_MIlitary_Base_16x16_6: 4741003515373368188
+      23_MIlitary_Base_16x16_60: 8824877703939612822
+      23_MIlitary_Base_16x16_61: -3239209409707049997
+      23_MIlitary_Base_16x16_62: 3992577400476430141
+      23_MIlitary_Base_16x16_63: -8404581453116148099
+      23_MIlitary_Base_16x16_64: 6899201074712080165
+      23_MIlitary_Base_16x16_65: 5876439820805287897
+      23_MIlitary_Base_16x16_66: 7117134286013293659
+      23_MIlitary_Base_16x16_67: -2272890912387255919
+      23_MIlitary_Base_16x16_68: 2812933196503770060
+      23_MIlitary_Base_16x16_69: -8834743557555169425
+      23_MIlitary_Base_16x16_7: 5943096248643869487
+      23_MIlitary_Base_16x16_70: 4554938742568344228
+      23_MIlitary_Base_16x16_71: 3835534507821456510
+      23_MIlitary_Base_16x16_72: 6649909405396941786
+      23_MIlitary_Base_16x16_73: -8109475711600943351
+      23_MIlitary_Base_16x16_74: 1154169118676763228
+      23_MIlitary_Base_16x16_75: 6532387997983438190
+      23_MIlitary_Base_16x16_76: 8556806285835646124
+      23_MIlitary_Base_16x16_77: -2990483441125956330
+      23_MIlitary_Base_16x16_78: 3749944223216598401
+      23_MIlitary_Base_16x16_79: 1924632614778909334
+      23_MIlitary_Base_16x16_8: -2083922271073211735
+      23_MIlitary_Base_16x16_80: 3266207580132721165
+      23_MIlitary_Base_16x16_81: -6857014260147250093
+      23_MIlitary_Base_16x16_82: 150387084371461559
+      23_MIlitary_Base_16x16_83: -7514812010303352276
+      23_MIlitary_Base_16x16_84: -7496519307834471758
+      23_MIlitary_Base_16x16_85: 7082442633120393667
+      23_MIlitary_Base_16x16_86: 3202694310683949453
+      23_MIlitary_Base_16x16_87: 4369997483241334080
+      23_MIlitary_Base_16x16_88: -6943309059111654228
+      23_MIlitary_Base_16x16_89: -8685076267470468599
+      23_MIlitary_Base_16x16_9: 2576224423873603314
+      23_MIlitary_Base_16x16_90: 5724421168165683651
+      23_MIlitary_Base_16x16_91: 7964076200393462218
+      23_MIlitary_Base_16x16_92: 8274870197191869779
+      23_MIlitary_Base_16x16_93: 8926842542384396259
+      23_MIlitary_Base_16x16_94: 6882617454849819924
+      23_MIlitary_Base_16x16_95: 2864313916253336656
+      23_MIlitary_Base_16x16_96: -2608638312652052795
+      23_MIlitary_Base_16x16_97: -1602302243290580401
+      23_MIlitary_Base_16x16_98: -7823409822906024907
+      23_MIlitary_Base_16x16_99: -8320164720223432341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

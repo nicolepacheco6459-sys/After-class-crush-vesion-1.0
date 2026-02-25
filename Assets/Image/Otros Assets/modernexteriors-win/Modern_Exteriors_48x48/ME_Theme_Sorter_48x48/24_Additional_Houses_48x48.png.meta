@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 1eac49865df055e48bb4dfecf4f82afd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2322613122362050969
+    second: 24_Additional_Houses_48x48_0
+  - first:
+      213: 2346405382655795491
+    second: 24_Additional_Houses_48x48_1
+  - first:
+      213: -8104875151160245746
+    second: 24_Additional_Houses_48x48_2
+  - first:
+      213: -2338586830002147918
+    second: 24_Additional_Houses_48x48_3
+  - first:
+      213: -2343777343192879896
+    second: 24_Additional_Houses_48x48_4
+  - first:
+      213: -2732581207829601156
+    second: 24_Additional_Houses_48x48_5
+  - first:
+      213: 4239168323709727188
+    second: 24_Additional_Houses_48x48_6
+  - first:
+      213: 426093280951982007
+    second: 24_Additional_Houses_48x48_7
+  - first:
+      213: -8287996890916578422
+    second: 24_Additional_Houses_48x48_8
+  - first:
+      213: -6479554269088274271
+    second: 24_Additional_Houses_48x48_9
+  - first:
+      213: 1993671095543178141
+    second: 24_Additional_Houses_48x48_10
+  - first:
+      213: -4204764582346672905
+    second: 24_Additional_Houses_48x48_11
+  - first:
+      213: -7451789469968240287
+    second: 24_Additional_Houses_48x48_12
+  - first:
+      213: -3458042915178460762
+    second: 24_Additional_Houses_48x48_13
+  - first:
+      213: -4471612548347298582
+    second: 24_Additional_Houses_48x48_14
+  - first:
+      213: 6705651259144354399
+    second: 24_Additional_Houses_48x48_15
+  - first:
+      213: -8748588159321880711
+    second: 24_Additional_Houses_48x48_16
+  - first:
+      213: 4480129050330385627
+    second: 24_Additional_Houses_48x48_17
+  - first:
+      213: 7246680138538518339
+    second: 24_Additional_Houses_48x48_18
+  - first:
+      213: -7024412383648363808
+    second: 24_Additional_Houses_48x48_19
+  - first:
+      213: 7598332109302501308
+    second: 24_Additional_Houses_48x48_20
+  - first:
+      213: -8551740830616814346
+    second: 24_Additional_Houses_48x48_21
+  - first:
+      213: 3890388169515915018
+    second: 24_Additional_Houses_48x48_22
+  - first:
+      213: 5196199029768100024
+    second: 24_Additional_Houses_48x48_23
+  - first:
+      213: 8505333488389548528
+    second: 24_Additional_Houses_48x48_24
+  - first:
+      213: 3224406702851932106
+    second: 24_Additional_Houses_48x48_25
+  - first:
+      213: 8267948675400000788
+    second: 24_Additional_Houses_48x48_26
+  - first:
+      213: 239349650407835618
+    second: 24_Additional_Houses_48x48_27
+  - first:
+      213: 2946712168471003832
+    second: 24_Additional_Houses_48x48_28
+  - first:
+      213: -8629109609270326352
+    second: 24_Additional_Houses_48x48_29
+  - first:
+      213: 8018661121051225691
+    second: 24_Additional_Houses_48x48_30
+  - first:
+      213: -1836375559242274875
+    second: 24_Additional_Houses_48x48_31
+  - first:
+      213: -6482543487754369311
+    second: 24_Additional_Houses_48x48_32
+  - first:
+      213: -5307495622085019371
+    second: 24_Additional_Houses_48x48_33
+  - first:
+      213: -4474921080142733428
+    second: 24_Additional_Houses_48x48_34
+  - first:
+      213: 2978110633706882560
+    second: 24_Additional_Houses_48x48_35
+  - first:
+      213: 4288397685414683764
+    second: 24_Additional_Houses_48x48_36
+  - first:
+      213: -4640311033615767927
+    second: 24_Additional_Houses_48x48_37
+  - first:
+      213: 2271258736519690092
+    second: 24_Additional_Houses_48x48_38
+  - first:
+      213: -7420222350618000597
+    second: 24_Additional_Houses_48x48_39
+  - first:
+      213: 7866208356107762007
+    second: 24_Additional_Houses_48x48_40
+  - first:
+      213: -5029388021291754036
+    second: 24_Additional_Houses_48x48_41
+  - first:
+      213: -3059812590761108168
+    second: 24_Additional_Houses_48x48_42
+  - first:
+      213: 6284915337497794666
+    second: 24_Additional_Houses_48x48_43
+  - first:
+      213: 1383370528071862059
+    second: 24_Additional_Houses_48x48_44
+  - first:
+      213: 5445767042228467500
+    second: 24_Additional_Houses_48x48_45
+  - first:
+      213: -3190071368841134383
+    second: 24_Additional_Houses_48x48_46
+  - first:
+      213: -6624905307327433541
+    second: 24_Additional_Houses_48x48_47
+  - first:
+      213: -5941778756502944912
+    second: 24_Additional_Houses_48x48_48
+  - first:
+      213: 3867183496235909035
+    second: 24_Additional_Houses_48x48_49
+  - first:
+      213: -4956738246951030402
+    second: 24_Additional_Houses_48x48_50
+  - first:
+      213: -601865193140956606
+    second: 24_Additional_Houses_48x48_51
+  - first:
+      213: 688750369561498218
+    second: 24_Additional_Houses_48x48_52
+  - first:
+      213: -7661473791709300449
+    second: 24_Additional_Houses_48x48_53
+  - first:
+      213: 489432620975691254
+    second: 24_Additional_Houses_48x48_54
+  - first:
+      213: 1226492108659045249
+    second: 24_Additional_Houses_48x48_55
+  - first:
+      213: -4930694538156682594
+    second: 24_Additional_Houses_48x48_56
+  - first:
+      213: -667337546390358966
+    second: 24_Additional_Houses_48x48_57
+  - first:
+      213: 385239754423266072
+    second: 24_Additional_Houses_48x48_58
+  - first:
+      213: -4794339120240145541
+    second: 24_Additional_Houses_48x48_59
+  - first:
+      213: -3994565983006713565
+    second: 24_Additional_Houses_48x48_60
+  - first:
+      213: -4780979765432546801
+    second: 24_Additional_Houses_48x48_61
+  - first:
+      213: 6763581863475527207
+    second: 24_Additional_Houses_48x48_62
+  - first:
+      213: 1719527631423295625
+    second: 24_Additional_Houses_48x48_63
+  - first:
+      213: -9018086970521034532
+    second: 24_Additional_Houses_48x48_64
+  - first:
+      213: -972499829055294514
+    second: 24_Additional_Houses_48x48_65
+  - first:
+      213: -9070931446658597430
+    second: 24_Additional_Houses_48x48_66
+  - first:
+      213: 2565325308988789071
+    second: 24_Additional_Houses_48x48_67
+  - first:
+      213: -1702027130672425744
+    second: 24_Additional_Houses_48x48_68
+  - first:
+      213: 8832214846356867274
+    second: 24_Additional_Houses_48x48_69
+  - first:
+      213: -7817928329041030227
+    second: 24_Additional_Houses_48x48_70
+  - first:
+      213: -4936056390385475519
+    second: 24_Additional_Houses_48x48_71
+  - first:
+      213: 7039895345641430327
+    second: 24_Additional_Houses_48x48_72
+  - first:
+      213: -6300705771334985433
+    second: 24_Additional_Houses_48x48_73
+  - first:
+      213: 2555055119107569914
+    second: 24_Additional_Houses_48x48_74
+  - first:
+      213: 4328318232085915643
+    second: 24_Additional_Houses_48x48_75
+  - first:
+      213: 7523734088427202148
+    second: 24_Additional_Houses_48x48_76
+  - first:
+      213: 5926405975333739287
+    second: 24_Additional_Houses_48x48_77
+  - first:
+      213: -3160907454150465479
+    second: 24_Additional_Houses_48x48_78
+  - first:
+      213: 8225367253180055230
+    second: 24_Additional_Houses_48x48_79
+  - first:
+      213: 5710209162779493056
+    second: 24_Additional_Houses_48x48_80
+  - first:
+      213: -8904348985555013829
+    second: 24_Additional_Houses_48x48_81
+  - first:
+      213: -3340739017427662498
+    second: 24_Additional_Houses_48x48_82
+  - first:
+      213: -4586275852682576573
+    second: 24_Additional_Houses_48x48_83
+  - first:
+      213: 7619446853666671388
+    second: 24_Additional_Houses_48x48_84
+  - first:
+      213: -65947009099735783
+    second: 24_Additional_Houses_48x48_85
+  - first:
+      213: 224550749870729299
+    second: 24_Additional_Houses_48x48_86
+  - first:
+      213: 5654817038136047658
+    second: 24_Additional_Houses_48x48_87
+  - first:
+      213: 8998698522153826684
+    second: 24_Additional_Houses_48x48_88
+  - first:
+      213: 5657326674417132737
+    second: 24_Additional_Houses_48x48_89
+  - first:
+      213: -4901391007164742796
+    second: 24_Additional_Houses_48x48_90
+  - first:
+      213: 1335070115569570491
+    second: 24_Additional_Houses_48x48_91
+  - first:
+      213: 5566221715354898174
+    second: 24_Additional_Houses_48x48_92
+  - first:
+      213: 3592408672035952171
+    second: 24_Additional_Houses_48x48_93
+  - first:
+      213: 7868800374423693384
+    second: 24_Additional_Houses_48x48_94
+  - first:
+      213: 4950305507269973157
+    second: 24_Additional_Houses_48x48_95
+  - first:
+      213: -8971615925635447221
+    second: 24_Additional_Houses_48x48_96
+  - first:
+      213: 3079610129098665853
+    second: 24_Additional_Houses_48x48_97
+  - first:
+      213: -7557657320998965723
+    second: 24_Additional_Houses_48x48_98
+  - first:
+      213: 104518742516247026
+    second: 24_Additional_Houses_48x48_99
+  - first:
+      213: -8907773610092936309
+    second: 24_Additional_Houses_48x48_100
+  - first:
+      213: -1348133202720089014
+    second: 24_Additional_Houses_48x48_101
+  - first:
+      213: 1157241189836547447
+    second: 24_Additional_Houses_48x48_102
+  - first:
+      213: 5969784162199089867
+    second: 24_Additional_Houses_48x48_103
+  - first:
+      213: -119994222661402955
+    second: 24_Additional_Houses_48x48_104
+  - first:
+      213: 5491904480122842214
+    second: 24_Additional_Houses_48x48_105
+  - first:
+      213: -8089223690675560872
+    second: 24_Additional_Houses_48x48_106
+  - first:
+      213: 1567329247728010975
+    second: 24_Additional_Houses_48x48_107
+  - first:
+      213: -5436832520614122271
+    second: 24_Additional_Houses_48x48_108
+  - first:
+      213: -8838838287301249146
+    second: 24_Additional_Houses_48x48_109
+  - first:
+      213: -5046946524274091380
+    second: 24_Additional_Houses_48x48_110
+  - first:
+      213: -4582382511684242248
+    second: 24_Additional_Houses_48x48_111
+  - first:
+      213: 8560926718644398846
+    second: 24_Additional_Houses_48x48_112
+  - first:
+      213: -4737591455008994244
+    second: 24_Additional_Houses_48x48_113
+  - first:
+      213: 5644432970404449270
+    second: 24_Additional_Houses_48x48_114
+  - first:
+      213: 4606460275569551028
+    second: 24_Additional_Houses_48x48_115
+  - first:
+      213: -6533294645123401311
+    second: 24_Additional_Houses_48x48_116
+  - first:
+      213: 5100671751177595856
+    second: 24_Additional_Houses_48x48_117
+  - first:
+      213: -3498052624056308016
+    second: 24_Additional_Houses_48x48_118
+  - first:
+      213: -3925583803691463194
+    second: 24_Additional_Houses_48x48_119
+  - first:
+      213: -4206394996609950572
+    second: 24_Additional_Houses_48x48_120
+  - first:
+      213: -8262492648174183576
+    second: 24_Additional_Houses_48x48_121
+  - first:
+      213: -8802846512242400722
+    second: 24_Additional_Houses_48x48_122
+  - first:
+      213: 1831092396483367145
+    second: 24_Additional_Houses_48x48_123
+  - first:
+      213: 8523062962821186438
+    second: 24_Additional_Houses_48x48_124
+  - first:
+      213: 4941211759079006584
+    second: 24_Additional_Houses_48x48_125
+  - first:
+      213: -8607991145428569056
+    second: 24_Additional_Houses_48x48_126
+  - first:
+      213: -4636497916907048655
+    second: 24_Additional_Houses_48x48_127
+  - first:
+      213: -1644790489842627133
+    second: 24_Additional_Houses_48x48_128
+  - first:
+      213: -6735090738326837800
+    second: 24_Additional_Houses_48x48_129
+  - first:
+      213: -1158001290321584212
+    second: 24_Additional_Houses_48x48_130
+  - first:
+      213: -4516094023873490136
+    second: 24_Additional_Houses_48x48_131
+  - first:
+      213: 2200033264216377930
+    second: 24_Additional_Houses_48x48_132
+  - first:
+      213: -8691904325885565029
+    second: 24_Additional_Houses_48x48_133
+  - first:
+      213: 572860442652509058
+    second: 24_Additional_Houses_48x48_134
+  - first:
+      213: -5769411839691174797
+    second: 24_Additional_Houses_48x48_135
+  - first:
+      213: 2827245944446271481
+    second: 24_Additional_Houses_48x48_136
+  - first:
+      213: -2960127753311890434
+    second: 24_Additional_Houses_48x48_137
+  - first:
+      213: 5903513770028478888
+    second: 24_Additional_Houses_48x48_138
+  - first:
+      213: -7839905469692051856
+    second: 24_Additional_Houses_48x48_139
+  - first:
+      213: -240897644841115829
+    second: 24_Additional_Houses_48x48_140
+  - first:
+      213: -1449592443485990483
+    second: 24_Additional_Houses_48x48_141
+  - first:
+      213: -7814677075242633908
+    second: 24_Additional_Houses_48x48_142
+  - first:
+      213: -2300034316464037005
+    second: 24_Additional_Houses_48x48_143
+  - first:
+      213: -8503197910029080459
+    second: 24_Additional_Houses_48x48_144
+  - first:
+      213: 8408400949515299014
+    second: 24_Additional_Houses_48x48_145
+  - first:
+      213: 420502607451320469
+    second: 24_Additional_Houses_48x48_146
+  - first:
+      213: -6258207456872389198
+    second: 24_Additional_Houses_48x48_147
+  - first:
+      213: 7385817472233829210
+    second: 24_Additional_Houses_48x48_148
+  - first:
+      213: -5682584951930232332
+    second: 24_Additional_Houses_48x48_149
+  - first:
+      213: -2758515451301538730
+    second: 24_Additional_Houses_48x48_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14015
+        width: 848
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990d0d34549b3020800000000000000
+      internalID: 2322613122362050969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14543
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3216344834b109020800000000000000
+      internalID: 2346405382655795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 14591
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e020432ddf2b58f80800000000000000
+      internalID: -8104875151160245746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 14543
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda0512babab8fd0800000000000000
+      internalID: -2338586830002147918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 14591
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec216a9cea397fd0800000000000000
+      internalID: -2343777343192879896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14495
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a86b8edbe31ad0800000000000000
+      internalID: -2732581207829601156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 14495
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d17ecd512d84da30800000000000000
+      internalID: 4239168323709727188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 14495
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7d25cd499c9e500800000000000000
+      internalID: 426093280951982007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 14495
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b10694dbe1bfc80800000000000000
+      internalID: -8287996890916578422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14303
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8a020f8bff316a0800000000000000
+      internalID: -6479554269088274271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 14351
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a0d86c41faab10800000000000000
+      internalID: 1993671095543178141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 14303
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f43511e3eca5a5c0800000000000000
+      internalID: -4204764582346672905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 14351
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161fb8555fce59890800000000000000
+      internalID: -7451789469968240287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a94bb64a409200d0800000000000000
+      internalID: -3458042915178460762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 14255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec74923414a1f1c0800000000000000
+      internalID: -4471612548347298582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 14255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a33f8ca424f0d50800000000000000
+      internalID: 6705651259144354399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 14255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774e6dcb65c69680800000000000000
+      internalID: -8748588159321880711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14063
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcc9d072ad9c2e30800000000000000
+      internalID: 4480129050330385627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 14111
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34787720131619460800000000000000
+      internalID: 7246680138538518339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 14063
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eac8cc6726448e90800000000000000
+      internalID: -7024412383648363808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 14111
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8b64bbc2b27960800000000000000
+      internalID: 7598332109302501308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14015
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc71eb060d125980800000000000000
+      internalID: -8551740830616814346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 14015
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07d0629d6f6df530800000000000000
+      internalID: 3890388169515915018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 14015
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89e87ac7b9c1840800000000000000
+      internalID: 5196199029768100024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 14015
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f961b79eb3090670800000000000000
+      internalID: 8505333488389548528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 13247
+        width: 848
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfb0e600d46fbc20800000000000000
+      internalID: 3224406702851932106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13409
+        width: 515
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415e06ac387adb270800000000000000
+      internalID: 8267948675400000788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 13283
+        width: 506
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74ca92d37525300800000000000000
+      internalID: 239349650407835618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12485
+        width: 545
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b20909da13d4e820800000000000000
+      internalID: 2946712168471003832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 12500
+        width: 545
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4883878e3f3880800000000000000
+      internalID: -8629109609270326352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 12575
+        width: 161
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6e7e0ec1084f60800000000000000
+      internalID: 8018661121051225691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 12647
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7a72d8822e386e0800000000000000
+      internalID: -1836375559242274875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 12623
+        width: 122
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6016b3b016906a0800000000000000
+      internalID: -6482543487754369311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 12623
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5197eae1adcf756b0800000000000000
+      internalID: -5307495622085019371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 12539
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f5f2c9cf2e5e1c0800000000000000
+      internalID: -4474921080142733428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 12527
+        width: 122
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00689e7b7df545920800000000000000
+      internalID: 2978110633706882560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 12527
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474efb659f2738b30800000000000000
+      internalID: 4288397685414683764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12482
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986a10a43bd4a9fb0800000000000000
+      internalID: -4640311033615767927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 12482
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67324789c1258f10800000000000000
+      internalID: 2271258736519690092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 12338
+        width: 425
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23000d0613160990800000000000000
+      internalID: -7420222350618000597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11588
+        width: 548
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759330ba2d26a2d60800000000000000
+      internalID: 7866208356107762007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 11636
+        width: 548
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccddc41dd36043ab0800000000000000
+      internalID: -5029388021291754036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 11636
+        width: 332
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d9a6809ac5985d0800000000000000
+      internalID: -3059812590761108168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 10871
+        width: 548
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68d5f65331883750800000000000000
+      internalID: 6284915337497794666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 10871
+        width: 548
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27c7767a28b23310800000000000000
+      internalID: 1383370528071862059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 11333
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27be81a540439b40800000000000000
+      internalID: 5445767042228467500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 11351
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de7414edf69ab3d0800000000000000
+      internalID: -3190071368841134383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 11240
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4f52629bb9f04a0800000000000000
+      internalID: -6624905307327433541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 11240
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730eaca3bf8a8da0800000000000000
+      internalID: -5941778756502944912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 11240
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baff46e86eefaa530800000000000000
+      internalID: 3867183496235909035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 10757
+        width: 566
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7134e983d0263bb0800000000000000
+      internalID: -4956738246951030402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10052
+        width: 481
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2425920bbceb5a7f0800000000000000
+      internalID: -601865193140956606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 10052
+        width: 482
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62d1acdfceee8900800000000000000
+      internalID: 688750369561498218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 10055
+        width: 481
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b33dbd2afca590800000000000000
+      internalID: -7661473791709300449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 10034
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f59eba2060dac600800000000000000
+      internalID: 489432620975691254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 9284
+        width: 482
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18331781310650110800000000000000
+      internalID: 1226492108659045249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9317
+        width: 481
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9256350177a29bb0800000000000000
+      internalID: -4930694538156682594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_57
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 9335
+        width: 481
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a443f1a89042db6f0800000000000000
+      internalID: -667337546390358966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9314
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81be1cbf385a85500800000000000000
+      internalID: 385239754423266072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8783
+        width: 482
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc35db8f5177db0800000000000000
+      internalID: -4794339120240145541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_60
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 8783
+        width: 482
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329960f07637098c0800000000000000
+      internalID: -3994565983006713565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_61
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 8939
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a001beb3c86adb0800000000000000
+      internalID: -4780979765432546801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_62
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 8975
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ebbbdaed11ddd50800000000000000
+      internalID: 6763581863475527207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_63
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 8879
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805474354dfcd710800000000000000
+      internalID: 1719527631423295625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_64
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 8879
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0e3802ea159d280800000000000000
+      internalID: -9018086970521034532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_65
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 8879
+        width: 122
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f709de8cf082f0800000000000000
+      internalID: -972499829055294514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_66
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 8795
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd7efbb8e39d1280800000000000000
+      internalID: -9070931446658597430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_67
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 8783
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41989fd6cdd99320800000000000000
+      internalID: 2565325308988789071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_68
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 8783
+        width: 122
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45136a75f2168e0800000000000000
+      internalID: -1702027130672425744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_69
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 8783
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac848019b94529a70800000000000000
+      internalID: 8832214846356867274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8303
+        width: 482
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3db0c1b93218390800000000000000
+      internalID: -7817928329041030227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 8159
+        width: 482
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e6c38dda9f7bb0800000000000000
+      internalID: -4936056390385475519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_72
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 8447
+        width: 50
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d12e4948bb2b160800000000000000
+      internalID: 7039895345641430327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7493
+        width: 1103
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7291359cb756f88a0800000000000000
+      internalID: -6300705771334985433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_74
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 7847
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af833f3f711657320800000000000000
+      internalID: 2555055119107569914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_75
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 7847
+        width: 185
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e35aef76411c30800000000000000
+      internalID: 4328318232085915643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_76
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 7634
+        width: 182
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466633d7a4ca96860800000000000000
+      internalID: 7523734088427202148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_77
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 7634
+        width: 182
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b158ac5d2de3250800000000000000
+      internalID: 5926405975333739287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_78
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 7511
+        width: 173
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382a7bea633224d0800000000000000
+      internalID: -3160907454150465479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_79
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 7511
+        width: 185
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7de8dfef562270800000000000000
+      internalID: 8225367253180055230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7211
+        width: 731
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c207a4cafcbe3f40800000000000000
+      internalID: 5710209162779493056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_81
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 7295
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f22ef56c56d6480800000000000000
+      internalID: -8904348985555013829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_82
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 7271
+        width: 215
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59cfea409f43a1d0800000000000000
+      internalID: -3340739017427662498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_83
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 7391
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d37ee39664a50c0800000000000000
+      internalID: -4586275852682576573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_84
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 7295
+        width: 44
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b05c93b86bdb960800000000000000
+      internalID: 7619446853666671388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_85
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 7439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d5c9c6b85b51ff0800000000000000
+      internalID: -65947009099735783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_86
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 7391
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a710a7b3cd1300800000000000000
+      internalID: 224550749870729299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_87
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 7391
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fcebb222f97e40800000000000000
+      internalID: 5654817038136047658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_88
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 7295
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79bfc5f0acc1ec70800000000000000
+      internalID: 8998698522153826684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_89
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 7343
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4a9f6f2acd28e40800000000000000
+      internalID: 5657326674417132737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_90
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 7295
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c6a009d2cafbb0800000000000000
+      internalID: -4901391007164742796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_91
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 7295
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb293c4523f178210800000000000000
+      internalID: 1335070115569570491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_92
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 7202
+        width: 146
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4bc4b8213f3d40800000000000000
+      internalID: 5566221715354898174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_93
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 7199
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b265cb067accad130800000000000000
+      internalID: 3592408672035952171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_94
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 7199
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8482cf5ff38933d60800000000000000
+      internalID: 7868800374423693384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_95
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 7199
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a49c7a81a403b440800000000000000
+      internalID: 4950305507269973157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_96
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6005
+        width: 914
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46034b69da6e7380800000000000000
+      internalID: -8971615925635447221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_97
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 6119
+        width: 146
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fee9f8819fcba20800000000000000
+      internalID: 3079610129098665853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_98
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 6005
+        width: 284
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ee9bf65becd1790800000000000000
+      internalID: -7557657320998965723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_99
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4805
+        width: 770
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f92d081e33537100800000000000000
+      internalID: 104518742516247026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_100
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 4805
+        width: 419
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83cfc6d81b316480800000000000000
+      internalID: -8907773610092936309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3743
+        width: 850
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c95fdaef77a4de0800000000000000
+      internalID: -1348133202720089014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_102
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3743
+        width: 578
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77568a71bb85f0010800000000000000
+      internalID: 1157241189836547447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2927
+        width: 850
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc231a5f01fe8d250800000000000000
+      internalID: 5969784162199089867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_104
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2927
+        width: 275
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5befa27e3e1b55ef0800000000000000
+      internalID: -119994222661402955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1967
+        width: 745
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c291ef60a273c40800000000000000
+      internalID: 5491904480122842214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_106
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1871
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85edb9079ed4dbf80800000000000000
+      internalID: -8089223690675560872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_107
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1967
+        width: 769
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd688e095a540c510800000000000000
+      internalID: 1567329247728010975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1514
+        width: 616
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece089c0ad7c84b0800000000000000
+      internalID: -5436832520614122271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_109
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1700
+        width: 107
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687794a6863265580800000000000000
+      internalID: -8838838287301249146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_110
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1583
+        width: 191
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a104440e4a5f9b0800000000000000
+      internalID: -5046946524274091380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_111
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1583
+        width: 131
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b43916526b1860c0800000000000000
+      internalID: -4582382511684242248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_112
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1823
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa23fc2e758ec670800000000000000
+      internalID: 8560926718644398846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_113
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1823
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c43492ca1b04eb0800000000000000
+      internalID: -4737591455008994244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_114
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1796
+        width: 107
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc57f81ed055e40800000000000000
+      internalID: 5644432970404449270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_115
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1679
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6654de63f6def30800000000000000
+      internalID: 4606460275569551028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_116
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1682
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9357892231555a0800000000000000
+      internalID: -6533294645123401311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_117
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1610
+        width: 107
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db6fc4eee939c640800000000000000
+      internalID: 5100671751177595856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_118
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1544
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de20810cab647fc0800000000000000
+      internalID: -3498052624056308016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_119
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1490
+        width: 191
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed81f444568589c0800000000000000
+      internalID: -3925583803691463194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_120
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1343
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c551a7902ef95c0800000000000000
+      internalID: -4206394996609950572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 890
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1d4a86bab55d80800000000000000
+      internalID: -8262492648174183576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_122
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1055
+        width: 47
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2261819cb106d580800000000000000
+      internalID: -8802846512242400722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_123
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1055
+        width: 236
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05f4345d8596910800000000000000
+      internalID: 1831092396483367145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_124
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1055
+        width: 47
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ce398b90084670800000000000000
+      internalID: 8523062962821186438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_125
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1199
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87123eb4ae5b29440800000000000000
+      internalID: 4941211759079006584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_126
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1199
+        width: 41
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b50b09a54a8880800000000000000
+      internalID: -8607991145428569056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_127
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1055
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131bae4b5b9d7afb0800000000000000
+      internalID: -4636497916907048655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_128
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1055
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd4df293c78c29e0800000000000000
+      internalID: -1644790489842627133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_129
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 959
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5610458a62882a0800000000000000
+      internalID: -6735090738326837800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_130
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 959
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf10f836f3fdefe0800000000000000
+      internalID: -1158001290321584212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_131
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 863
+        width: 233
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82391ce996c9351c0800000000000000
+      internalID: -4516094023873490136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_132
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 767
+        width: 233
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a09a7f896188e10800000000000000
+      internalID: 2200033264216377930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_133
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 671
+        width: 35
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e8e93117206780800000000000000
+      internalID: -8691904325885565029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_134
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 671
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830d26998533f700800000000000000
+      internalID: 572860442652509058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_135
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 671
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c464cdf7eeeefa0800000000000000
+      internalID: -5769411839691174797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_136
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 671
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff326305356c3720800000000000000
+      internalID: 2827245944446271481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_137
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 671
+        width: 35
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d116ed738be6d0800000000000000
+      internalID: -2960127753311890434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_138
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 626
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1bc25ee7e7de150800000000000000
+      internalID: 5903513770028478888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_139
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 479
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07efc5e438f033390800000000000000
+      internalID: -7839905469692051856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_140
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 479
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f540c4ed828acf0800000000000000
+      internalID: -240897644841115829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_141
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 479
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15de85a5302ebe0800000000000000
+      internalID: -1449592443485990483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_142
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 479
+        width: 176
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4536cf9a90bc8390800000000000000
+      internalID: -7814677075242633908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_143
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 434
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e3fba9f2a410e0800000000000000
+      internalID: -2300034316464037005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_144
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 287
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5786fdd7d829ef980800000000000000
+      internalID: -8503197910029080459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_145
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 287
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8aaec2d14a0b470800000000000000
+      internalID: 8408400949515299014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_146
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 287
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f240c4ece5d500800000000000000
+      internalID: 420502607451320469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_147
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 287
+        width: 176
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5ab62b9716629a0800000000000000
+      internalID: -6258207456872389198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_148
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 290
+        width: 140
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fe58fbd1bf7660800000000000000
+      internalID: 7385817472233829210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_149
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 233
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e73608176321b0800000000000000
+      internalID: -5682584951930232332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Additional_Houses_48x48_150
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 98
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654deb1ffc8c7b9d0800000000000000
+      internalID: -2758515451301538730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      24_Additional_Houses_48x48_0: 2322613122362050969
+      24_Additional_Houses_48x48_1: 2346405382655795491
+      24_Additional_Houses_48x48_10: 1993671095543178141
+      24_Additional_Houses_48x48_100: -8907773610092936309
+      24_Additional_Houses_48x48_101: -1348133202720089014
+      24_Additional_Houses_48x48_102: 1157241189836547447
+      24_Additional_Houses_48x48_103: 5969784162199089867
+      24_Additional_Houses_48x48_104: -119994222661402955
+      24_Additional_Houses_48x48_105: 5491904480122842214
+      24_Additional_Houses_48x48_106: -8089223690675560872
+      24_Additional_Houses_48x48_107: 1567329247728010975
+      24_Additional_Houses_48x48_108: -5436832520614122271
+      24_Additional_Houses_48x48_109: -8838838287301249146
+      24_Additional_Houses_48x48_11: -4204764582346672905
+      24_Additional_Houses_48x48_110: -5046946524274091380
+      24_Additional_Houses_48x48_111: -4582382511684242248
+      24_Additional_Houses_48x48_112: 8560926718644398846
+      24_Additional_Houses_48x48_113: -4737591455008994244
+      24_Additional_Houses_48x48_114: 5644432970404449270
+      24_Additional_Houses_48x48_115: 4606460275569551028
+      24_Additional_Houses_48x48_116: -6533294645123401311
+      24_Additional_Houses_48x48_117: 5100671751177595856
+      24_Additional_Houses_48x48_118: -3498052624056308016
+      24_Additional_Houses_48x48_119: -3925583803691463194
+      24_Additional_Houses_48x48_12: -7451789469968240287
+      24_Additional_Houses_48x48_120: -4206394996609950572
+      24_Additional_Houses_48x48_121: -8262492648174183576
+      24_Additional_Houses_48x48_122: -8802846512242400722
+      24_Additional_Houses_48x48_123: 1831092396483367145
+      24_Additional_Houses_48x48_124: 8523062962821186438
+      24_Additional_Houses_48x48_125: 4941211759079006584
+      24_Additional_Houses_48x48_126: -8607991145428569056
+      24_Additional_Houses_48x48_127: -4636497916907048655
+      24_Additional_Houses_48x48_128: -1644790489842627133
+      24_Additional_Houses_48x48_129: -6735090738326837800
+      24_Additional_Houses_48x48_13: -3458042915178460762
+      24_Additional_Houses_48x48_130: -1158001290321584212
+      24_Additional_Houses_48x48_131: -4516094023873490136
+      24_Additional_Houses_48x48_132: 2200033264216377930
+      24_Additional_Houses_48x48_133: -8691904325885565029
+      24_Additional_Houses_48x48_134: 572860442652509058
+      24_Additional_Houses_48x48_135: -5769411839691174797
+      24_Additional_Houses_48x48_136: 2827245944446271481
+      24_Additional_Houses_48x48_137: -2960127753311890434
+      24_Additional_Houses_48x48_138: 5903513770028478888
+      24_Additional_Houses_48x48_139: -7839905469692051856
+      24_Additional_Houses_48x48_14: -4471612548347298582
+      24_Additional_Houses_48x48_140: -240897644841115829
+      24_Additional_Houses_48x48_141: -1449592443485990483
+      24_Additional_Houses_48x48_142: -7814677075242633908
+      24_Additional_Houses_48x48_143: -2300034316464037005
+      24_Additional_Houses_48x48_144: -8503197910029080459
+      24_Additional_Houses_48x48_145: 8408400949515299014
+      24_Additional_Houses_48x48_146: 420502607451320469
+      24_Additional_Houses_48x48_147: -6258207456872389198
+      24_Additional_Houses_48x48_148: 7385817472233829210
+      24_Additional_Houses_48x48_149: -5682584951930232332
+      24_Additional_Houses_48x48_15: 6705651259144354399
+      24_Additional_Houses_48x48_150: -2758515451301538730
+      24_Additional_Houses_48x48_16: -8748588159321880711
+      24_Additional_Houses_48x48_17: 4480129050330385627
+      24_Additional_Houses_48x48_18: 7246680138538518339
+      24_Additional_Houses_48x48_19: -7024412383648363808
+      24_Additional_Houses_48x48_2: -8104875151160245746
+      24_Additional_Houses_48x48_20: 7598332109302501308
+      24_Additional_Houses_48x48_21: -8551740830616814346
+      24_Additional_Houses_48x48_22: 3890388169515915018
+      24_Additional_Houses_48x48_23: 5196199029768100024
+      24_Additional_Houses_48x48_24: 8505333488389548528
+      24_Additional_Houses_48x48_25: 3224406702851932106
+      24_Additional_Houses_48x48_26: 8267948675400000788
+      24_Additional_Houses_48x48_27: 239349650407835618
+      24_Additional_Houses_48x48_28: 2946712168471003832
+      24_Additional_Houses_48x48_29: -8629109609270326352
+      24_Additional_Houses_48x48_3: -2338586830002147918
+      24_Additional_Houses_48x48_30: 8018661121051225691
+      24_Additional_Houses_48x48_31: -1836375559242274875
+      24_Additional_Houses_48x48_32: -6482543487754369311
+      24_Additional_Houses_48x48_33: -5307495622085019371
+      24_Additional_Houses_48x48_34: -4474921080142733428
+      24_Additional_Houses_48x48_35: 2978110633706882560
+      24_Additional_Houses_48x48_36: 4288397685414683764
+      24_Additional_Houses_48x48_37: -4640311033615767927
+      24_Additional_Houses_48x48_38: 2271258736519690092
+      24_Additional_Houses_48x48_39: -7420222350618000597
+      24_Additional_Houses_48x48_4: -2343777343192879896
+      24_Additional_Houses_48x48_40: 7866208356107762007
+      24_Additional_Houses_48x48_41: -5029388021291754036
+      24_Additional_Houses_48x48_42: -3059812590761108168
+      24_Additional_Houses_48x48_43: 6284915337497794666
+      24_Additional_Houses_48x48_44: 1383370528071862059
+      24_Additional_Houses_48x48_45: 5445767042228467500
+      24_Additional_Houses_48x48_46: -3190071368841134383
+      24_Additional_Houses_48x48_47: -6624905307327433541
+      24_Additional_Houses_48x48_48: -5941778756502944912
+      24_Additional_Houses_48x48_49: 3867183496235909035
+      24_Additional_Houses_48x48_5: -2732581207829601156
+      24_Additional_Houses_48x48_50: -4956738246951030402
+      24_Additional_Houses_48x48_51: -601865193140956606
+      24_Additional_Houses_48x48_52: 688750369561498218
+      24_Additional_Houses_48x48_53: -7661473791709300449
+      24_Additional_Houses_48x48_54: 489432620975691254
+      24_Additional_Houses_48x48_55: 1226492108659045249
+      24_Additional_Houses_48x48_56: -4930694538156682594
+      24_Additional_Houses_48x48_57: -667337546390358966
+      24_Additional_Houses_48x48_58: 385239754423266072
+      24_Additional_Houses_48x48_59: -4794339120240145541
+      24_Additional_Houses_48x48_6: 4239168323709727188
+      24_Additional_Houses_48x48_60: -3994565983006713565
+      24_Additional_Houses_48x48_61: -4780979765432546801
+      24_Additional_Houses_48x48_62: 6763581863475527207
+      24_Additional_Houses_48x48_63: 1719527631423295625
+      24_Additional_Houses_48x48_64: -9018086970521034532
+      24_Additional_Houses_48x48_65: -972499829055294514
+      24_Additional_Houses_48x48_66: -9070931446658597430
+      24_Additional_Houses_48x48_67: 2565325308988789071
+      24_Additional_Houses_48x48_68: -1702027130672425744
+      24_Additional_Houses_48x48_69: 8832214846356867274
+      24_Additional_Houses_48x48_7: 426093280951982007
+      24_Additional_Houses_48x48_70: -7817928329041030227
+      24_Additional_Houses_48x48_71: -4936056390385475519
+      24_Additional_Houses_48x48_72: 7039895345641430327
+      24_Additional_Houses_48x48_73: -6300705771334985433
+      24_Additional_Houses_48x48_74: 2555055119107569914
+      24_Additional_Houses_48x48_75: 4328318232085915643
+      24_Additional_Houses_48x48_76: 7523734088427202148
+      24_Additional_Houses_48x48_77: 5926405975333739287
+      24_Additional_Houses_48x48_78: -3160907454150465479
+      24_Additional_Houses_48x48_79: 8225367253180055230
+      24_Additional_Houses_48x48_8: -8287996890916578422
+      24_Additional_Houses_48x48_80: 5710209162779493056
+      24_Additional_Houses_48x48_81: -8904348985555013829
+      24_Additional_Houses_48x48_82: -3340739017427662498
+      24_Additional_Houses_48x48_83: -4586275852682576573
+      24_Additional_Houses_48x48_84: 7619446853666671388
+      24_Additional_Houses_48x48_85: -65947009099735783
+      24_Additional_Houses_48x48_86: 224550749870729299
+      24_Additional_Houses_48x48_87: 5654817038136047658
+      24_Additional_Houses_48x48_88: 8998698522153826684
+      24_Additional_Houses_48x48_89: 5657326674417132737
+      24_Additional_Houses_48x48_9: -6479554269088274271
+      24_Additional_Houses_48x48_90: -4901391007164742796
+      24_Additional_Houses_48x48_91: 1335070115569570491
+      24_Additional_Houses_48x48_92: 5566221715354898174
+      24_Additional_Houses_48x48_93: 3592408672035952171
+      24_Additional_Houses_48x48_94: 7868800374423693384
+      24_Additional_Houses_48x48_95: 4950305507269973157
+      24_Additional_Houses_48x48_96: -8971615925635447221
+      24_Additional_Houses_48x48_97: 3079610129098665853
+      24_Additional_Houses_48x48_98: -7557657320998965723
+      24_Additional_Houses_48x48_99: 104518742516247026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
