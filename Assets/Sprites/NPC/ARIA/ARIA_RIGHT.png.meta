@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: 95f4fc8955cdd4e469ebdd9b5c08d73b
+guid: 368c0ad0358ee754da245cab56939b94
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6971830148288714689
-    second: GLOBOS DIALOGOS_0
+      213: 3961743810502866728
+    second: ARIA_RIGHT_0
   - first:
-      213: -8026190039533838484
-    second: GLOBOS DIALOGOS_1
+      213: -3726660694527450330
+    second: ARIA_RIGHT_1
   - first:
-      213: 7372332112951096496
-    second: GLOBOS DIALOGOS_2
+      213: 4587583423402167652
+    second: ARIA_RIGHT_2
   - first:
-      213: -8706971537215693366
-    second: GLOBOS DIALOGOS_3
-  - first:
-      213: -5243743481526398974
-    second: GLOBOS DIALOGOS_4
-  - first:
-      213: -7947949208864556328
-    second: GLOBOS DIALOGOS_5
-  - first:
-      213: 2288229643707825762
-    second: GLOBOS DIALOGOS_6
-  - first:
-      213: 5544719349189867600
-    second: GLOBOS DIALOGOS_7
+      213: -5903510086687653715
+    second: ARIA_RIGHT_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,145 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_0
+      name: ARIA_RIGHT_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 159
-        width: 522
-        height: 252
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3864e02b651f3f90800000000000000
-      internalID: -6971830148288714689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_1
-      rect:
-        serializedVersion: 2
-        x: 629
-        y: 29
-        width: 522
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6f9ec10fae3d9090800000000000000
-      internalID: -8026190039533838484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_2
-      rect:
-        serializedVersion: 2
-        x: 1229
-        y: 219
-        width: 522
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b4b7a61ff8cf4660800000000000000
-      internalID: 7372332112951096496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_3
-      rect:
-        serializedVersion: 2
-        x: 1829
-        y: 89
-        width: 522
-        height: 322
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: acd52d6b48f9a2780800000000000000
-      internalID: -8706971537215693366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_4
-      rect:
-        serializedVersion: 2
-        x: 1319
-        y: 139
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 200595a061b7a37b0800000000000000
-      internalID: -5243743481526398974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_5
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 169
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8daf7c8fd4633b190800000000000000
-      internalID: -7947949208864556328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_6
-      rect:
-        serializedVersion: 2
-        x: 1919
+        x: 59
         y: 9
-        width: 32
-        height: 32
+        width: 232
+        height: 472
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26e39b5ccbc61cf10800000000000000
-      internalID: 2288229643707825762
+      spriteID: 82730246101faf630800000000000000
+      internalID: 3961743810502866728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_7
+      name: ARIA_RIGHT_1
       rect:
         serializedVersion: 2
-        x: 1959
-        y: 39
-        width: 42
-        height: 42
+        x: 409
+        y: 9
+        width: 232
+        height: 462
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +159,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05872b3fedcc2fc40800000000000000
-      internalID: 5544719349189867600
+      spriteID: 623e740d7dd384cc0800000000000000
+      internalID: -3726660694527450330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIA_RIGHT_2
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 9
+        width: 232
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4b5941de5aaf30800000000000000
+      internalID: 4587583423402167652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIA_RIGHT_3
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 9
+        width: 232
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00c03bad4821ea0800000000000000
+      internalID: -5903510086687653715
       vertices: []
       indices: 
       edges: []
@@ -323,14 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GLOBOS DIALOGOS_0: -6971830148288714689
-      GLOBOS DIALOGOS_1: -8026190039533838484
-      GLOBOS DIALOGOS_2: 7372332112951096496
-      GLOBOS DIALOGOS_3: -8706971537215693366
-      GLOBOS DIALOGOS_4: -5243743481526398974
-      GLOBOS DIALOGOS_5: -7947949208864556328
-      GLOBOS DIALOGOS_6: 2288229643707825762
-      GLOBOS DIALOGOS_7: 5544719349189867600
+      ARIA_RIGHT_0: 3961743810502866728
+      ARIA_RIGHT_1: -3726660694527450330
+      ARIA_RIGHT_2: 4587583423402167652
+      ARIA_RIGHT_3: -5903510086687653715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

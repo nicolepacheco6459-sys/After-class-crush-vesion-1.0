@@ -1,31 +1,22 @@
 fileFormatVersion: 2
-guid: 95f4fc8955cdd4e469ebdd9b5c08d73b
+guid: 8e8e823f1477a904cbcdad3d91c5d8a4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6971830148288714689
-    second: GLOBOS DIALOGOS_0
+      213: -6063030548662273601
+    second: SKYLER_DOWN_0
   - first:
-      213: -8026190039533838484
-    second: GLOBOS DIALOGOS_1
+      213: 2970382449297610296
+    second: SKYLER_DOWN_1
   - first:
-      213: 7372332112951096496
-    second: GLOBOS DIALOGOS_2
+      213: -4662033681391690249
+    second: SKYLER_DOWN_2
   - first:
-      213: -8706971537215693366
-    second: GLOBOS DIALOGOS_3
+      213: 8171957489626017911
+    second: SKYLER_DOWN_3
   - first:
-      213: -5243743481526398974
-    second: GLOBOS DIALOGOS_4
-  - first:
-      213: -7947949208864556328
-    second: GLOBOS DIALOGOS_5
-  - first:
-      213: 2288229643707825762
-    second: GLOBOS DIALOGOS_6
-  - first:
-      213: 5544719349189867600
-    second: GLOBOS DIALOGOS_7
+      213: -5394777160231358317
+    second: SKYLER_DOWN_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_0
+      name: SKYLER_DOWN_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 159
-        width: 522
-        height: 252
+        x: 49
+        y: 19
+        width: 252
+        height: 492
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,86 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3864e02b651f3f90800000000000000
-      internalID: -6971830148288714689
+      spriteID: fb9b4acd6d9cbdba0800000000000000
+      internalID: -6063030548662273601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_1
+      name: SKYLER_DOWN_1
       rect:
         serializedVersion: 2
-        x: 629
-        y: 29
-        width: 522
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6f9ec10fae3d9090800000000000000
-      internalID: -8026190039533838484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_2
-      rect:
-        serializedVersion: 2
-        x: 1229
-        y: 219
-        width: 522
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b4b7a61ff8cf4660800000000000000
-      internalID: 7372332112951096496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_3
-      rect:
-        serializedVersion: 2
-        x: 1829
-        y: 89
-        width: 522
-        height: 322
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: acd52d6b48f9a2780800000000000000
-      internalID: -8706971537215693366
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GLOBOS DIALOGOS_4
-      rect:
-        serializedVersion: 2
-        x: 1319
-        y: 139
+        x: 489
+        y: 499
         width: 32
-        height: 32
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 200595a061b7a37b0800000000000000
-      internalID: -5243743481526398974
+      spriteID: 8365071991be83920800000000000000
+      internalID: 2970382449297610296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_5
+      name: SKYLER_DOWN_2
       rect:
         serializedVersion: 2
-        x: 1359
-        y: 169
-        width: 42
-        height: 42
+        x: 749
+        y: 19
+        width: 252
+        height: 492
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8daf7c8fd4633b190800000000000000
-      internalID: -7947949208864556328
+      spriteID: 7fdddb931112d4fb0800000000000000
+      internalID: -4662033681391690249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_6
+      name: SKYLER_DOWN_3
       rect:
         serializedVersion: 2
-        x: 1919
-        y: 9
-        width: 32
-        height: 32
+        x: 1109
+        y: 49
+        width: 232
+        height: 452
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26e39b5ccbc61cf10800000000000000
-      internalID: 2288229643707825762
+      spriteID: 77070c83a00a86170800000000000000
+      internalID: 8171957489626017911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GLOBOS DIALOGOS_7
+      name: SKYLER_DOWN_4
       rect:
         serializedVersion: 2
-        x: 1959
-        y: 39
-        width: 42
-        height: 42
+        x: 409
+        y: 49
+        width: 232
+        height: 442
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05872b3fedcc2fc40800000000000000
-      internalID: 5544719349189867600
+      spriteID: 390f40a61c6e125b0800000000000000
+      internalID: -5394777160231358317
       vertices: []
       indices: 
       edges: []
@@ -323,14 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GLOBOS DIALOGOS_0: -6971830148288714689
-      GLOBOS DIALOGOS_1: -8026190039533838484
-      GLOBOS DIALOGOS_2: 7372332112951096496
-      GLOBOS DIALOGOS_3: -8706971537215693366
-      GLOBOS DIALOGOS_4: -5243743481526398974
-      GLOBOS DIALOGOS_5: -7947949208864556328
-      GLOBOS DIALOGOS_6: 2288229643707825762
-      GLOBOS DIALOGOS_7: 5544719349189867600
+      SKYLER_DOWN_0: -6063030548662273601
+      SKYLER_DOWN_1: 2970382449297610296
+      SKYLER_DOWN_2: -4662033681391690249
+      SKYLER_DOWN_3: 8171957489626017911
+      SKYLER_DOWN_4: -5394777160231358317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
