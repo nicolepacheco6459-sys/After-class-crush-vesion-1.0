@@ -8,8 +8,7 @@ TagManager:
   - Objeto2
   - Objeto3
   - Afinidad
-  - Objeto
-  - Materia
+  - Dinero
   layers:
   - Default
   - TransparentFX
@@ -47,8 +46,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 848756637
+    locked: 0
+  - name: Walkinfront
+    uniqueID: 1842702963
+    locked: 0
+  - name: Collision
+    uniqueID: 584484061
+    locked: 0
   - name: Player
     uniqueID: 4006342165
+    locked: 0
+  - name: Walkbehind
+    uniqueID: 575449779
+    locked: 0
+  - name: Decor
+    uniqueID: 58935861
     locked: 0
   m_RenderingLayers:
   - Default
